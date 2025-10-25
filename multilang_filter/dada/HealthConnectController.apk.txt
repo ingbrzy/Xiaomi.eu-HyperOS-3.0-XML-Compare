@@ -1,0 +1,7 @@
+Removed: [az-rAZ] strings.xml: string/historic_access_description (wrong format)
+Removed: [zh-rCN-v36] strings.xml: string/request_fitness_permissions_data_access_type_read (wrong format)
+Removed: [zh-rCN-v36] strings.xml: string/request_fitness_permissions_data_access_type_read_write (wrong format)
+Removed: [zh-rCN-v36] strings.xml: string/request_fitness_permissions_data_access_type_write (wrong format)
+Removed: [zh-rTW-v36] strings.xml: string/request_fitness_permissions_data_access_type_read (wrong format)
+Removed: [zh-rTW-v36] strings.xml: string/request_fitness_permissions_data_access_type_read_write (wrong format)
+Removed: [zh-rTW-v36] strings.xml: string/request_fitness_permissions_data_access_type_write (wrong format)
