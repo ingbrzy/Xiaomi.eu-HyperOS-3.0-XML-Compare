@@ -1,0 +1,8 @@
+Removed: [be] arrays.xml: array/privacy_dialog_finddevice_runtime_perm_desc_new (wrong item count)
+Removed: [pl] arrays.xml: array/privacy_dialog_finddevice_runtime_perm_desc_new (wrong item count)
+Removed: [zh-rCN] strings.xml: string/micloud_all_sub_resend_common_sms_with_charge_hint (wrong format)
+Removed: [zh-rCN] strings.xml: string/micloud_all_sub_resend_domestic_sms_with_charge_hint (wrong format)
+Removed: [zh-rCN] strings.xml: string/micloud_all_sub_resend_inter_sms_with_charge_hint (wrong format)
+Removed: [zh-rCN] strings.xml: string/micloud_find_device_common_sms_alert_with_charge_hint (wrong format)
+Removed: [zh-rCN] strings.xml: string/micloud_find_device_domestic_sms_alert_with_charge_hint (wrong format)
+Removed: [zh-rCN] strings.xml: string/micloud_find_device_inter_sms_alert_with_charge_hint (wrong format)
