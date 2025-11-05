@@ -26,6 +26,14 @@
         <item quantity="one">%d min ago</item>
         <item quantity="other">%d mins ago</item>
     </plurals>
+    <plurals name="ai_answers_delete_history_dialog_content">
+        <item quantity="one">Delete %d selected history record now?</item>
+        <item quantity="other">Delete %d selected history records now?</item>
+    </plurals>
+    <plurals name="ai_answers_history_selected_dialogue">
+        <item quantity="one">Selected %d item</item>
+        <item quantity="other">Selected %d items</item>
+    </plurals>
     <plurals name="ai_answers_result_reference_title">
         <item quantity="one">%d web page</item>
         <item quantity="other">%d web pages</item>
@@ -49,6 +57,26 @@
     <plurals name="ai_search_toast_input_too_long">
         <item quantity="one">Enter up to %d character</item>
         <item quantity="other">Enter up to %d characters</item>
+    </plurals>
+    <plurals name="booking_book_nights">
+        <item quantity="one">%d night</item>
+        <item quantity="other">%d nights</item>
+    </plurals>
+    <plurals name="booking_book_number_of_adults">
+        <item quantity="one">%d adult</item>
+        <item quantity="other">%d adults</item>
+    </plurals>
+    <plurals name="booking_hotel_reviews">
+        <item quantity="one">%d review</item>
+        <item quantity="other">%d reviews</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Fast forward %d second</item>
+        <item quantity="other">Fast forward %d seconds</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Rewind %d second</item>
+        <item quantity="other">Rewind %d seconds</item>
     </plurals>
     <plurals name="hot_news_create_time_days_ago">
         <item quantity="one">%1$d day ago</item>
@@ -83,6 +111,10 @@
         <item quantity="one">%d item selected</item>
         <item quantity="other">%d items selected</item>
     </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="one">Selected %1$d item</item>
+        <item quantity="other">Selected %1$d items</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="one">%d new notification</item>
         <item quantity="other">%d new notifications</item>
@@ -94,5 +126,9 @@
     <plurals name="second">
         <item quantity="one">%ds</item>
         <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="talkback_prompt_setting_revoke_positive_countdown">
+        <item quantity="one">You can withdraw consent in %1$d second.</item>
+        <item quantity="other">You can withdraw consent in %1$d seconds.</item>
     </plurals>
 </resources>
