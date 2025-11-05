@@ -3,5 +3,6 @@ Removed: [bo-rCN] plurals.xml: plurals/dialog_content_delete_image_from_all_devi
 Removed: [it] plurals.xml: plurals/wechat_empty_files (wrong item format)
 Removed: [ug-rCN] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
 Removed: [zh-rCN] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
+Removed: [zh-rCN] plurals.xml: plurals/uninstall_apps (wrong item format)
 Removed: [zh-rHK] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
 Removed: [zh-rTW] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
