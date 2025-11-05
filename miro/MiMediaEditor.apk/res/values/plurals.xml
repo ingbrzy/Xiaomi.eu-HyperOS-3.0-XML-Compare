@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bfw">
+        <item quantity="one">Filtered out %d unsupported item</item>
+        <item quantity="other">Filtered out %d unsupported items</item>
+    </plurals>
+    <plurals name="bfx">
+        <item quantity="one">Filtered out %d unsupported item</item>
+        <item quantity="other">Filtered out %d unsupported items</item>
+    </plurals>
+    <plurals name="bfy">
+        <item quantity="one">You can add up to %d sticker</item>
+        <item quantity="other">You can add up to %d stickers</item>
+    </plurals>
+    <plurals name="bfz">
+        <item quantity="one">Add up to %d shape</item>
+        <item quantity="other">Add up to %d shapes</item>
+    </plurals>
+    <plurals name="bg0">
+        <item quantity="one">You can add up to %d signature</item>
+        <item quantity="other">You can add up to %d signatures</item>
+    </plurals>
+    <plurals name="bg1">
+        <item quantity="one">You can add up to %d text box</item>
+        <item quantity="other">You can add up to %d text boxes</item>
+    </plurals>
+    <plurals name="bg2">
+        <item quantity="one">Distortion: %d</item>
+        <item quantity="other">Distortion: %d</item>
+    </plurals>
+    <plurals name="bg3">
+        <item quantity="one">Horizontal: %d degree</item>
+        <item quantity="other">Horizontal: %d degrees</item>
+    </plurals>
+    <plurals name="bg4">
+        <item quantity="one">Rotate %d degree</item>
+        <item quantity="other">Rotate %d degrees</item>
+    </plurals>
+    <plurals name="bg5">
+        <item quantity="one">Vertical: %d degree</item>
+        <item quantity="other">Vertical: %d degrees</item>
+    </plurals>
+    <plurals name="bg6">
+        <item quantity="one">%2$d installation package (%3$s) from %1$s</item>
+        <item quantity="other">%2$d installation packages (%3$s) from %1$s</item>
+    </plurals>
+    <plurals name="bg7">
+        <item quantity="one">Received %2$d installation package (%3$s) from %1$s</item>
+        <item quantity="other">Received %2$d installation packages (%3$s) from %1$s</item>
+    </plurals>
+    <plurals name="bg8">
+        <item quantity="one">Receiving %2$d installation package (%3$s) from %1$s…</item>
+        <item quantity="other">Receiving %2$d installation packages (%3$s) from %1$s…</item>
+    </plurals>
+    <plurals name="bg9">
+        <item quantity="one">%2$d audio file (%3$s) from %1$s</item>
+        <item quantity="other">%2$d audio files (%3$s) from %1$s</item>
+    </plurals>
+    <plurals name="bg_">
+        <item quantity="one">Received %2$d audio file (%3$s) from %1$s</item>
+        <item quantity="other">Received %2$d audio files (%3$s) from %1$s</item>
+    </plurals>
+    <plurals name="bga">
+        <item quantity="one">Receiving %2$d audio file (%3$s) from %1$s…</item>
+        <item quantity="other">Receiving %2$d audio files (%3$s) from %1$s…</item>
+    </plurals>
+    <plurals name="bgb">
+        <item quantity="one">%2$d %3$s file (%4$s) from %1$s</item>
+        <item quantity="other">%2$d %3$s files (%4$s) from %1$s</item>
+    </plurals>
+    <plurals name="bgc">
+        <item quantity="one">Received %2$d %3$s file (%4$s) from %1$s</item>
+        <item quantity="other">Received %2$d %3$s files (%4$s) from %1$s</item>
+    </plurals>
+    <plurals name="bgd">
+        <item quantity="one">Receiving %2$d %3$s file (%4$s) from %1$s…</item>
+        <item quantity="other">Receiving %2$d %3$s files (%4$s) from %1$s…</item>
+    </plurals>
+    <plurals name="bge">
+        <item quantity="one">%2$d image from %1$s</item>
+        <item quantity="other">%2$d images from %1$s</item>
+    </plurals>
+    <plurals name="bgf">
+        <item quantity="one">Received %2$d image from %1$s</item>
+        <item quantity="other">Received %2$d images from %1$s</item>
+    </plurals>
+    <plurals name="bgg">
+        <item quantity="one">Receiving %2$d image from %1$s…</item>
+        <item quantity="other">Receiving %2$d images from %1$s…</item>
+    </plurals>
+    <plurals name="bgh">
+        <item quantity="one">%2$d image or video from %1$s</item>
+        <item quantity="other">%2$d images and videos from %1$s</item>
+    </plurals>
+    <plurals name="bgi">
+        <item quantity="one">Received %2$d image or video from %1$s</item>
+        <item quantity="other">Received %2$d images and videos from %1$s</item>
+    </plurals>
+    <plurals name="bgj">
+        <item quantity="one">Receiving %2$d image or video from %1$s…</item>
+        <item quantity="other">Receiving %2$d images and videos from %1$s…</item>
+    </plurals>
+    <plurals name="bgk">
+        <item quantity="one">%2$d file from %1$s</item>
+        <item quantity="other">%2$d files from %1$s</item>
+    </plurals>
+    <plurals name="bgl">
+        <item quantity="one">Received %2$d file from %1$s</item>
+        <item quantity="other">Received %2$d files from %1$s</item>
+    </plurals>
+    <plurals name="bgm">
+        <item quantity="one">Receiving %2$d file from %1$s…</item>
+        <item quantity="other">Receiving %2$d files from %1$s…</item>
+    </plurals>
+    <plurals name="bgn">
+        <item quantity="one">%2$d video from %1$s</item>
+        <item quantity="other">%2$d videos from %1$s</item>
+    </plurals>
+    <plurals name="bgo">
+        <item quantity="one">Received %2$d video from %1$s</item>
+        <item quantity="other">Received %2$d videos from %1$s</item>
+    </plurals>
+    <plurals name="bgp">
+        <item quantity="one">Receiving %2$d video from %1$s…</item>
+        <item quantity="other">Receiving %2$d videos from %1$s…</item>
+    </plurals>
+    <plurals name="bgq">
+        <item quantity="one">%2$d archive (%3$s) from %1$s</item>
+        <item quantity="other">%2$d archives (%3$s) from %1$s</item>
+    </plurals>
+    <plurals name="bgr">
+        <item quantity="one">Received %2$d archive (%3$s) from %1$s</item>
+        <item quantity="other">Received %2$d archives (%3$s) from %1$s</item>
+    </plurals>
+    <plurals name="bgs">
+        <item quantity="one">Receiving %2$d archive (%3$s) from %1$s…</item>
+        <item quantity="other">Receiving %2$d archives (%3$s) from %1$s…</item>
+    </plurals>
+    <plurals name="bgt">
+        <item quantity="one">You can add up to %d track</item>
+        <item quantity="other">You can add up to %d tracks</item>
+    </plurals>
+    <plurals name="bgu">
+        <item quantity="one">Original audio %1$d</item>
+        <item quantity="other">Original audio %1$d</item>
+    </plurals>
+    <plurals name="bgv">
+        <item quantity="one">Imported %1$d filter successfully</item>
+        <item quantity="other">Imported %1$d filters successfully</item>
+    </plurals>
+    <plurals name="bgw">
+        <item quantity="one">About %s min remaining. You can keep using other features in the meantime.</item>
+        <item quantity="other">About %s mins remaining. You can keep using other features in the meantime.</item>
+    </plurals>
+    <plurals name="bgx">
+        <item quantity="one">"Duration exceeds %d min now. "</item>
+        <item quantity="other">"Duration exceeds %d mins now. "</item>
+    </plurals>
+    <plurals name="bgy">
+        <item quantity="one">Skipped %d video.</item>
+        <item quantity="other">Skipped %d videos.</item>
+    </plurals>
+    <plurals name="bgz">
+        <item quantity="one">"Couldn't import. Duration exceeds %d min."</item>
+        <item quantity="other">"Couldn't import. Duration exceeds %d mins."</item>
+    </plurals>
+    <plurals name="bh0">
+        <item quantity="one">Rotate %d degree</item>
+        <item quantity="other">Rotate %d degrees</item>
+    </plurals>
+    <plurals name="bh1">
+        <item quantity="one">%d clip</item>
+        <item quantity="other">%d clips</item>
+    </plurals>
+</resources>
