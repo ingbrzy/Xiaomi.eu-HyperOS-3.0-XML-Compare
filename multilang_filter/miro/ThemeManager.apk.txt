@@ -130,7 +130,6 @@ Removed: [nl] strings.xml: string/mtrl_picker_navigate_to_year_description (wron
 Removed: [nl] strings.xml: string/resource_trial_days_hours (wrong format)
 Removed: [nl] strings.xml: string/resource_trial_hours_minutes (wrong format)
 Removed: [pl] strings.xml: string/mtrl_picker_navigate_to_year_description (wrong format)
-Removed: [pt-rBR] strings.xml: string/privacy_phone_logoff_theme_service_detail_content_1 (wrong attributes)
 Removed: [pt-rPT] strings.xml: string/ai_estimated_two_three_minutes (wrong attributes)
 Removed: [pt-rPT] strings.xml: string/mtrl_picker_navigate_to_year_description (wrong format)
 Removed: [pt-rPT] strings.xml: string/privacy_phone_logoff_theme_service_detail_content_1 (wrong attributes)
