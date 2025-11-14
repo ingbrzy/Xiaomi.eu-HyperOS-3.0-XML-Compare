@@ -99,6 +99,7 @@
         <item>tornado</item>
         <item>zephyr</item>
         <item>mist</item>
+        <item>nuwa</item>
     </string-array>
     <string-array name="dfs_support_devices_international">
         <item>shennong</item>
@@ -165,5 +166,6 @@
         <item>dew</item>
         <item>zephyr</item>
         <item>mist</item>
+        <item>nuwa</item>
     </string-array>
 </resources>

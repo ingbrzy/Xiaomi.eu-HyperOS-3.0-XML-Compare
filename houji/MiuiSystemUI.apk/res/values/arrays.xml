@@ -655,6 +655,7 @@
         <item>com.ss.android.article.news</item>
         <item>com.luna.music</item>
         <item>com.smile.gifmaker</item>
+        <item>com.dragon.read</item>
     </string-array>
     <string-array name="config_appsSupportMultiInstancesSplit">
         <item>com.miui.notes</item>
@@ -1081,6 +1082,7 @@
         <item>com.xiaomi.mirror</item>
         <item>com.xiaomi.aiasst.vision</item>
         <item>com.milink.service</item>
+        <item>com.miui.guardprovider</item>
     </string-array>
     <string-array name="config_statusBarIcons">
         <item>handle</item>

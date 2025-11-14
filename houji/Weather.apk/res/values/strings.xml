@@ -834,6 +834,14 @@ Tap the screen to manually add or reposition city"</string>
     <string name="sunday_shortest">Sun</string>
     <string name="sunrise">Sunrise</string>
     <string name="sunset">Sunset</string>
+    <string name="tag_card_item">card item</string>
+    <string name="tag_click_zoom_in">Zoom In</string>
+    <string name="tag_click_zoom_out">Zoom Out</string>
+    <string name="tag_current_point">Typhoon Center Point</string>
+    <string name="tag_future_point">Future Path Point</string>
+    <string name="tag_history_point">Historical Path Point</string>
+    <string name="tag_manual_zoom_in">Manual Zoom In</string>
+    <string name="tag_manual_zoom_out">Manual Zoom Out</string>
     <string name="temperature_normal_unit">%1$s°</string>
     <string name="temperature_unit_C">%1$s℃</string>
     <string name="temperature_unit_F">%1$s℉</string>

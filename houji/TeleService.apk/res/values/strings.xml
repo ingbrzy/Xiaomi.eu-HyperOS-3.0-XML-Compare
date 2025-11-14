@@ -2231,6 +2231,7 @@ UT Interface: %5$s"</string>
     <string name="sat_ant2_snr">ANT2 Snr:</string>
     <string name="sat_call_status">Call state:</string>
     <string name="sat_cpst_info">CPST info:</string>
+    <string name="sat_dual_beam_switching_settings">Satellite dual-beam switching settings:</string>
     <string name="sat_id">Satellite ID:</string>
     <string name="sat_info">Sat infos</string>
     <string name="sat_location">Sat location:</string>
