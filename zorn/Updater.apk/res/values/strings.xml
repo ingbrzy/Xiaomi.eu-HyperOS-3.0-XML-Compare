@@ -41,7 +41,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Updater</string>
-    <string name="battery_islow">&lt;font color=#f37981>Plug your charger&lt;/font></string>
+    <string name="battery_islow">Plug your charger</string>
     <string name="battery_islow_desc">Battery level is too low to install zip file safely, plug in your charger and try again later!</string>
     <string name="btn_changelog">Changelog</string>
     <string name="btn_download">Download (%1$s)</string>
