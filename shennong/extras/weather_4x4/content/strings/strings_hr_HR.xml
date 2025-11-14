@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_null">Dodirnite za dobivanje informacija o vremenu</string>
+    <string name="date_format">EEEE, d. MMMM</string>
+    <string name="today">Danas</string>
+    <string name="tomorrow">Sutra</string>
+    <string name="aqi_pure">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_good">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_moderate">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_pollution">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_unhealthy">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_dangerous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_hazardous">\'AQI \'+#weather_aqilevel</string>
+    <string name="aqi_break">\'AQI \'+#weather_aqilevel</string>
+    <string name="weather_type_null">'Nema podataka'</string>
+    <string name="weather_type_0">Vedro</string>
+    <string name="weather_type_1">Oblačno</string>
+    <string name="weather_type_2">Naoblaka</string>
+    <string name="weather_type_3">Maglovito</string>
+    <string name="weather_type_4">Teški pljuskovi</string>
+    <string name="weather_type_5">Pljuskovi</string>
+    <string name="weather_type_6">Pljuskovi</string>
+    <string name="weather_type_7">Oluja</string>
+    <string name="weather_type_8">Kiša</string>
+    <string name="weather_type_9">Teška kiša</string>
+    <string name="weather_type_10">Umjerena kiša</string>
+    <string name="weather_type_11">Lagana kiša</string>
+    <string name="weather_type_12">Kiša s snijegom</string>
+    <string name="weather_type_13">Vijavica</string>
+    <string name="weather_type_14">Snijeg</string>
+    <string name="weather_type_15">Gust snijeg</string>
+    <string name="weather_type_16">Umjeren snijeg</string>
+    <string name="weather_type_17">Susnježica</string>
+    <string name="weather_type_18">Snažna pješčana oluja</string>
+    <string name="weather_type_19">Pješčana oluja</string>
+    <string name="weather_type_20">Slaba pješčana oluja</string>
+    <string name="weather_type_21">Pješčana oluja</string>
+    <string name="weather_type_22">Tuča</string>
+    <string name="weather_type_23">Prašnjavo</string>
+    <string name="weather_type_24">Sumaglica</string>
+    <string name="weather_type_25">Ledena kiša</string>
+</resources>
