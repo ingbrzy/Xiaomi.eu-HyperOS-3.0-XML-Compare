@@ -162,6 +162,10 @@
         <item quantity="one">You made &lt;font color=#fc7050>%1$s&lt;/font> person happy!</item>
         <item quantity="other">You made &lt;font color=#fc7050>%1$s&lt;/font> people happy!</item>
     </plurals>
+    <plurals name="privacy_revoke_numbers_talkback">
+        <item quantity="one">Withdraw (%d)</item>
+        <item quantity="other">Withdraw (%d)</item>
+    </plurals>
     <plurals name="remote_video_update">
         <item quantity="one">Found %1$s new video</item>
         <item quantity="other">Found %1$s new videos</item>
@@ -181,6 +185,10 @@
     <plurals name="search_head_hint_tag">
         <item quantity="one">Tag %1$s related files (%2$d item)</item>
         <item quantity="other">Tag %1$s related files (%2$d items)</item>
+    </plurals>
+    <plurals name="tap_share_send_fail_with_too_many">
+        <item quantity="one">"Couldn't send. Selected over %d item."</item>
+        <item quantity="other">"Couldn't send. Selected over %d items."</item>
     </plurals>
     <plurals name="text_group_count">
         <item quantity="one">%d item</item>
