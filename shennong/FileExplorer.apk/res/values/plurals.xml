@@ -162,6 +162,10 @@
         <item quantity="one">You made &lt;font color=#fc7050>%1$s&lt;/font> person happy!</item>
         <item quantity="other">You made &lt;font color=#fc7050>%1$s&lt;/font> people happy!</item>
     </plurals>
+    <plurals name="privacy_revoke_numbers_talkback">
+        <item quantity="one">Withdraw (%d)</item>
+        <item quantity="other">Withdraw (%d)</item>
+    </plurals>
     <plurals name="remote_video_update">
         <item quantity="one">Found %1$s new video</item>
         <item quantity="other">Found %1$s new videos</item>
