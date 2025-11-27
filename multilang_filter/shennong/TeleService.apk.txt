@@ -24,7 +24,6 @@ Removed: [fa-rIR] strings.xml: string/mi_mobile_sim_activate_message (wrong form
 Removed: [fi] strings.xml: string/mi_mobile_sim_activate_message (wrong format)
 Removed: [fr] strings.xml: string/disable_esim_dialog_summary (wrong format)
 Removed: [fr] strings.xml: string/enter_input (wrong attributes)
-Removed: [hr] strings.xml: string/mi_mobile_sim_activate_message (wrong format)
 Removed: [hu] strings.xml: string/mi_mobile_sim_activate_message (wrong format)
 Removed: [it] arrays.xml: array/multi_floating_package_allow_list (wrong item count)
 Removed: [it] strings.xml: string/disable_esim_dialog_summary (wrong format)
