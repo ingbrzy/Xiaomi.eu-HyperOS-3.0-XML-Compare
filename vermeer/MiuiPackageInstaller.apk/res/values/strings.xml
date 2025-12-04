@@ -89,6 +89,7 @@
     <string name="archive_hint_dialog_content">If you archive %1$s, the app will be uninstalled, but your data will be retained. Archive now?</string>
     <string name="archive_hint_dialog_title">Archive %1$s?</string>
     <string name="archiving_app_label">Archive %1$s?</string>
+    <string name="auth_reach_limit_switch_method">Too many unsuccessful attempts. Try another verification method.</string>
     <string name="auth_type_face">Face</string>
     <string name="auth_type_finger">Fingerprint</string>
     <string name="auth_type_screen_lock">Screen lock</string>
@@ -341,6 +342,7 @@
     <string name="external_sources_settings_negative">Restrict</string>
     <string name="face_ani_duration">100</string>
     <string name="face_authrioze_tips">Face the screen</string>
+    <string name="face_authrioze_too_many_times">"Couldn't verify. Try another verification method."</string>
     <string name="face_unlock_be_on_the_screen">Hold the device in front of your face</string>
     <string name="face_unlock_check_failed">"Couldn't recognize you"</string>
     <string name="face_unlock_not_found">"Couldn't recognize you"</string>
@@ -579,8 +581,8 @@ Step 2: Add the Google Account you were signed in with before you reset your dev
     <string name="miui_failed_other">Other</string>
     <string name="miui_failed_parse">"Couldn't parse installation package"</string>
     <string name="miui_failed_permission_model_downgrade">"Can't downgrade permissions"</string>
-    <string name="miui_failed_session">请联系安装来源确认失败原因</string>
-    <string name="miui_failed_session_with_source">请联系安装来源“%1$s”确认失败原因</string>
+    <string name="miui_failed_session">Check the installation source to learn the cause of this issue</string>
+    <string name="miui_failed_session_with_source">Check the installation source (%1$s) to learn the cause of this issue</string>
     <string name="miui_failed_solution_1">Uninstall the current version of this app and install the app again.</string>
     <string name="miui_failed_solution_2">Installation package might be corrupted. Download the app again.</string>
     <string name="miui_failed_solution_3">Try saving the installation package to a different location.</string>
@@ -1450,6 +1452,8 @@ come from"</string>
     <string name="verify_account_title">Verify your identity</string>
     <string name="verify_and_install">Install</string>
     <string name="verify_failed">verification failed</string>
+    <string name="verify_switch_hint_hard">Switch to another verification method in Settings > Security authorization</string>
+    <string name="verify_switch_hint_soft">You can switch to another verification method in Settings > Security authorization</string>
     <string name="verify_to_sure_close">Turn off</string>
     <string name="verify_to_sure_switch">Verify to switch</string>
     <string name="virus_safe_install_mode_security_tips">If you trust this app, you can authorize its installation in Settings > Apps > Mi Protect.</string>
