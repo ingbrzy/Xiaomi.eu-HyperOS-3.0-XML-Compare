@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_ethernet_iface_regex">eth\\d</string>
+    <string name="config_ethernet_iface_regex">*</string>
     <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
     <string name="config_networkCaptivePortalServerUrl" />
     <string name="config_thread_model_name">ro.product.model</string>
