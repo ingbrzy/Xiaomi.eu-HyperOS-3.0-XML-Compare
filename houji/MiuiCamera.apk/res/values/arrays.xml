@@ -656,16 +656,16 @@
         <item>2</item>
     </string-array>
     <string-array name="e4">
-        <item>@string/g42</item>
-        <item>@string/g3z</item>
+        <item>@string/g43</item>
+        <item>@string/g40</item>
     </string-array>
     <string-array name="e5">
         <item></item>
-        <item>@string/g40</item>
+        <item>@string/g41</item>
     </string-array>
     <string-array name="e6">
         <item></item>
-        <item>@string/g41</item>
+        <item>@string/g42</item>
     </string-array>
     <string-array name="e7">
         <item></item>
@@ -673,48 +673,48 @@
     </string-array>
     <string-array name="e8">
         <item></item>
-        <item>@string/g43</item>
+        <item>@string/g44</item>
     </string-array>
     <string-array name="e9">
-        <item>@string/g90</item>
         <item>@string/g91</item>
-        <item>@string/g8z</item>
-        <item>@string/g8x</item>
+        <item>@string/g92</item>
+        <item>@string/g90</item>
         <item>@string/g8y</item>
+        <item>@string/g8z</item>
     </string-array>
     <string-array name="e_">
-        <item>@string/g90</item>
         <item>@string/g91</item>
-        <item>@string/g8z</item>
-        <item>@string/g8x</item>
+        <item>@string/g92</item>
+        <item>@string/g90</item>
         <item>@string/g8y</item>
+        <item>@string/g8z</item>
     </string-array>
     <string-array name="ea">
-        <item>@string/g6h</item>
-        <item>@string/g6j</item>
+        <item>@string/g6i</item>
+        <item>@string/g6k</item>
     </string-array>
     <string-array name="eb">
-        <item>@string/g6g</item>
-        <item>@string/g6i</item>
+        <item>@string/g6h</item>
+        <item>@string/g6j</item>
     </string-array>
     <string-array name="ec">
         <item>h264</item>
         <item>h265</item>
     </string-array>
     <string-array name="ed">
-        <item>@string/g7e</item>
-        <item>@string/g7i</item>
-        <item>@string/g7a</item>
-        <item>@string/g7g</item>
-        <item>@string/g7k</item>
-        <item>@string/g7l</item>
-        <item>@string/g7b</item>
-        <item>@string/g7c</item>
         <item>@string/g7f</item>
-        <item>@string/g7h</item>
         <item>@string/g7j</item>
+        <item>@string/g7b</item>
+        <item>@string/g7h</item>
+        <item>@string/g7l</item>
         <item>@string/g7m</item>
+        <item>@string/g7c</item>
         <item>@string/g7d</item>
+        <item>@string/g7g</item>
+        <item>@string/g7i</item>
+        <item>@string/g7k</item>
+        <item>@string/g7n</item>
+        <item>@string/g7e</item>
     </string-array>
     <integer-array name="ee">
         <item>1</item>
@@ -744,15 +744,15 @@
         <item>60000</item>
     </string-array>
     <string-array name="eg">
-        <item>@string/g2o</item>
-        <item>@string/g2r</item>
-        <item>@string/g2l</item>
-        <item>@string/g2k</item>
-        <item>@string/g2w</item>
-        <item>@string/g2q</item>
+        <item>@string/g2p</item>
+        <item>@string/g2s</item>
         <item>@string/g2m</item>
-        <item>@string/g2i</item>
+        <item>@string/g2l</item>
+        <item>@string/g2x</item>
+        <item>@string/g2r</item>
+        <item>@string/g2n</item>
         <item>@string/g2j</item>
+        <item>@string/g2k</item>
     </string-array>
     <string-array name="eh">
         <item>watermark_off</item>
@@ -766,28 +766,28 @@
         <item>watermark_westcoast3_evil_queen</item>
     </string-array>
     <string-array name="ei">
-        <item>@string/g8t</item>
         <item>@string/g8u</item>
         <item>@string/g8v</item>
         <item>@string/g8w</item>
-        <item>@string/g95</item>
+        <item>@string/g8x</item>
+        <item>@string/g96</item>
     </string-array>
     <string-array name="ej">
-        <item>@string/g8t</item>
         <item>@string/g8u</item>
         <item>@string/g8v</item>
         <item>@string/g8w</item>
-        <item>@string/g95</item>
+        <item>@string/g8x</item>
+        <item>@string/g96</item>
     </string-array>
     <string-array name="ek">
-        <item>@string/g97</item>
         <item>@string/g98</item>
         <item>@string/g99</item>
+        <item>@string/g9_</item>
     </string-array>
     <string-array name="el">
-        <item>@string/g9a</item>
-        <item>@string/g9_</item>
         <item>@string/g9b</item>
+        <item>@string/g9a</item>
+        <item>@string/g9c</item>
     </string-array>
     <array name="em">
         <item>@array/certificates_com_xiaomi_wearable</item>
@@ -795,56 +795,56 @@
     </array>
     <string-array name="en">
         <item>@string/f8u</item>
-        <item>@string/gbk</item>
-        <item>@string/gbe</item>
-        <item>@string/gbm</item>
-        <item>@string/gbq</item>
-        <item>@string/gbi</item>
-        <item>@string/gbr</item>
-        <item>@string/gb_</item>
-        <item>@string/gbd</item>
-        <item>@string/gbo</item>
-        <item>@string/gbb</item>
-        <item>@string/gbc</item>
-        <item>@string/gbp</item>
         <item>@string/gbl</item>
         <item>@string/gbf</item>
-        <item>@string/gb8</item>
         <item>@string/gbn</item>
-        <item>@string/gbs</item>
-        <item>@string/gb9</item>
-        <item>@string/gba</item>
-        <item>@string/gbh</item>
-        <item>@string/gbt</item>
+        <item>@string/gbr</item>
         <item>@string/gbj</item>
+        <item>@string/gbs</item>
+        <item>@string/gba</item>
+        <item>@string/gbe</item>
+        <item>@string/gbp</item>
+        <item>@string/gbc</item>
+        <item>@string/gbd</item>
+        <item>@string/gbq</item>
+        <item>@string/gbm</item>
         <item>@string/gbg</item>
+        <item>@string/gb9</item>
+        <item>@string/gbo</item>
+        <item>@string/gbt</item>
+        <item>@string/gb_</item>
+        <item>@string/gbb</item>
+        <item>@string/gbi</item>
         <item>@string/gbu</item>
+        <item>@string/gbk</item>
+        <item>@string/gbh</item>
+        <item>@string/gbv</item>
     </string-array>
     <string-array name="eo">
-        <item>@string/gd5</item>
-        <item>@string/fnz</item>
-        <item>@string/ghv</item>
-        <item>@string/glv</item>
-        <item>@string/ge1</item>
-        <item>@string/fbw</item>
-        <item>@string/ga3</item>
-    </string-array>
-    <string-array name="ep">
         <item>@string/gd6</item>
-        <item>@string/fo0</item>
+        <item>@string/fnz</item>
         <item>@string/ghw</item>
         <item>@string/glw</item>
         <item>@string/ge2</item>
-        <item>@string/fbx</item>
+        <item>@string/fbw</item>
         <item>@string/ga4</item>
     </string-array>
-    <string-array name="eq">
+    <string-array name="ep">
         <item>@string/gd7</item>
-        <item>@string/fo1</item>
+        <item>@string/fo0</item>
         <item>@string/ghx</item>
         <item>@string/glx</item>
         <item>@string/ge3</item>
-        <item>@string/fby</item>
+        <item>@string/fbx</item>
         <item>@string/ga5</item>
+    </string-array>
+    <string-array name="eq">
+        <item>@string/gd8</item>
+        <item>@string/fo1</item>
+        <item>@string/ghy</item>
+        <item>@string/gly</item>
+        <item>@string/ge4</item>
+        <item>@string/fby</item>
+        <item>@string/ga6</item>
     </string-array>
 </resources>
