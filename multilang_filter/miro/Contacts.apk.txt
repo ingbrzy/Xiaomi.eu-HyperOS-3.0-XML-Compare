@@ -13,7 +13,6 @@ Removed: [cs] strings.xml: string/t9_search_guide_zhuyin_title2 (wrong attribute
 Removed: [es] strings.xml: string/pick_photo (wrong format)
 Removed: [es-rUS] strings.xml: string/pick_photo (wrong format)
 Removed: [fr] strings.xml: string/pick_photo (wrong format)
-Removed: [hr] strings.xml: string/pick_photo (wrong format)
 Removed: [it] strings.xml: string/pick_photo (wrong format)
 Removed: [mcc460-mnc01-ro] strings.xml: string/delete_sim_entries_finish (wrong format)
 Removed: [pt-rPT] strings.xml: string/pick_photo (wrong format)
