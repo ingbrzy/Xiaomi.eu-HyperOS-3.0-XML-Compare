@@ -631,6 +631,9 @@
     <string name="ks_launch_app_full_window">Fullscreen</string>
     <string name="ks_launch_app_small_window">Floating window</string>
     <string name="ks_launch_control_center">Control center</string>
+    <string name="ks_launch_global_search">App finder</string>
+    <string name="ks_launch_global_search_china">Search</string>
+    <string name="ks_launch_google">Google</string>
     <string name="ks_launch_notification_center">Notification shade</string>
     <string name="ks_launch_recents_tasks">Open Recents</string>
     <string name="ks_launch_split_screen_to_left">Split screen/Drag divider to the left</string>
