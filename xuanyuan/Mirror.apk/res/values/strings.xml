@@ -42,6 +42,7 @@
     <string name="accessibility_sliding_button_state_description_on">Turned on</string>
     <string name="accessibility_tab_state_description_unselect">Not selected</string>
     <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="account_market_name">"%1$s's %2$s"</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="afternoon">Afternoon</string>
     <string name="am">AM</string>
@@ -311,7 +312,6 @@
     <string name="island_default_market_name_other_laptop">Laptop</string>
     <string name="island_default_market_name_tablet">Xiaomi tablet</string>
     <string name="island_disconnected_button">Turn off</string>
-    <string name="island_disconnected_button_text">Disconnect</string>
     <string name="island_disconneted_title">Disconnected</string>
     <string name="item_view_role_description">Tab</string>
     <string name="keyboard_error_subtitle">Unlock on \"%s\"</string>
@@ -902,6 +902,10 @@ To continue, select a device again on your computer."</string>
     <string name="settings_pad">Tablet</string>
     <string name="settings_page">Home screen+</string>
     <string name="settings_page_default_seat">Home screen+ position</string>
+    <string name="share_file_transfer_finish_cancel">Cancel</string>
+    <string name="share_file_transfer_finish_message">You can view transferred files in File Manager > Xiaomi Share.</string>
+    <string name="share_file_transfer_finish_open_dir">View</string>
+    <string name="share_file_transfer_finish_title">Transferred successfully</string>
     <string name="share_pc_abort_dialog_message">Make sure Bluetooth and Wi-Fi are turned on on both devices and start the session again on your computer.</string>
     <string name="share_pc_abort_dialog_message_china">Make sure Bluetooth and Wi-Fi are turned on on both devices and start the session again on your computer.</string>
     <string name="share_pc_abort_dialog_ok">Got it</string>
@@ -1030,6 +1034,7 @@ to continue"</string>
     <string name="to_settings">Settings</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
+    <string name="transferring">Transferring files. Stay on this page.</string>
     <string name="trust_bind_cancel_toast">Canceled</string>
     <string name="trust_bind_cancel_toast_iphone">Canceled</string>
     <string name="trust_bind_fail_toast">"Couldn't grant permissions"</string>
@@ -1053,7 +1058,7 @@ to continue"</string>
     <string name="trust_bind_unlock_title_iphone">Allow iPhone to unlock this device</string>
     <string name="trust_bind_unlock_title_mac">Allow Mac to unlock this device</string>
     <string name="trust_bind_unlock_title_pad">Allow tablet to unlock this device</string>
-    <string name="trust_fingerlock_auth">Grant permissions on your phone</string>
+    <string name="trust_fingerlock_auth">On your phone, allow your tablet to unlock Home screen+</string>
     <string name="trust_fingerlock_auth_cancel">Cancel</string>
     <string name="trust_fingerlock_auth_cancel_toast">Canceled</string>
     <string name="trust_fingerlock_auth_overtime_retry">Request timed out. Try again.</string>
