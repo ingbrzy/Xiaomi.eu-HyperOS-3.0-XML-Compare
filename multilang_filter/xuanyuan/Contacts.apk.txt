@@ -1,3 +1,4 @@
+Removed: [az-rAZ] strings.xml: string/pick_photo (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [bo-rCN] plurals.xml: plurals/merge_contact_message_plurals (wrong item format)
 Removed: [bo-rCN] strings.xml: string/t9_search_guide_pinyin_title2 (wrong attributes)

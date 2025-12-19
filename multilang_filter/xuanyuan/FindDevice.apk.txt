@@ -1,3 +1,4 @@
+Removed: [az-rAZ] arrays.xml: array/privacy_dialog_finddevice_runtime_perm_desc_new (wrong item count)
 Removed: [be] arrays.xml: array/privacy_dialog_finddevice_runtime_perm_desc_new (wrong item count)
 Removed: [pl] arrays.xml: array/privacy_dialog_finddevice_runtime_perm_desc_new (wrong item count)
 Removed: [zh-rCN] strings.xml: string/micloud_all_sub_resend_common_sms_with_charge_hint (wrong format)
