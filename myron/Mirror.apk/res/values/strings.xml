@@ -42,6 +42,7 @@
     <string name="accessibility_sliding_button_state_description_on">Turned on</string>
     <string name="accessibility_tab_state_description_unselect">Not selected</string>
     <string name="accessibility_tab_statedesc_unselect">Not selected</string>
+    <string name="account_market_name">"%1$s's %2$s"</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="afternoon">Afternoon</string>
     <string name="am">AM</string>
@@ -901,6 +902,10 @@ To continue, select a device again on your computer."</string>
     <string name="settings_pad">Tablet</string>
     <string name="settings_page">Home screen+</string>
     <string name="settings_page_default_seat">Home screen+ position</string>
+    <string name="share_file_transfer_finish_cancel">Cancel</string>
+    <string name="share_file_transfer_finish_message">You can view transferred files in File Manager > Xiaomi Share.</string>
+    <string name="share_file_transfer_finish_open_dir">View</string>
+    <string name="share_file_transfer_finish_title">Transferred successfully</string>
     <string name="share_pc_abort_dialog_message">Make sure Bluetooth and Wi-Fi are turned on on both devices and start the session again on your computer.</string>
     <string name="share_pc_abort_dialog_message_china">Make sure Bluetooth and Wi-Fi are turned on on both devices and start the session again on your computer.</string>
     <string name="share_pc_abort_dialog_ok">Got it</string>
