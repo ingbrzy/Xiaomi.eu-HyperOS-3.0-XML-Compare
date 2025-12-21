@@ -772,6 +772,9 @@ Step 2: Add the Google Account you were signed in with before you reset your dev
     <string name="open_safe_mode_enhance">Turn on</string>
     <string name="open_safe_mode_enhance_old">Turn on</string>
     <string name="open_safe_mode_normal">Turn on</string>
+    <string name="osmd_dialog_message">To enhance your security when installing apps, Mi Protect is turned on by default. For stronger protection, you can switch to Enhanced protection. (click)Learn more(/click)</string>
+    <string name="osmd_dialog_message_in_ios">To enhance your security when installing apps, Mi Protect - Basic mode is turned on by default. For stronger protection, you can switch to Enhanced protection. (click)Learn more(/click)</string>
+    <string name="osmd_dialog_title">Protection upgraded</string>
     <string name="out_of_space_dlg_text">"%1$s couldn't be installed. Free up some space and try again."</string>
     <string name="out_of_space_dlg_title">Out of space</string>
     <string name="parse_error_dlg_text_miui">There was a problem parsing the package. (%1$s)</string>
