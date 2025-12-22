@@ -287,6 +287,7 @@
         <item>enfc.metro/enfc.metro.main.MainActivity</item>
         <item>com.umetrip.android.msky.app/com.umetrip.android.msky.checkin.virtualcabin.activity.CkiLiveSeatMapRecordsActivity</item>
         <item>com.umetrip.android.msky.app/com.umetrip.android.msky.checkin.boarding.activity.CkiBoardingCardActivity</item>
+        <item>com.eg.android.AlipayGphone/com.alipay.android.phone.xriver.bundlex.CSGAPushActivity</item>
     </string-array>
     <string-array name="rf_profiles">
         <item>nxp,0,3,100,0,1,2,3,2,100</item>
