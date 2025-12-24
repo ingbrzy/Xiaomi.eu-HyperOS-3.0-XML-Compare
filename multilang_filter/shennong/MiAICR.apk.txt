@@ -1,1 +1,3 @@
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
+Removed: [de] strings.xml: string/AI_download_file_message (wrong format)
+Removed: [de] strings.xml: string/download_progress (wrong format)

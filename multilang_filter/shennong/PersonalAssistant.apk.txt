@@ -3,6 +3,7 @@ Removed: [bo-rCN] strings.xml: string/pa_accessibility_picker_home_widget_replac
 Removed: [bo-rCN] strings.xml: string/pa_travel_title_travel_agree_permission_title (wrong format)
 Removed: [cs] strings.xml: string/pa_accessibility_picker_home_bigBanner_slected (wrong format)
 Removed: [cs] strings.xml: string/pa_accessibility_picker_home_smallBanner_slected (wrong format)
+Removed: [de] strings.xml: string/pa_wx_share_app_cta_pre (wrong format)
 Removed: [it] strings.xml: string/pa_accessibility_picker_home_bigBanner_slected (wrong format)
 Removed: [it] strings.xml: string/pa_accessibility_picker_home_smallBanner_slected (wrong format)
 Removed: [it] strings.xml: string/pa_accessibility_picker_home_widget_slected (wrong format)
