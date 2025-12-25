@@ -10,6 +10,7 @@ Removed: [cs] plurals.xml: plurals/abbrev_less_than_one_minute_ago (wrong item a
 Removed: [cs] plurals.xml: plurals/abbrev_num_minutes_ago (wrong item attributes)
 Removed: [cs] plurals.xml: plurals/delete_cloud_files (wrong item attributes)
 Removed: [cs] plurals.xml: plurals/remote_video_update (wrong item format)
+Removed: [de] strings.xml: string/operation_download (wrong format)
 Removed: [it] plurals.xml: plurals/remote_video_update (wrong item format)
 Removed: [ug-rCN] plurals.xml: plurals/notification_message_sync_result_success (wrong item format)
 Removed: [zh-rCN] plurals.xml: plurals/notification_message_sync_result_success (wrong item format)

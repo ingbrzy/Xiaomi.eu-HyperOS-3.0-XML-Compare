@@ -1,3 +1,5 @@
+Removed: [az-rAZ] arrays.xml: array/months_English_array (wrong item count)
+Removed: [az-rAZ] arrays.xml: array/timezone_labels_v3 (wrong item count)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [bo-rCN] strings.xml: string/birthday_notification_text_today (wrong format)
 Removed: [bo-rCN] strings.xml: string/monthly_on_day (wrong format)
