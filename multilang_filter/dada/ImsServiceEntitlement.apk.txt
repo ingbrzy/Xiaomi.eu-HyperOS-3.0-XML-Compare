@@ -1,1 +1,0 @@
-Removed: [de] strings.xml: string/progress_text (wrong format)

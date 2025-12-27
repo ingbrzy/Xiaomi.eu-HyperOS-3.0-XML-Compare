@@ -2,8 +2,6 @@ Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_p
 Removed: [bo-rCN] strings.xml: string/kg_invalid_sim_puk_hint (wrong format)
 Removed: [cs] strings.xml: string/kg_invalid_sim_puk_hint (wrong format)
 Removed: [cs] strings.xml: string/notification_app_settings (wrong format)
-Removed: [de] strings.xml: string/accessibility_bluetooth_device_settings_gear_with_name (wrong format)
-Removed: [de] strings.xml: string/ongoing_privacy_dialog_attribution_label (wrong format)
 Removed: [it] arrays.xml: array/dot_black_list (wrong item count)
 Removed: [it] arrays.xml: array/top_caption_insets_black_list (wrong item count)
 Removed: [it] strings.xml: string/format_count_denominator (wrong format)
