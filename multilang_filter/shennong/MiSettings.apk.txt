@@ -7,7 +7,6 @@ Removed: [bo-rCN] plurals.xml: plurals/last_30_day_unlock_usage_statistics (wron
 Removed: [bo-rCN] plurals.xml: plurals/last_7_day_correct_eyes_statistics (wrong item format)
 Removed: [bo-rCN] plurals.xml: plurals/last_7_day_remind_eyes_statistics (wrong item format)
 Removed: [bo-rCN] plurals.xml: plurals/last_7_day_unlock_usage_statistics (wrong item format)
-Removed: [de] strings.xml: string/usage_state_percent (wrong format)
 Removed: [ru] plurals.xml: plurals/pcl_set_unlock_pin_summary_new (wrong item format)
 Removed: [sl] plurals.xml: plurals/pcl_recording_intro_header_new (wrong item format)
 Removed: [sl] plurals.xml: plurals/pcl_unlock_pattern_summary_new (wrong item format)
