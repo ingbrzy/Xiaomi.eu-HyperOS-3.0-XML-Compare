@@ -1,5 +1,7 @@
 Removed: [be] strings.xml: string/permdesc_nearby_wifi_devices (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
+Removed: [hr] strings.xml: string/HIPS_Perm_operator_get_phonenumbner_Message (wrong format)
+Removed: [hr] strings.xml: string/permdesc_nearby_wifi_devices (wrong format)
 Removed: [pl] strings.xml: string/permdesc_nearby_wifi_devices (wrong format)
 Removed: [pt-rBR] strings.xml: string/HIPS_Perm_operator_get_phonenumbner_Message (wrong format)
 Removed: [pt-rBR] strings.xml: string/permdesc_nearby_wifi_devices (wrong format)
