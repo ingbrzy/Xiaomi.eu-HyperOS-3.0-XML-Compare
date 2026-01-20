@@ -504,6 +504,8 @@ Step 2: Add the Google Account you were signed in with before you reset your dev
     <string name="install_hint_risk_found_description">"Installing this app might pose security risks. "</string>
     <string name="install_hint_risk_unregistered">"The developer hasn't provided this app's listing to the regulatory authorities. It might contain viruses, access your personal information, and pose other security risks. If you've already provided this app's listing to the regulatory authorities as a developer, you can submit an appeal. Submit now"</string>
     <string name="install_hint_risk_unregistered_clickable">Submit now</string>
+    <string name="install_hint_sc_prohibit_installing_msg">"Can't install this app due to multiple security risks"</string>
+    <string name="install_hint_sc_prohibit_installing_risk_detail">This app is potentially fraudulent. Proceed with caution to protect your security.</string>
     <string name="install_hint_title">Attention</string>
     <string name="install_package_error">"This app isn't compatible with your system"</string>
     <string name="install_package_error_des">Contact the developer or install a compatible version from a trusted source.</string>
