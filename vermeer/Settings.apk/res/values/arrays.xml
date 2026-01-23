@@ -299,6 +299,10 @@
         <item>IPV6</item>
         <item>IPV4V6</item>
     </string-array>
+    <string-array name="app_ignore_exported">
+        <item>com.tencent.mm</item>
+        <item>com.eg.android.AlipayGphone</item>
+    </string-array>
     <string-array name="app_ops_labels">
         <item>Location</item>
         <item>Location</item>
@@ -3767,6 +3771,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>3</item>
     </string-array>
     <array name="slice_allowlist_package_names" />
+    <array name="slice_allowlist_package_names_for_dev" />
     <string-array name="smart_device_control_entries">
         <item>Xiaomi Smart Hub</item>
         <item>Smart home</item>
