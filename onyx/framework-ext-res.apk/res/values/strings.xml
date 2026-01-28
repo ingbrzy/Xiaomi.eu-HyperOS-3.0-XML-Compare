@@ -1069,6 +1069,7 @@ use the front camera"</string>
     <string name="wallpaper_glazed_valley_title">Glaze</string>
     <string name="wallpaper_gradient_title">Gradient</string>
     <string name="wallpaper_group_ai_zone_title">AI wallpapers</string>
+    <string name="wallpaper_group_arc_title">Arc lamp</string>
     <string name="wallpaper_group_big_numbers_title">Big numbers</string>
     <string name="wallpaper_group_black_gobi_title">Sands of Gobi</string>
     <string name="wallpaper_group_black_white_title">Black and white</string>
@@ -1081,6 +1082,7 @@ use the front camera"</string>
     <string name="wallpaper_group_curves_title">Curves</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Dynamic nebula</string>
+    <string name="wallpaper_group_fun_wallpapers_title">Fun wallpapers</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
     <string name="wallpaper_group_geometric_title">Geometry</string>
     <string name="wallpaper_group_glassy_light_title">Layered glass</string>
