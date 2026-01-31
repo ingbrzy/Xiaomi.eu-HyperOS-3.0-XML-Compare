@@ -945,7 +945,7 @@ if you rotate your phone"</string>
     <string name="fym">Double tap the subject to unlock autofocus tracking. Double tap another subject to switch.</string>
     <string name="fyn">\"rCLLKLE\u0002ACP\u0002QJMV</string>
     <string name="fyo">]Juxs=|=~|o=|mmx|on=ts=iux=~|pxo|=ktxj1=whni=i|m=iux=nuhiixo=ir=~|mihox=|=m|sstsz=nuri3=Iux=\u007f|~vzorhsy=jtqq=\u007fqho1=jutqx=iux=~|o=ni|dn=nu|om3=Iutn=x{{x~i=tn=|mmqtxy=|hirp|it~|qqd=jtiu=rsx=i|m1=sr=sxxy=ir=|ywhni=nxiitszn=ro=hnx=nmx~t|q=ix~ustlhxn3=^hooxsiqd1=iutn={x|ihox=rsqd=jrovn=jtiu=m|nnxszxo=~|on3</string>
-    <string name="fyp">%rM@K\u0005D\u0005FDW\u0005DUU@DWV\u0005LK\u0005QM@\u0005FDH@WD\u0005SL@R\u0009\u0005OPVQ\u0005QDU\u0005QM@\u0005VMPQQ@W\u0005QJ\u0005FDUQPW@\u0005D\u0005UDKKLKB\u0005VMJQ\u000b\u0005qM@\u0005GDFNBWJPKA\u0005RLII\u0005GIPW\u0009\u0005RMLI@\u0005QM@\u0005FDW\u0005VQD\\V\u0005VMDWU\u000b\u0005qMLV\u0005@CC@FQ\u0005LV\u0005DUUIL@A\u0005DPQJHDQLFDII\\\u0005RLQM\u0005JK@\u0005QDU\u0009\u0005KJ\u0005K@@A\u0005QJ\u0005DAOPVQ\u0005V@QQLKBV\u0005JW\u0005PV@\u0005VU@FLDI\u0005Q@FMKLTP@V\u000b\u0005fPWW@KQI\\\u0009\u0005QMLV\u0005C@DQPW@\u0005JKI\\\u0005RJWNV\u0005RLQM\u0005UDVV@KB@W\u0005FDWV\u000b</string>
+    <string name="fyp">%rM@K\u0005D\u0005FDW\u0005DUU@DWV\u0005LK\u0005QM@\u0005FDH@WD\u0005SL@R\t\u0005OPVQ\u0005QDU\u0005QM@\u0005VMPQQ@W\u0005QJ\u0005FDUQPW@\u0005D\u0005UDKKLKB\u0005VMJQ\u000b\u0005qM@\u0005GDFNBWJPKA\u0005RLII\u0005GIPW\t\u0005RMLI@\u0005QM@\u0005FDW\u0005VQD\\V\u0005VMDWU\u000b\u0005qMLV\u0005@CC@FQ\u0005LV\u0005DUUIL@A\u0005DPQJHDQLFDII\\\u0005RLQM\u0005JK@\u0005QDU\t\u0005KJ\u0005K@@A\u0005QJ\u0005DAOPVQ\u0005V@QQLKBV\u0005JW\u0005PV@\u0005VU@FLDI\u0005Q@FMKLTP@V\u000b\u0005fPWW@KQI\\\t\u0005QMLV\u0005C@DQPW@\u0005JKI\\\u0005RJWNV\u0005RLQM\u0005UDVV@KB@W\u0005FDWV\u000b</string>
     <string name="fyq">Clear text</string>
     <string name="fyr">Clear</string>
     <string name="fys">Adjust</string>
@@ -1481,11 +1481,11 @@ FASTSHOT"</string>
     <string name="gbx">Show dropdown menu</string>
     <string name="gby">Exposure verification is off</string>
     <string name="gbz">Exposure verification is on</string>
-    <string name="gc0">\#f[SLPVQFnLGF</string>
+    <string name="gc0">#f[SLPVQFnLGF</string>
     <string name="gc1">(iXMZ\\]ZM\u0008XZAGZA\\Q</string>
     <string name="gc2">:w[TO[V</string>
     <string name="gc3">\u0002Qukvajkle\"`gvuggl\"gzrmqwpg\"omfgq\"kq\"mln{\"qwrrmpvgf\"dmp\"vjg\"ockl\"acogpc</string>
-    <string name="gc4">3rCVAGFAV\u0013CAZ\\AZGJ\u0009\u0013rFG\\^RGZPR__J\u0013RWYF@G@\u0013G[V\u0013@[FGGVA\u0013@CVVW\u0013QR@VW\u0013\\]\u0013G[V\u0013@V_VPGVW\u0013RCVAGFAV\u0013ER_FV\u001d\u0013qV@G\u0013U\\A\u0013C\\AGARZG@\u0013R]W\u0013@GZ__\u0013_ZUV\u0013C[\\G\\@\u0013R]W\u0013P\\]GA\\__Z]T\u0013G[V\u0013WVCG[\u0013\\U\u0013UZV_W\u001d</string>
+    <string name="gc4">3rCVAGFAV\u0013CAZ\\AZGJ\t\u0013rFG\\^RGZPR__J\u0013RWYF@G@\u0013G[V\u0013@[FGGVA\u0013@CVVW\u0013QR@VW\u0013\\]\u0013G[V\u0013@V_VPGVW\u0013RCVAGFAV\u0013ER_FV\u001d\u0013qV@G\u0013U\\A\u0013C\\AGARZG@\u0013R]W\u0013@GZ__\u0013_ZUV\u0013C[\\G\\@\u0013R]W\u0013P\\]GA\\__Z]T\u0013G[V\u0013WVCG[\u0013\\U\u0013UZV_W\u001d</string>
     <string name="gc5">v{WXCWZ\u000c\u0016sPPSUBE\u0016WDS\u0016UCEBY[_LSR\u0016TWESR\u0016YX\u0016B^S\u0016ESZSUBSR\u0016SNFYECDS\u0016FWDW[SBSDE\u0018</string>
     <string name="gc6">h{@]\\\\MZ\u0008XZAGZA\\Q\u0012\u0008i]\\GEI\\AKIDDQ\u0008ILB][\\[\u0008\\@M\u0008IXMZ\\]ZM\u0008IKKGZLAFO\u0008\\G\u0008\\@M\u0008[MDMK\\ML\u0008[@]\\\\MZ\u0008[XMML\u0006\u0008jM[\\\u0008NGZ\u0008IK\\AGF\u0008[@G\\[\u0006</string>
     <string name="gc7">[Zk~ioni~;kirtirob!;Znotvzorxzwwb;z\u007fqnhoh;os~;hsnoo~i;hk~~\u007f;yzh~\u007f;tu;os~;h~w~xo~\u007f;zk~ioni~;mzwn~5;Y~ho;}ti;ktioizroh;zu\u007f;horww;wr}~;kstoth;zu\u007f;xtuoitwwru|;os~;\u007f~kos;t};}r~w\u007f5</string>
@@ -3198,7 +3198,7 @@ FEIK^CED"</string>
     <string name="hk8">ZH\u007f}ov{h</string>
     <string name="hk9">yk\\^LUXK</string>
     <string name="hk_">hiLL\u0008\\AEM\u0008[\\IEX\u0008GF\u0008X@G\\G[</string>
-    <string name="hka">\#oFJ@B</string>
+    <string name="hka">#oFJ@B</string>
     <string name="hkb">{i^\\NWZI</string>
     <string name="hkc">UQ|f{pl</string>
     <string name="hkd">cgJPMFZ\u0003TBWFQNBQH</string>
@@ -3901,7 +3901,7 @@ Y\u000dJB\u000dOLNF\u000dZEDAH\u000d]_DCYDCJ"</string>
     <string name="i36">\u001bXszi|~;btni;\u007f~mrx~;y~}ti~;kiruoru|</string>
     <string name="i37">\u0019Ikpwm|k9|kkvk79Zvww|zm9x~xpw7</string>
     <string name="i38">xhYH]J\u0018TWY\\]\\\u0018QV[WJJ][LTA\u0016\u0018j]TWY\\\u0016</string>
-    <string name="i39">)jFFE\u0009MF^G\u0009Y[@G]L[\u0009]F\u0009Y[@G]</string>
+    <string name="i39">)jFFE\tMF^G\tY[@G]L[\t]F\tY[@G]</string>
     <string name="i3_">L\\~ebxi~,e\u007f,cyx,cj,|m|i~\",@cmh,|m|i~\"</string>
     <string name="i3a">\u0006Oheikvgrodjc&amp;vgvct(&amp;Egh!r&amp;vtohr(</string>
     <string name="i3b">TWuz3`4dqfr{fy4`|}g4uw`}{z4c|}xq4df}z`}zs</string>
