@@ -629,6 +629,7 @@ Double tap to view details."</string>
     <string name="pa_express_auth_extra">Add phone number</string>
     <string name="pa_express_auth_title">Track express delivery</string>
     <string name="pa_express_call">Call</string>
+    <string name="pa_express_click_query">Tap to query</string>
     <string name="pa_express_company">Courier service</string>
     <string name="pa_express_content_title_2">Express delivery</string>
     <string name="pa_express_detail_list_empty_text">"Items might appear here with a delay.
@@ -636,6 +637,7 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_express_detail_more">More</string>
     <string name="pa_express_detail_order_number_prefix">Order number: %s</string>
     <string name="pa_express_dialog_sign_message">Mark this package as delivered? Its status will no longer be updated after that.</string>
+    <string name="pa_express_empty">No packages</string>
     <string name="pa_express_empty_extra">Track</string>
     <string name="pa_express_empty_title">No delivery info here</string>
     <string name="pa_express_i_known">OK</string>
@@ -652,6 +654,7 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_express_manual_query_hint">Enter order number to search</string>
     <string name="pa_express_manual_select_company">Select</string>
     <string name="pa_express_manual_select_company_toast">Select courier service</string>
+    <string name="pa_express_my_parcel">My packages</string>
     <string name="pa_express_phone_binding_input_verifacation_code">Enter code</string>
     <string name="pa_express_phone_binding_next_step">Next</string>
     <string name="pa_express_phone_binding_number">Phone number</string>
@@ -676,6 +679,7 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_express_send_des">寄件</string>
     <string name="pa_express_send_provider_cainiao">Guoguo</string>
     <string name="pa_express_send_provider_xiaomi">Mi Express</string>
+    <string name="pa_express_send_service">Send</string>
     <string name="pa_express_setting">Express delivery settings</string>
     <string name="pa_express_setting_authorized_number_limit">You can add up to 4 phone numbers</string>
     <string name="pa_express_setting_dialog_delete_failed">"Couldn't delete phone number"</string>
@@ -723,9 +727,15 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_express_state_unknown">No data yet</string>
     <string name="pa_express_tail_number">Order number: %1$s</string>
     <string name="pa_express_title">Express delivery</string>
+    <string name="pa_express_widget_2x2_list_item_desc">Order %1$s</string>
+    <string name="pa_express_widget_2x2_logout_subtitle">Add a phone number to view details</string>
+    <string name="pa_express_widget_2x2_logout_title">Delivery reminders</string>
+    <string name="pa_express_widget_4x2_logout_subtitle">Add a phone number to check delivery info</string>
+    <string name="pa_express_widget_4x2_logout_title">Delivery reminders</string>
     <string name="pa_express_widget_all">All packages</string>
+    <string name="pa_express_widget_bind_phone">Add</string>
     <string name="pa_express_widget_list_item_desc">"Tracking number: "</string>
-    <string name="pa_express_widget_logout">Sign in to view your express delivery packages</string>
+    <string name="pa_express_widget_logout">Add a phone number to check delivery info</string>
     <string name="pa_express_widget_order_42">Enter tracking number</string>
     <string name="pa_express_widget_post">Send package</string>
     <string name="pa_express_widget_search">Search</string>
@@ -1025,7 +1035,7 @@ Stay tuned!"</string>
     <string name="pa_picker_home_search_hint">Search for widgets</string>
     <string name="pa_picker_home_title">Add widgets</string>
     <string name="pa_picker_image_text_share">Share</string>
-    <string formatted="false" name="pa_picker_image_text_share_content">\#小米小部件# 用%s小米小部件装扮你的桌面！%s</string>
+    <string formatted="false" name="pa_picker_image_text_share_content">#小米小部件# 用%s小米小部件装扮你的桌面！%s</string>
     <string name="pa_picker_image_text_share_copy_url">Copy URL</string>
     <string name="pa_picker_image_text_share_more">More</string>
     <string name="pa_picker_image_text_share_wechat_favourite">WeChat Favorites</string>
@@ -1523,10 +1533,10 @@ Add widgets to get started."</string>
     <string name="pa_travel_notification_action_ticket_order">Buy ticket</string>
     <string name="pa_travel_notification_action_trip_detail">Trip details</string>
     <string name="pa_travel_notification_action_trip_stat">Trip stats</string>
-    <string name="pa_travel_notification_aod_status_textcolor_airplane">\#1DCD3A</string>
-    <string name="pa_travel_notification_aod_status_textcolor_airplane_abnormal">\#FF6A05</string>
-    <string name="pa_travel_notification_aod_status_textcolor_train">\#3482FF</string>
-    <string name="pa_travel_notification_aod_status_textcolor_train_abnormal">\#FF6900</string>
+    <string name="pa_travel_notification_aod_status_textcolor_airplane">#1DCD3A</string>
+    <string name="pa_travel_notification_aod_status_textcolor_airplane_abnormal">#FF6A05</string>
+    <string name="pa_travel_notification_aod_status_textcolor_train">#3482FF</string>
+    <string name="pa_travel_notification_aod_status_textcolor_train_abnormal">#FF6900</string>
     <string name="pa_travel_notification_arrival_station_name">Arrival station</string>
     <string name="pa_travel_notification_auth">Add</string>
     <string name="pa_travel_notification_auth_account">Add account</string>
