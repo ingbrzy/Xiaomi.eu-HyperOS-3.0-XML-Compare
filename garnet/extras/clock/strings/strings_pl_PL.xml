@@ -4,7 +4,7 @@
     <string name="date_time_12">d MMMM</string>
     <string name="desc_date_format">d MMMM</string>
     <string name="desc_date_format_12">d MMMM</string>
-    <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', double tap to enter clock app'</string>
+    <string name="desc_time">'aktualna godzina\' + #hour12+\' \'+ifelse(#minute,#minute,\'\')+\', dotknij dwukrotnie, aby przejść do aplikacji Zegar'</string>
     <string name="weather_type_null">'Brak danych'</string>
     <string name="weather_type_0">Pogodnie</string>
     <string name="weather_type_1">Pochmurnie</string>
@@ -17,7 +17,7 @@
     <string name="weather_type_8">Deszcz</string>
     <string name="weather_type_9">Ulewa</string>
     <string name="weather_type_10">Deszcz</string>
-    <string name="weather_type_11">Przelotny deszcz</string>
+    <string name="weather_type_11">Przelotne opady</string>
     <string name="weather_type_12">Deszcz ze śniegiem</string>
     <string name="weather_type_13">Burza śnieżna</string>
     <string name="weather_type_14">Śnieg</string>
@@ -26,7 +26,7 @@
     <string name="weather_type_17">Śnieg</string>
     <string name="weather_type_18">Burza piaskowa</string>
     <string name="weather_type_19">Burza piaskowa</string>
-    <string name="weather_type_20">Burza piaskowa</string>
+    <string name="weather_type_20">Pyliście</string>
     <string name="weather_type_21">Burza piaskowa</string>
     <string name="weather_type_22">Grad</string>
     <string name="weather_type_23">Pył</string>
