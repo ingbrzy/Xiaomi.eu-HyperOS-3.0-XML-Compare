@@ -1142,7 +1142,7 @@ Toggle off to stop syncing."</string>
     <string name="has_already_subscribed_tips">"You're already subscribed to this plan"</string>
     <string name="has_location_consent">Has Location Consent</string>
     <string name="has_user_consent">Has User Consent</string>
-    <string name="hash_tag">"\# %1$s "</string>
+    <string name="hash_tag">"# %1$s "</string>
     <string name="hashtag_action_follow">Follow</string>
     <string name="hashtag_action_followed">Following</string>
     <string name="hashtag_detail_explore">Discover</string>

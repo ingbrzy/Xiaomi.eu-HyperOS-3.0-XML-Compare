@@ -878,7 +878,7 @@ ISO、快门时间、白平衡和预设模板在专业模式生效
     <string name="fgf">"Low battery. Can't turn on fill light."</string>
     <string name="fgg">"Can't use flash with Ultra RAW"</string>
     <string name="fgh">"Can't use flash due to low battery"</string>
-    <string name="fgi">\#`OLPF\u000eVS\u0003EL@VP\u0003JP\u0003LEE</string>
+    <string name="fgi">#`OLPF\u000eVS\u0003EL@VP\u0003JP\u0003LEE</string>
     <string name="fgj">feJIUC\u000bSV\u0006@IESU\u0006OU\u0006IH</string>
     <string name="fgk">3p_\\@V\u001eFC\u0013U\\PF@\u0013\\]_J\u0013@FCC\\AG@\u0013\u0016@k\u0013I\\\\^</string>
     <string name="fgl">"Your device is overheated. Can't use flash now."</string>
