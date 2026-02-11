@@ -29,6 +29,36 @@
         <item>Z</item>
         <item>#</item>
     </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>#</item>
+    </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
         <item>@string/pm</item>
@@ -110,10 +140,18 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
-    <string-array name="color_mode_labels">
-        <item>Black &amp; White</item>
-        <item>Color</item>
-    </string-array>
+    <integer-array name="default_card_stroke_gradient_colors_dark">
+        <item>0x1fffffff</item>
+        <item>0x14ffffff</item>
+    </integer-array>
+    <integer-array name="default_card_stroke_gradient_colors_light">
+        <item>0x4dffffff</item>
+        <item>0x36ffffff</item>
+    </integer-array>
+    <array name="default_card_stroke_gradient_colors_positions">
+        <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
+        <item>@fraction/miuix_default_card_stroke_gradient_color_end_position</item>
+    </array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
         <item>@string/early_morning</item>
@@ -122,11 +160,6 @@
         <item>@string/afternoon</item>
         <item>@string/evening</item>
         <item>@string/night</item>
-    </string-array>
-    <string-array name="duplex_mode_labels">
-        <item>None</item>
-        <item>Long edge</item>
-        <item>Short edge</item>
     </string-array>
     <string-array name="earthly_branches">
         <item>@string/earthly_branches_zi</item>
@@ -146,6 +179,15 @@
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
     </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
         <item>@string/heavenly_stems_yi</item>
@@ -157,104 +199,6 @@
         <item>@string/heavenly_stems_xin</item>
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
-    </string-array>
-    <string-array name="mediasize_to_standard_map">
-        <item>NA_LETTER</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>NA_GOVT_LETTER</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>NA_LEGAL</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>NA_JUNIOR_LEGAL</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>NA_LEDGER</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>NA_TABLOID</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>NA_INDEX_3X5</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>NA_INDEX_4X6</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>NA_INDEX_5X8</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>NA_MONARCH</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>NA_QUARTO</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>NA_FOOLSCAP</item>
-        <item>@string/mediasize_standard_north_america</item>
-        <item>ROC_8K</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>ROC_16K</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>PRC_1</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>PRC_2</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>PRC_3</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>PRC_4</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>PRC_5</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>PRC_6</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>PRC_7</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>PRC_8</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>PRC_9</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>PRC_10</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>PRC_16K</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>OM_PA_KAI</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>OM_DAI_PA_KAI</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>OM_JUURO_KU_KAI</item>
-        <item>@string/mediasize_standard_china</item>
-        <item>JIS_B10</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JIS_B9</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JIS_B8</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JIS_B7</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JIS_B6</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JIS_B5</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JIS_B4</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JIS_B3</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JIS_B2</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JIS_B1</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JIS_B0</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JIS_EXEC</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JPN_CHOU4</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JPN_CHOU3</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JPN_CHOU2</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JPN_HAGAKI</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JPN_OUFUKU</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JPN_KAHU</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JPN_KAKU2</item>
-        <item>@string/mediasize_standard_japan</item>
-        <item>JPN_YOU4</item>
-        <item>@string/mediasize_standard_japan</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -310,14 +254,6 @@
         <item>com.miui.cloudservice</item>
         <item>com.android.deskclock</item>
     </string-array>
-    <string-array name="orientation_labels">
-        <item>Portrait</item>
-        <item>Landscape</item>
-    </string-array>
-    <integer-array name="page_options_values">
-        <item>@integer/page_option_value_all</item>
-        <item>@integer/page_option_value_page_range</item>
-    </integer-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
         <item>@string/solar_term_slight_cold</item>

@@ -29,40 +29,17 @@
         <item quantity="one">%d min ago</item>
         <item quantity="other">%d mins ago</item>
     </plurals>
-    <plurals name="action_description_all_paused">
-        <item quantity="one">%d download paused</item>
-        <item quantity="other">%d downloads paused</item>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="one">Selected %1$d item</item>
+        <item quantity="other">Selected %1$d items</item>
     </plurals>
-    <plurals name="action_description_all_start">
-        <item quantity="one">Start %d download</item>
-        <item quantity="other">Start %d downloads</item>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Fast forward %d second</item>
+        <item quantity="other">Fast forward %d seconds</item>
     </plurals>
-    <plurals name="browser_home_number_items">
-        <item quantity="other">%d items total</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="one">Delete %d download?</item>
-        <item quantity="other">Delete %d downloads?</item>
-    </plurals>
-    <plurals name="download_info_count_deleted_tasks">
-        <item quantity="one">Deleted %d download successfully</item>
-        <item quantity="other">Deleted %d downloads successfully</item>
-    </plurals>
-    <plurals name="durationDays">
-        <item quantity="one">%1$d day</item>
-        <item quantity="other">%1$d days</item>
-    </plurals>
-    <plurals name="durationHours">
-        <item quantity="one">%1$d hr</item>
-        <item quantity="other">%1$d hrs</item>
-    </plurals>
-    <plurals name="durationMinutes">
-        <item quantity="one">%1$d min</item>
-        <item quantity="other">%1$d mins</item>
-    </plurals>
-    <plurals name="durationSeconds">
-        <item quantity="one">%1$d sec</item>
-        <item quantity="other">%1$d secs</item>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Rewind %d second</item>
+        <item quantity="other">Rewind %d seconds</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
@@ -95,8 +72,8 @@
         <item quantity="one">1 minute ago</item>
         <item quantity="other">%d minutes ago</item>
     </plurals>
-    <plurals name="number_items">
-        <item quantity="one">%d item</item>
-        <item quantity="other">%d items</item>
+    <plurals name="picker_full_format">
+        <item quantity="one">Select up to %d photo</item>
+        <item quantity="other">Select up to %d photos</item>
     </plurals>
 </resources>
