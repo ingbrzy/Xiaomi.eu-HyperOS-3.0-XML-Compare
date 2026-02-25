@@ -504,6 +504,8 @@ Step 2: Add the Google Account you were signed in with before you reset your dev
     <string name="install_hint_risk_found_description">"Installing this app might pose security risks. "</string>
     <string name="install_hint_risk_unregistered">"The developer hasn't provided this app's listing to the regulatory authorities. It might contain viruses, access your personal information, and pose other security risks. If you've already provided this app's listing to the regulatory authorities as a developer, you can submit an appeal. Submit now"</string>
     <string name="install_hint_risk_unregistered_clickable">Submit now</string>
+    <string name="install_hint_sc_prohibit_installing_msg">"Can't install this app due to multiple security risks"</string>
+    <string name="install_hint_sc_prohibit_installing_risk_detail">This app is potentially fraudulent. Proceed with caution to protect your security.</string>
     <string name="install_hint_title">Attention</string>
     <string name="install_package_error">"This app isn't compatible with your system"</string>
     <string name="install_package_error_des">Contact the developer or install a compatible version from a trusted source.</string>
@@ -772,6 +774,9 @@ Step 2: Add the Google Account you were signed in with before you reset your dev
     <string name="open_safe_mode_enhance">Turn on</string>
     <string name="open_safe_mode_enhance_old">Turn on</string>
     <string name="open_safe_mode_normal">Turn on</string>
+    <string name="osmd_dialog_message">To enhance your security when installing apps, Mi Protect is turned on by default. For stronger protection, you can switch to Enhanced protection. (click)Learn more(/click)</string>
+    <string name="osmd_dialog_message_in_ios">To enhance your security when installing apps, Mi Protect - Basic mode is turned on by default. For stronger protection, you can switch to Enhanced protection. (click)Learn more(/click)</string>
+    <string name="osmd_dialog_title">Protection upgraded</string>
     <string name="out_of_space_dlg_text">"%1$s couldn't be installed. Free up some space and try again."</string>
     <string name="out_of_space_dlg_title">Out of space</string>
     <string name="parse_error_dlg_text_miui">There was a problem parsing the package. (%1$s)</string>
@@ -1204,7 +1209,7 @@ are secure"</string>
     <string name="service_mode_advantage_pay_protection_tip">Protect your finances</string>
     <string name="service_mode_advantage_pay_protection_title">Payment environment protection</string>
     <string name="service_mode_advantage_risk_app_download_subtitle">"Risky apps will be detected while you're downloading them in Mi Browser."</string>
-    <string name="service_mode_advantage_risk_app_download_tip">"\u0009Detect risks
+    <string name="service_mode_advantage_risk_app_download_tip">"\tDetect risks
 while downloading apps"</string>
     <string name="service_mode_advantage_risk_app_download_title">Mi Protect provides secure downloads</string>
     <string name="service_mode_advantage_risk_app_forbidden_subtitle">"Mi Protect doesn't allow risky apps to install anything else on your device by default."</string>

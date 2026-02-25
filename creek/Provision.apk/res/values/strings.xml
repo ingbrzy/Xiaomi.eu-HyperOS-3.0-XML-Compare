@@ -303,7 +303,7 @@
     <string name="font_settings_title">Font settings</string>
     <string name="font_size_title">Text size</string>
     <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
-    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
+    <string name="font_use_case_symbol_example">@ # % &amp; * () _ + - =</string>
     <string name="font_use_case_text_example">Body</string>
     <string name="font_use_case_title_example">Title</string>
     <string name="framework_introduction">Xiaomi service framework (Mi Push and Analytics) is a basic system service that provides push notifications, risk prevention, statistics, and analytics capabilities. In order to provide these services, we need to collect and process relevant and necessary personal information. When collecting and processing such information, we will comply with applicable laws, regulations, and other normative documents.</string>
@@ -637,13 +637,9 @@ You can turn off automatic updates in GetApps > Settings > Auto updates."</strin
     <string name="other_settings_quality_service">System Daemon permissions</string>
     <string name="other_settings_quality_service_summary">System Daemon is used to improve system stability and performance. To be able to work normally, this service needs permissions to access and save items to device storage.</string>
     <string name="other_settings_upload_debug_log_detail">"Help improve your experience by automatically sending diagnostic, device, and app usage data to Xiaomi. This will help improve battery life, system and app stability, and more.
-The data you'll send will contain general information about your device and how you use it (e.g. battery level, system and app activity, and errors). The data will be used to improve Xiaomi devices.
-Turning off this feature doesn't affect your device's ability to send the information needed for essential services such as system updates and security.
-You can control this feature from Settings > Fingerprints, face data, and screen lock > Privacy > Usage and diagnostics."</string>
-    <string name="other_settings_upload_debug_log_detail_cn">"Help improve your experience by automatically sending diagnostic, device, and app usage data to Xiaomi. This will help improve battery life, system and app stability, and more.
-The data you'll send will contain general information about your device and how you use it (e.g. battery level, system and app activity, and errors). The data will be used to improve Xiaomi devices.
-Turning off this feature doesn't affect your device's ability to send the information needed for essential services such as system updates and security.
-You can control this feature from Settings > Privacy &amp; security > Security > Additional settings > Usage and diagnostics."</string>
+The data you'll send will contain general information about this device and how you use it (e.g. battery level, system and app activity, and errors). The data will be used to improve our devices.
+Turning off this feature doesn't affect this device's ability to send the information needed for essential services such as system updates and security.
+You can turn this feature on or off by searching for \"Usage and diagnostics\" in Settings."</string>
     <string name="other_settings_upload_debug_log_summary">Help improve your experience by automatically sending diagnostic, device, and app usage data to Xiaomi. This will help improve battery life, system and app stability, and more.</string>
     <string name="other_settings_upload_debug_log_title">Send usage and diagnostic data</string>
     <string name="other_settings_user_experience">User Experience Program</string>
@@ -819,7 +815,7 @@ You can control this feature from Settings > Privacy &amp; security > Security >
     <string name="require_authority_list_statement">To be able to work normally, this service requires the following permissions:</string>
     <string name="require_authority_statement">To allow us to provide you with basic services, you need to grant the following permissions in order for us to collect your personal information:</string>
     <string name="require_base_authority_statement">"In order to provide basic services, the following permissions are required:
-\u0009\u0009\u0009Access IMEI and IMSI"</string>
+\t\t\tAccess IMEI and IMSI"</string>
     <string name="require_basic_applist_and_authority_statement">In order to provide basic services, the following permissions are required:</string>
     <string name="require_device_information_statement">To be able to provide basic services, the following permissions are required:</string>
     <string name="require_miuidaemon_authority_statement">To allow us to provide you with this service, you need to grant the following permissions in order for us to collect your personal information:</string>

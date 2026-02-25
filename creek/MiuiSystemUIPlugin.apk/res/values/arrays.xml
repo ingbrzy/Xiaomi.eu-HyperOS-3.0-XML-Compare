@@ -27,7 +27,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -57,7 +57,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
@@ -194,6 +194,7 @@
         <item>com.miui.securitycenter</item>
         <item>com.miui.tsmclient</item>
         <item>com.xiaomi.mihomemanager</item>
+        <item>com.xiaomi.voiceassistant</item>
     </string-array>
     <string-array name="config_canShowFocusPackages">
         <item>com.autonavi.minimap</item>

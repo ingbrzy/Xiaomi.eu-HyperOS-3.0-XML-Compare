@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="date_time">EEE, dd MMMM</string>
+  <string name="date_time_12">EEE, dd MMMM</string>
+  <string name="desc_date_format">EEEE, MMM dd</string>
+  <string name="desc_date_format_12">EEEE, MMM dd</string>
+  <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')</string>
+  <string name="weather_type_null">'Hakuna data'</string>
+  <string name="weather_type_0">Futa</string>
+  <string name="weather_type_1">Mawingu</string>
+  <string name="weather_type_2">Vundevunde</string>
+  <string name="weather_type_3">Umande</string>
+  <string name="weather_type_4">Dhoruba kubwa ya mvua</string>
+  <string name="weather_type_5">Mvua kubwa</string>
+  <string name="weather_type_6">Dhoruba ya mvua</string>
+  <string name="weather_type_7">Dhoruba ya radi</string>
+  <string name="weather_type_8">Manyunyu</string>
+  <string name="weather_type_9">Mvua kubwa</string>
+  <string name="weather_type_10">Mvua ya wastani</string>
+  <string name="weather_type_11">Mvua nyepesi</string>
+  <string name="weather_type_12">Mvua ya theluji</string>
+  <string name="weather_type_13">Dhoruba kali ya theluji</string>
+  <string name="weather_type_14">Manyunyu ya theluji</string>
+  <string name="weather_type_15">Theluji nzito</string>
+  <string name="weather_type_16">Theluji ya wastani</string>
+  <string name="weather_type_17">Theluji nyepesi</string>
+  <string name="weather_type_18">Dhoruba kali ya mchanga</string>
+  <string name="weather_type_19">Dhoruba ya mchanga</string>
+  <string name="weather_type_20">Dhoruba ya mchanga mwepesi</string>
+  <string name="weather_type_21">Dhoruba ya vumbi</string>
+  <string name="weather_type_22">Mvua ya mawe</string>
+  <string name="weather_type_23">Vumbi</string>
+  <string name="weather_type_24">Utusitusi</string>
+  <string name="weather_type_25">Mvua ya kuganda</string>
+</resources>

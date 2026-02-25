@@ -175,6 +175,10 @@
         <item quantity="one">%1$d recent contact</item>
         <item quantity="other">%1$d recent contacts</item>
     </plurals>
+    <plurals name="private_access_selected">
+        <item quantity="one">Selected (%1$d) item</item>
+        <item quantity="other">Selected (%1$d) items</item>
+    </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="one">%d found</item>
         <item quantity="other">%d found</item>
