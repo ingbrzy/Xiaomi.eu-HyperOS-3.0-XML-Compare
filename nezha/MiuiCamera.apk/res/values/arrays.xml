@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="certificates_com_android_camera">
+        <item>27196e386b875e76adf700e7ea84e4c6eee33dfa</item>
+    </string-array>
+    <string-array name="certificates_com_xiaomi_wearable">
+        <item>1da20e2bdfa678ae888e81e5ca0ec4744ebbbbbd</item>
+        <item>e7e4ad22ca1abf56185c807d0e02702300939c39</item>
+    </string-array>
+    <array name="co">
+        <item>@drawable/ic_new_ai_scene_off_mm</item>
+        <item>@drawable/ic_ai_scene_doc_mm</item>
+        <item>@drawable/ic_ai_scene_flower_mm</item>
+        <item>@drawable/ic_ai_scene_food_mm</item>
+        <item>@drawable/ic_ai_scene_ppt_mm</item>
+        <item>@drawable/ic_ai_scene_sky_mm</item>
+        <item>@drawable/ic_ai_scene_sunrise_sunset</item>
+        <item>@drawable/ic_ai_scene_cat_mm</item>
+        <item>@drawable/ic_ai_scene_dog_mm</item>
+        <item>@drawable/ic_ai_scene_green_plants_mm</item>
+        <item>@drawable/ic_ai_scene_night_mm</item>
+        <item>@drawable/ic_ai_scene_snow_mm</item>
+        <item>@drawable/ic_ai_scene_sea_mm</item>
+        <item>@drawable/ic_ai_scene_autumn_mm</item>
+        <item>@drawable/ic_ai_scene_candlelight_mm</item>
+        <item>@drawable/ic_ai_scene_car_mm</item>
+        <item>@drawable/ic_ai_scene_grass_mm</item>
+        <item>@drawable/ic_ai_scene_maple_leaves_mm</item>
+        <item>@drawable/ic_ai_scene_succulent_mm</item>
+        <item>@drawable/ic_ai_scene_building_mm</item>
+        <item>@drawable/ic_ai_scene_city_mm</item>
+        <item>@drawable/ic_ai_scene_cloud_mm</item>
+        <item>@drawable/ic_ai_scene_overcast_mm</item>
+        <item>@drawable/ic_ai_scene_human_mm</item>
+        <item>@drawable/ic_ai_scene_human_mm</item>
+        <item>@drawable/ic_ai_scene_human_mm</item>
+        <item>@drawable/ic_ai_scene_jewelry_mm</item>
+        <item>@drawable/ic_ai_scene_buddha_mm</item>
+        <item>@drawable/ic_ai_scene_cow</item>
+        <item>@drawable/ic_ai_scene_food_mm</item>
+        <item>@drawable/ic_ai_scene_motorbike_mm</item>
+        <item>@drawable/ic_ai_scene_temple_mm</item>
+        <item>@drawable/ic_ai_scene_beach_mm</item>
+        <item>@drawable/ic_ai_scene_driving_mm</item>
+        <item>@drawable/ic_ai_scene_tower_mm</item>
+        <item>@drawable/ic_ai_scene_night_mm</item>
+        <item>@drawable/ic_ai_scene_human_mm</item>
+        <item>@drawable/ic_ai_scene_sculpture_mm</item>
+        <item>@drawable/ic_ai_scene_id_card_mm</item>
+    </array>
+    <array name="cp">
+        <item>@drawable/ic_new_ai_scene_off_cv_bg</item>
+        <item>@drawable/ic_ai_scene_doc_cv_bg</item>
+        <item>@drawable/ic_ai_scene_flower_cv_bg</item>
+        <item>@drawable/ic_ai_scene_food_cv_bg</item>
+        <item>@drawable/ic_ai_scene_ppt_cv_bg</item>
+        <item>@drawable/ic_ai_scene_sky_cv_bg</item>
+        <item>@drawable/ic_ai_scene_sunrise_sunset_cv_bg</item>
+        <item>@drawable/ic_ai_scene_cat_cv_bg</item>
+        <item>@drawable/ic_ai_scene_dog_cv_bg</item>
+        <item>@drawable/ic_ai_scene_green_plants_cv_bg</item>
+        <item>@drawable/ic_ai_scene_night_cv_bg</item>
+        <item>@drawable/ic_ai_scene_snow_cv_bg</item>
+        <item>@drawable/ic_ai_scene_sea_cv_bg</item>
+        <item>@drawable/ic_ai_scene_autumn_cv_bg</item>
+        <item>@drawable/ic_ai_scene_candlelight_cv_bg</item>
+        <item>@drawable/ic_ai_scene_car_cv_bg</item>
+        <item>@drawable/ic_ai_scene_grass_cv_bg</item>
+        <item>@drawable/ic_ai_scene_maple_leaves_cv_bg</item>
+        <item>@drawable/ic_ai_scene_succulent_cv_bg</item>
+        <item>@drawable/ic_ai_scene_building_cv_bg</item>
+        <item>@drawable/ic_ai_scene_city_cv_bg</item>
+        <item>@drawable/ic_ai_scene_cloud_cv_bg</item>
+        <item>@drawable/ic_ai_scene_overcast_cv_bg</item>
+        <item>@drawable/ic_ai_scene_human_cv_bg</item>
+        <item>@drawable/ic_ai_scene_human_cv_bg</item>
+        <item>@drawable/ic_ai_scene_human_cv_bg</item>
+        <item>@drawable/ic_ai_scene_jewelry_cv_bg</item>
+        <item>@drawable/ic_ai_scene_buddha_cv_bg</item>
+        <item>@drawable/ic_ai_scene_cow_cv_bg</item>
+        <item>@drawable/ic_ai_scene_food_cv_bg</item>
+        <item>@drawable/ic_ai_scene_motorbike_cv_bg</item>
+        <item>@drawable/ic_ai_scene_temple_cv_bg</item>
+        <item>@drawable/ic_ai_scene_beach_cv_bg</item>
+        <item>@drawable/ic_ai_scene_driving_cv_bg</item>
+        <item>@drawable/ic_ai_scene_tower_cv_bg</item>
+        <item>@drawable/ic_ai_scene_night_cv_bg</item>
+        <item>@drawable/ic_ai_scene_human_cv_bg</item>
+        <item>@drawable/ic_ai_scene_sculpture_cv_bg</item>
+        <item>@drawable/ic_ai_scene_id_card_cv_bg</item>
+    </array>
+    <string-array name="cq">
+        <item>none</item>
+        <item>document</item>
+        <item>flower</item>
+        <item>food</item>
+        <item>ppt</item>
+        <item>sky</item>
+        <item>sunrise_sunset</item>
+        <item>cat</item>
+        <item>dog</item>
+        <item>green_plants</item>
+        <item>night</item>
+        <item>snow</item>
+        <item>ocean</item>
+        <item>autumn</item>
+        <item>candlelight</item>
+        <item>car</item>
+        <item>grass</item>
+        <item>maple_leaf</item>
+        <item>succulent</item>
+        <item>building</item>
+        <item>city</item>
+        <item>cloudy</item>
+        <item>overcast</item>
+        <item>back_light_portrait</item>
+        <item>silhouette</item>
+        <item>portrait</item>
+        <item>jewels</item>
+        <item>buddha</item>
+        <item>cow</item>
+        <item>curry</item>
+        <item>motorcycle</item>
+        <item>temple</item>
+        <item>beach</item>
+        <item>underwater</item>
+        <item>tower</item>
+        <item>moon</item>
+        <item>group_photo</item>
+        <item>statue</item>
+        <item>id_card</item>
+    </string-array>
+    <string-array name="cr">
+        <item>@string/ffk</item>
+        <item>@string/fet</item>
+        <item>@string/few</item>
+        <item>@string/fex</item>
+        <item>@string/ff9</item>
+        <item>@string/ffd</item>
+        <item>@string/ffg</item>
+        <item>@string/fen</item>
+        <item>@string/feu</item>
+        <item>@string/fez</item>
+        <item>@string/ff7</item>
+        <item>@string/ffe</item>
+        <item>@string/ffa</item>
+        <item>@string/feg</item>
+        <item>@string/fel</item>
+        <item>@string/fem</item>
+        <item>@string/fey</item>
+        <item>@string/ff3</item>
+        <item>@string/fff</item>
+        <item>@string/fek</item>
+        <item>@string/feo</item>
+        <item>@string/fep</item>
+        <item>@string/ff8</item>
+        <item>@string/feh</item>
+        <item>@string/ffc</item>
+        <item>@string/ff0</item>
+        <item>@string/ff2</item>
+        <item>@string/fej</item>
+        <item>@string/fer</item>
+        <item>@string/fes</item>
+        <item>@string/ff6</item>
+        <item>@string/ffh</item>
+        <item>@string/fei</item>
+        <item>@string/fev</item>
+        <item>@string/ffi</item>
+        <item>@string/ff5</item>
+        <item>@string/ffb</item>
+        <item>@string/ff_</item>
+        <item>@string/ff1</item>
+        <item>@string/ff4</item>
+        <item>@string/feq</item>
+        <item>@string/ffj</item>
+    </string-array>
+    <string-array name="cs">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>#</item>
+    </string-array>
+    <string-array name="ct">
+        <item>@string/fgf</item>
+        <item>@string/gnn</item>
+    </string-array>
+    <string-array name="cu">
+        <item>@string/fii</item>
+        <item>@string/fij</item>
+        <item>@string/fik</item>
+        <item>@string/fil</item>
+        <item>@string/fim</item>
+    </string-array>
+    <string-array name="cv">
+        <item>@string/fp5</item>
+        <item>@string/fpf</item>
+        <item>@string/fpq</item>
+        <item>@string/fps</item>
+        <item>@string/fpt</item>
+        <item>@string/fpu</item>
+        <item>@string/fpv</item>
+        <item>@string/fpw</item>
+        <item>@string/fpx</item>
+        <item>@string/fp6</item>
+        <item>@string/fp7</item>
+        <item>@string/fp8</item>
+        <item>@string/fp9</item>
+        <item>@string/fp_</item>
+        <item>@string/fpa</item>
+        <item>@string/fpb</item>
+        <item>@string/fpc</item>
+        <item>@string/fpd</item>
+        <item>@string/fpe</item>
+        <item>@string/fpg</item>
+        <item>@string/fph</item>
+        <item>@string/fpi</item>
+        <item>@string/fpj</item>
+        <item>@string/fpk</item>
+        <item>@string/fpl</item>
+        <item>@string/fpm</item>
+        <item>@string/fpn</item>
+        <item>@string/fpo</item>
+        <item>@string/fpp</item>
+        <item>@string/fpr</item>
+    </string-array>
+    <string-array name="cw">
+        <item>@string/fq8</item>
+        <item>@string/fq2</item>
+        <item>@string/fq7</item>
+        <item>@string/fq6</item>
+        <item>@string/fq0</item>
+        <item>@string/fpz</item>
+        <item>@string/fq4</item>
+        <item>@string/fq3</item>
+        <item>@string/fpy</item>
+        <item>@string/fq1</item>
+        <item>@string/fq5</item>
+    </string-array>
+    <string-array name="cx">
+        <item>@string/g1x</item>
+        <item>@string/fq9</item>
+    </string-array>
+    <string-array name="cy">
+        <item>@string/fqe</item>
+        <item>@string/fqd</item>
+        <item>@string/fqh</item>
+        <item>@string/fqa</item>
+        <item>@string/fqi</item>
+        <item>@string/fqg</item>
+        <item>@string/fqf</item>
+        <item>@string/fqb</item>
+        <item>@string/fql</item>
+        <item>@string/fqk</item>
+        <item>@string/fqj</item>
+        <item>@string/fqc</item>
+    </string-array>
+    <string-array name="cz">
+        <item>@string/fqs</item>
+        <item>@string/fqn</item>
+        <item>@string/fqx</item>
+        <item>@string/fqu</item>
+        <item>@string/fqp</item>
+        <item>@string/fqw</item>
+        <item>@string/fqq</item>
+        <item>@string/fqv</item>
+        <item>@string/fqr</item>
+        <item>@string/fqm</item>
+        <item>@string/fqo</item>
+        <item>@string/fqt</item>
+    </string-array>
+    <string-array name="d0">
+        <item>@string/hjf</item>
+        <item>@string/hjh</item>
+        <item>@string/hjg</item>
+    </string-array>
+    <string-array name="d1">
+        <item>@string/gcj</item>
+        <item>@string/g11</item>
+        <item>@string/gjh</item>
+        <item>@string/glr</item>
+        <item>@string/fd_</item>
+        <item>@string/g26</item>
+        <item>@string/gln</item>
+    </string-array>
+    <string-array name="d2">
+        <item>@string/g1c</item>
+        <item>@string/g13</item>
+        <item>@string/g1a</item>
+        <item>@string/g15</item>
+        <item>@string/g12</item>
+        <item>@string/g17</item>
+        <item>@string/g19</item>
+        <item>@string/g18</item>
+        <item>@string/g16</item>
+        <item>@string/g1b</item>
+        <item>@string/g1_</item>
+        <item>@string/g14</item>
+    </string-array>
+    <string-array name="d3">
+        <item>@string/g22</item>
+        <item>@string/g21</item>
+    </string-array>
+    <string-array name="d4">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="d5">
+        <item>@string/g7d</item>
+        <item>@string/g7h</item>
+        <item>@string/g79</item>
+        <item>@string/g7_</item>
+        <item>@string/g7f</item>
+        <item>@string/g7c</item>
+        <item>@string/g7a</item>
+        <item>@string/g7g</item>
+        <item>@string/g7e</item>
+        <item>@string/g7b</item>
+    </string-array>
+    <string-array name="d6">
+        <item></item>
+        <item>LIVE-FAIR</item>
+        <item>LIVE-MOUSSE</item>
+        <item>LIVE-SOLAR</item>
+        <item>LIVE-BLUE</item>
+        <item>LIVE-CONTRAST</item>
+        <item>LIVE-YEARS</item>
+        <item>LIVE-DEEPBLACK</item>
+    </string-array>
+    <array name="d7">
+        <item>@drawable/fvh</item>
+        <item>@drawable/fvf</item>
+        <item>@drawable/fvg</item>
+        <item>@drawable/fvi</item>
+        <item>@drawable/fvc</item>
+        <item>@drawable/fvd</item>
+        <item>@drawable/fvj</item>
+        <item>@drawable/fve</item>
+    </array>
+    <string-array name="d8">
+        <item>@string/fvh</item>
+        <item>@string/fvf</item>
+        <item>@string/fvg</item>
+        <item>@string/fvi</item>
+        <item>@string/fvc</item>
+        <item>@string/fvd</item>
+        <item>@string/fvj</item>
+        <item>@string/fve</item>
+    </string-array>
+    <array name="d9" />
+    <array name="d_" />
+    <string-array name="da">
+        <item>p_pref_qc_camera_style_vibrance_key_-33</item>
+        <item>p_pref_qc_camera_style_tone_key_12</item>
+        <item>p_pref_qc_camera_style_color_tone_key_-23</item>
+        <item>p_pref_qc_camera_style_color_temp_key_-32</item>
+    </string-array>
+    <string-array name="db">
+        <item>p_pref_qc_camera_style_vibrance_key_10</item>
+        <item>p_pref_qc_camera_style_tone_key_-25</item>
+        <item>p_pref_qc_camera_style_color_tone_key_-25</item>
+        <item>p_pref_qc_camera_style_color_temp_key_5</item>
+    </string-array>
+    <string-array name="dc">
+        <item>p_pref_qc_camera_style_vibrance_key_-10</item>
+        <item>p_pref_qc_camera_style_tone_key_30</item>
+        <item>p_pref_qc_camera_style_color_temp_key_-6</item>
+    </string-array>
+    <string-array name="dd">
+        <item>p_pref_qc_camera_style_vibrance_key_-10</item>
+        <item>p_pref_qc_camera_style_tone_key_22</item>
+        <item>p_pref_qc_camera_style_texture_key_42</item>
+        <item>p_pref_qc_camera_style_color_tone_key_-17</item>
+        <item>p_pref_qc_camera_style_color_temp_key_36</item>
+    </string-array>
+    <string-array name="de">
+        <item>@string/gip</item>
+        <item>@string/gim</item>
+        <item>@string/giy</item>
+        <item>@string/gid</item>
+        <item>@string/gj1</item>
+        <item>@string/giv</item>
+        <item>@string/gis</item>
+        <item>@string/gig</item>
+        <item>@string/gj_</item>
+        <item>@string/gj7</item>
+        <item>@string/gj4</item>
+        <item>@string/gij</item>
+    </string-array>
+    <string-array name="df">
+        <item>@string/giq</item>
+        <item>@string/gin</item>
+        <item>@string/giz</item>
+        <item>@string/gie</item>
+        <item>@string/gj2</item>
+        <item>@string/giw</item>
+        <item>@string/git</item>
+        <item>@string/gih</item>
+        <item>@string/gja</item>
+        <item>@string/gj8</item>
+        <item>@string/gj5</item>
+        <item>@string/gik</item>
+    </string-array>
+    <string-array name="dg">
+        <item>@string/gir</item>
+        <item>@string/gio</item>
+        <item>@string/gj0</item>
+        <item>@string/gif</item>
+        <item>@string/gj3</item>
+        <item>@string/gix</item>
+        <item>@string/giu</item>
+        <item>@string/gii</item>
+        <item>@string/gjb</item>
+        <item>@string/gj9</item>
+        <item>@string/gj6</item>
+        <item>@string/gil</item>
+    </string-array>
+    <string-array name="dh">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+        <item>com.android.deskclock</item>
+    </string-array>
+    <string-array name="di">
+        <item>@string/h0g</item>
+        <item>@string/h0f</item>
+    </string-array>
+    <string-array name="dj">
+        <item>@string/gp7</item>
+        <item>@string/gp8</item>
+        <item>@string/gp9</item>
+        <item>@string/gp_</item>
+    </string-array>
+    <string-array name="dk">
+        <item>@string/gpd</item>
+        <item>@string/gpa</item>
+        <item>@string/gpb</item>
+        <item>@string/gpc</item>
+    </string-array>
+    <string-array name="dl">
+        <item>@string/gpr</item>
+        <item>@string/gpq</item>
+        <item>@string/gps</item>
+    </string-array>
+    <string-array name="dm">
+        <item>@string/gpv</item>
+        <item>@string/gpu</item>
+        <item>@string/gpw</item>
+    </string-array>
+    <string-array name="dn">
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="do">
+        <item>@string/gqk</item>
+        <item>@string/gqq</item>
+        <item>@string/gqs</item>
+        <item>@string/gqu</item>
+        <item>@string/gqx</item>
+        <item>@string/gqz</item>
+        <item>@string/gr2</item>
+        <item>@string/gr6</item>
+        <item>@string/gr9</item>
+        <item>@string/gqm</item>
+        <item>@string/gqo</item>
+        <item>@string/gqr</item>
+    </string-array>
+    <string-array name="dp">
+        <item>@string/fmr</item>
+        <item>@string/fmb</item>
+        <item>@string/fm7</item>
+        <item>@string/fly</item>
+        <item>@string/flz</item>
+        <item>@string/fm0</item>
+        <item>@string/fm5</item>
+        <item>@string/fm6</item>
+        <item>@string/fm8</item>
+        <item>@string/fmc</item>
+        <item>@string/flx</item>
+        <item>@string/fma</item>
+        <item>@string/flw</item>
+    </string-array>
+    <string-array name="dq">
+        <item>@string/fmr</item>
+        <item>@string/fmb</item>
+        <item>@string/fly</item>
+        <item>@string/flz</item>
+        <item>@string/fm0</item>
+        <item>@string/fm5</item>
+        <item>@string/fm6</item>
+        <item>@string/fm8</item>
+        <item>@string/fma</item>
+        <item>@string/flw</item>
+    </string-array>
+    <string-array name="dr">
+        <item>@string/fmr</item>
+        <item>@string/fm5</item>
+        <item>@string/fm_</item>
+        <item>@string/fma</item>
+        <item>@string/fn_</item>
+        <item>@string/fly</item>
+        <item>@string/fm8</item>
+        <item>@string/fm6</item>
+        <item>@string/fm0</item>
+        <item>@string/fmb</item>
+    </string-array>
+    <string-array name="ds">
+        <item>@string/fmq</item>
+        <item>@string/fmm</item>
+        <item>@string/fmk</item>
+        <item>@string/fmf</item>
+        <item>@string/fmg</item>
+        <item>@string/fmh</item>
+        <item>@string/fmi</item>
+        <item>@string/fmj</item>
+        <item>@string/fml</item>
+        <item>@string/fmp</item>
+        <item>@string/fme</item>
+        <item>@string/fmo</item>
+        <item>@string/fmd</item>
+    </string-array>
+    <string-array name="dt">
+        <item>@string/fmq</item>
+        <item>@string/fmm</item>
+        <item>@string/fmf</item>
+        <item>@string/fmg</item>
+        <item>@string/fmh</item>
+        <item>@string/fmi</item>
+        <item>@string/fmj</item>
+        <item>@string/fml</item>
+        <item>@string/fmo</item>
+        <item>@string/fmd</item>
+    </string-array>
+    <string-array name="du">
+        <item>@string/fmq</item>
+        <item>@string/fmi</item>
+        <item>@string/fmn</item>
+        <item>@string/fmo</item>
+        <item>@string/fmd</item>
+        <item>@string/fmf</item>
+        <item>@string/fml</item>
+        <item>@string/fmj</item>
+        <item>@string/fmh</item>
+        <item>@string/fmm</item>
+    </string-array>
+    <string-array name="dv">
+        <item>@string/fmr</item>
+        <item>@string/fnn</item>
+        <item>@string/fm5</item>
+        <item>@string/fm_</item>
+        <item>@string/fma</item>
+        <item>@string/fn_</item>
+        <item>@string/fly</item>
+        <item>@string/fm8</item>
+        <item>@string/fm6</item>
+        <item>@string/fm0</item>
+        <item>@string/fmb</item>
+    </string-array>
+    <string-array name="dw">
+        <item>@string/fmq</item>
+        <item>@string/fnq</item>
+        <item>@string/fmi</item>
+        <item>@string/fmn</item>
+        <item>@string/fmo</item>
+        <item>@string/fmd</item>
+        <item>@string/fmf</item>
+        <item>@string/fml</item>
+        <item>@string/fmj</item>
+        <item>@string/fmh</item>
+        <item>@string/fmm</item>
+    </string-array>
+    <string-array name="dx">
+        <item>@string/fmw</item>
+        <item>@string/fmv</item>
+    </string-array>
+    <string-array name="dy">
+        <item>@string/fmy</item>
+        <item>@string/fmx</item>
+    </string-array>
+    <string-array name="dz">
+        <item>@string/fmz</item>
+        <item>@string/fn0</item>
+        <item>@string/fna</item>
+        <item>@string/fn9</item>
+        <item>@string/fn1</item>
+        <item>@string/fn8</item>
+        <item>@string/fn2</item>
+    </string-array>
+    <string-array name="e0">
+        <item>@string/fmz</item>
+        <item>@string/fna</item>
+        <item>@string/fn9</item>
+        <item>@string/fn1</item>
+        <item>@string/fn8</item>
+        <item>@string/fn2</item>
+        <item>@string/gq3</item>
+    </string-array>
+    <string-array name="e1">
+        <item>@string/fmz</item>
+        <item>@string/gq3</item>
+        <item>@string/fn9</item>
+        <item>@string/fna</item>
+        <item>@string/fn1</item>
+        <item>@string/fnk</item>
+        <item>@string/fn8</item>
+        <item>@string/fn2</item>
+    </string-array>
+    <string-array name="e2">
+        <item>@string/fnb</item>
+        <item>@string/fnc</item>
+        <item>@string/fni</item>
+        <item>@string/fnh</item>
+        <item>@string/fnd</item>
+        <item>@string/fng</item>
+        <item>@string/fne</item>
+    </string-array>
+    <string-array name="e3">
+        <item>@string/fnb</item>
+        <item>@string/fni</item>
+        <item>@string/fnh</item>
+        <item>@string/fnd</item>
+        <item>@string/fng</item>
+        <item>@string/fne</item>
+        <item>@string/fnf</item>
+    </string-array>
+    <string-array name="e4">
+        <item>@string/fnb</item>
+        <item>@string/fnf</item>
+        <item>@string/fnh</item>
+        <item>@string/fni</item>
+        <item>@string/fnd</item>
+        <item>@string/fnj</item>
+        <item>@string/fng</item>
+        <item>@string/fne</item>
+    </string-array>
+    <string-array name="e5">
+        <item>@string/fnm</item>
+        <item>@string/fnl</item>
+        <item>@string/fnn</item>
+    </string-array>
+    <string-array name="e6">
+        <item>@string/fnp</item>
+        <item>@string/fno</item>
+        <item>@string/fnq</item>
+    </string-array>
+    <string-array name="e7">
+        <item>@string/fnl</item>
+        <item>@string/fnn</item>
+        <item>@string/fmz</item>
+        <item>@string/gq3</item>
+    </string-array>
+    <string-array name="e8">
+        <item>@string/fnl</item>
+        <item>@string/fnn</item>
+        <item>@string/fmz</item>
+        <item>@string/gq3</item>
+    </string-array>
+    <string-array name="e9">
+        <item>@string/fmz</item>
+        <item>@string/gq3</item>
+        <item>@string/fn2</item>
+    </string-array>
+    <string-array name="e_">
+        <item>@string/fnl</item>
+        <item>@string/fnn</item>
+        <item>@string/fmz</item>
+    </string-array>
+    <string-array name="ea">
+        <item>@string/fnl</item>
+        <item>@string/fnn</item>
+    </string-array>
+    <string-array name="eb">
+        <item>@string/fnl</item>
+        <item>@string/fnn</item>
+        <item>@string/gq3</item>
+        <item>@string/fn2</item>
+    </string-array>
+    <string-array name="ec">
+        <item>@string/fnl</item>
+        <item>@string/fnn</item>
+        <item>@string/fmz</item>
+        <item>@string/gq3</item>
+        <item>@string/fn9</item>
+        <item>@string/fna</item>
+        <item>@string/fn1</item>
+        <item>@string/fnk</item>
+        <item>@string/fn8</item>
+    </string-array>
+    <string-array name="ed">
+        <item>@string/fnn</item>
+        <item>@string/fmz</item>
+        <item>@string/gq3</item>
+        <item>@string/fn8</item>
+    </string-array>
+    <string-array name="ee">
+        <item>@string/fno</item>
+        <item>@string/fnq</item>
+        <item>@string/fnb</item>
+        <item>@string/fnf</item>
+    </string-array>
+    <string-array name="ef">
+        <item>@string/fno</item>
+        <item>@string/fnq</item>
+        <item>@string/fnb</item>
+        <item>@string/fnf</item>
+    </string-array>
+    <string-array name="eg">
+        <item>@string/fnb</item>
+        <item>@string/fnf</item>
+        <item>@string/fne</item>
+    </string-array>
+    <string-array name="eh">
+        <item>@string/fno</item>
+        <item>@string/fnq</item>
+        <item>@string/fnb</item>
+    </string-array>
+    <string-array name="ei">
+        <item>@string/fno</item>
+        <item>@string/fnq</item>
+    </string-array>
+    <string-array name="ej">
+        <item>@string/fno</item>
+        <item>@string/fnq</item>
+        <item>@string/fnf</item>
+        <item>@string/fne</item>
+    </string-array>
+    <string-array name="ek">
+        <item>@string/fno</item>
+        <item>@string/fnq</item>
+        <item>@string/fnb</item>
+        <item>@string/fnf</item>
+        <item>@string/fnh</item>
+        <item>@string/fni</item>
+        <item>@string/fnd</item>
+        <item>@string/fnj</item>
+        <item>@string/fng</item>
+    </string-array>
+    <string-array name="el">
+        <item>@string/fnq</item>
+        <item>@string/fnb</item>
+        <item>@string/fnf</item>
+        <item>@string/fng</item>
+    </string-array>
+    <string-array name="em">
+        <item>@string/guu</item>
+        <item>@string/guv</item>
+        <item>@string/gux</item>
+        <item>@string/guz</item>
+        <item>@string/gv0</item>
+        <item>@string/guw</item>
+        <item>@string/guy</item>
+    </string-array>
+    <string-array name="en">
+        <item>@string/guu</item>
+        <item>@string/guj</item>
+        <item>@string/gun</item>
+        <item>@string/guq</item>
+        <item>@string/guv</item>
+        <item>@string/gu5</item>
+        <item>@string/gu8</item>
+        <item>@string/gux</item>
+        <item>@string/gub</item>
+        <item>@string/gue</item>
+        <item>@string/guz</item>
+        <item>@string/guk</item>
+        <item>@string/guo</item>
+        <item>@string/gv0</item>
+        <item>@string/gu3</item>
+        <item>@string/gu6</item>
+        <item>@string/guw</item>
+        <item>@string/gua</item>
+        <item>@string/guc</item>
+        <item>@string/guy</item>
+        <item>@string/guh</item>
+        <item>@string/gui</item>
+        <item>@string/gul</item>
+        <item>@string/gup</item>
+        <item>@string/gus</item>
+        <item>@string/gu4</item>
+        <item>@string/gu7</item>
+        <item>@string/gud</item>
+        <item>@string/gum</item>
+    </string-array>
+    <string-array name="eo">
+        <item>@string/gv2</item>
+        <item>@string/gv4</item>
+        <item>@string/gv3</item>
+    </string-array>
+    <string-array name="ep">
+        <item>@string/gv7</item>
+        <item>@string/gv9</item>
+        <item>@string/gv8</item>
+    </string-array>
+    <string-array name="eq">
+        <item>@string/g3v</item>
+        <item>@string/g3u</item>
+    </string-array>
+    <string-array name="er">
+        <item>@string/g3w</item>
+        <item>@string/g3t</item>
+    </string-array>
+    <string-array name="es">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="et">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="eu">
+        <item>@string/hgu</item>
+        <item>@string/hgt</item>
+    </string-array>
+    <string-array name="ev">
+        <item>@string/gzx</item>
+        <item>@string/gzu</item>
+    </string-array>
+    <string-array name="ew">
+        <item></item>
+        <item>@string/gzv</item>
+    </string-array>
+    <string-array name="ex">
+        <item></item>
+        <item>@string/gzw</item>
+    </string-array>
+    <string-array name="ey">
+        <item></item>
+        <item>@string/gu0</item>
+    </string-array>
+    <string-array name="ez">
+        <item></item>
+        <item>@string/gzy</item>
+    </string-array>
+    <string-array name="f0">
+        <item>@string/h57</item>
+        <item>@string/h58</item>
+        <item>@string/h56</item>
+        <item>@string/h54</item>
+        <item>@string/h55</item>
+    </string-array>
+    <string-array name="f1">
+        <item>@string/h57</item>
+        <item>@string/h58</item>
+        <item>@string/h56</item>
+        <item>@string/h54</item>
+        <item>@string/h55</item>
+    </string-array>
+    <string-array name="f2">
+        <item>@string/h2k</item>
+        <item>@string/h2m</item>
+    </string-array>
+    <string-array name="f3">
+        <item>@string/h2j</item>
+        <item>@string/h2l</item>
+    </string-array>
+    <string-array name="f4">
+        <item>h264</item>
+        <item>h265</item>
+    </string-array>
+    <string-array name="f5">
+        <item>@string/h3h</item>
+        <item>@string/h3l</item>
+        <item>@string/h3d</item>
+        <item>@string/h3j</item>
+        <item>@string/h3n</item>
+        <item>@string/h3o</item>
+        <item>@string/h3e</item>
+        <item>@string/h3f</item>
+        <item>@string/h3i</item>
+        <item>@string/h3k</item>
+        <item>@string/h3m</item>
+        <item>@string/h3p</item>
+        <item>@string/h3g</item>
+    </string-array>
+    <integer-array name="f6">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>8</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </integer-array>
+    <string-array name="f7">
+        <item>67</item>
+        <item>120</item>
+        <item>300</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>8000</item>
+        <item>10000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+    </string-array>
+    <string-array name="f8">
+        <item>@string/gyi</item>
+        <item>@string/gyl</item>
+        <item>@string/gyf</item>
+        <item>@string/gyd</item>
+        <item>@string/gyq</item>
+        <item>@string/gyk</item>
+        <item>@string/gyg</item>
+        <item>@string/gyb</item>
+        <item>@string/gyc</item>
+    </string-array>
+    <string-array name="f9">
+        <item>watermark_off</item>
+        <item>watermark_regular</item>
+        <item>watermark_leica</item>
+        <item>watermark_film</item>
+        <item>watermark_westcoast</item>
+        <item>watermark_punch_in</item>
+        <item>watermark_leica_100th</item>
+        <item>watermark_westcoast3_snow_white</item>
+        <item>watermark_westcoast3_evil_queen</item>
+    </string-array>
+    <string-array name="f_">
+        <item>@string/h50</item>
+        <item>@string/h51</item>
+        <item>@string/h52</item>
+        <item>@string/h53</item>
+        <item>@string/h5b</item>
+    </string-array>
+    <string-array name="fa">
+        <item>@string/h50</item>
+        <item>@string/h51</item>
+        <item>@string/h52</item>
+        <item>@string/h53</item>
+        <item>@string/h5b</item>
+    </string-array>
+    <string-array name="fb">
+        <item>@string/h5d</item>
+        <item>@string/h5e</item>
+        <item>@string/h5f</item>
+    </string-array>
+    <string-array name="fc">
+        <item>@string/h5h</item>
+        <item>@string/h5g</item>
+        <item>@string/h5i</item>
+    </string-array>
+    <array name="fd">
+        <item>@array/certificates_com_xiaomi_wearable</item>
+        <item>@array/certificates_com_android_camera</item>
+    </array>
+    <string-array name="fe">
+        <item>@string/g1x</item>
+        <item>@string/h92</item>
+        <item>@string/h8w</item>
+        <item>@string/h94</item>
+        <item>@string/h98</item>
+        <item>@string/h90</item>
+        <item>@string/h99</item>
+        <item>@string/h8r</item>
+        <item>@string/h8v</item>
+        <item>@string/h96</item>
+        <item>@string/h8t</item>
+        <item>@string/h8u</item>
+        <item>@string/h97</item>
+        <item>@string/h93</item>
+        <item>@string/h8x</item>
+        <item>@string/h8p</item>
+        <item>@string/h95</item>
+        <item>@string/h9_</item>
+        <item>@string/h8q</item>
+        <item>@string/h8s</item>
+        <item>@string/h8z</item>
+        <item>@string/h9a</item>
+        <item>@string/h91</item>
+        <item>@string/h8y</item>
+        <item>@string/h9b</item>
+    </string-array>
+    <string-array name="ff">
+        <item>@string/h_m</item>
+        <item>@string/gia</item>
+        <item>@string/hef</item>
+        <item>@string/hiq</item>
+        <item>@string/haj</item>
+        <item>@string/g60</item>
+        <item>@string/h79</item>
+    </string-array>
+    <string-array name="fg">
+        <item>@string/h_n</item>
+        <item>@string/gib</item>
+        <item>@string/heg</item>
+        <item>@string/hir</item>
+        <item>@string/hak</item>
+        <item>@string/g61</item>
+        <item>@string/h7_</item>
+    </string-array>
+    <string-array name="fh">
+        <item>@string/h_o</item>
+        <item>@string/gic</item>
+        <item>@string/heh</item>
+        <item>@string/his</item>
+        <item>@string/hal</item>
+        <item>@string/g62</item>
+        <item>@string/h7a</item>
+    </string-array>
+</resources>
