@@ -1,0 +1,2 @@
+Removed: [zh-rHK] strings.xml: string/disable_esim_dialog_summary (wrong format)
+Removed: [zh-rTW] strings.xml: string/disable_esim_dialog_summary (wrong format)
