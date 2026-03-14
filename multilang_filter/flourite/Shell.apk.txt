@@ -1,0 +1,2 @@
+Removed: [zh-rCN-watch] strings.xml: string/bugreport_in_progress_title (wrong format)
+Removed: [zh-rTW-watch] strings.xml: string/bugreport_in_progress_title (wrong format)
