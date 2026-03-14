@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bgs">
+        <item quantity="one">Filtered out %d unsupported item</item>
+        <item quantity="other">Filtered out %d unsupported items</item>
+    </plurals>
+    <plurals name="bgt">
+        <item quantity="one">Filtered out %d unsupported item</item>
+        <item quantity="other">Filtered out %d unsupported items</item>
+    </plurals>
+    <plurals name="bgu">
+        <item quantity="one">You can add up to %d sticker</item>
+        <item quantity="other">You can add up to %d stickers</item>
+    </plurals>
+    <plurals name="bgv">
+        <item quantity="one">Add up to %d shape</item>
+        <item quantity="other">Add up to %d shapes</item>
+    </plurals>
+    <plurals name="bgw">
+        <item quantity="one">You can add up to %d signature</item>
+        <item quantity="other">You can add up to %d signatures</item>
+    </plurals>
+    <plurals name="bgx">
+        <item quantity="one">You can add up to %d text box</item>
+        <item quantity="other">You can add up to %d text boxes</item>
+    </plurals>
+    <plurals name="bgy">
+        <item quantity="one">Distortion: %d</item>
+        <item quantity="other">Distortion: %d</item>
+    </plurals>
+    <plurals name="bgz">
+        <item quantity="one">Horizontal: %d degree</item>
+        <item quantity="other">Horizontal: %d degrees</item>
+    </plurals>
+    <plurals name="bh0">
+        <item quantity="one">Rotate %d degree</item>
+        <item quantity="other">Rotate %d degrees</item>
+    </plurals>
+    <plurals name="bh1">
+        <item quantity="one">Vertical: %d degree</item>
+        <item quantity="other">Vertical: %d degrees</item>
+    </plurals>
+    <plurals name="bh2">
+        <item quantity="one">"Effect generation may take %d second. Leaving the app won't affect the progress. You'll get a notification when it's ready."</item>
+        <item quantity="other">"Effect generation may take %d seconds. Leaving the app won't affect the progress. You'll get a notification when it's ready."</item>
+    </plurals>
+    <plurals name="bh3">
+        <item quantity="one">You can add up to %d track</item>
+        <item quantity="other">You can add up to %d tracks</item>
+    </plurals>
+    <plurals name="bh4">
+        <item quantity="one">You can process up to %1$d min at a time, or trim video and try again</item>
+        <item quantity="other">You can process up to %1$d mins at a time, or trim video and try again</item>
+    </plurals>
+    <plurals name="bh5">
+        <item quantity="one">Original audio %1$d</item>
+        <item quantity="other">Original audio %1$d</item>
+    </plurals>
+    <plurals name="bh6">
+        <item quantity="one">Clips must be at least %1$s second</item>
+        <item quantity="other">Clips must be at least %1$s seconds</item>
+    </plurals>
+    <plurals name="bh7">
+        <item quantity="one">Filtered out %d unsupported audio file</item>
+        <item quantity="other">Filtered out %d unsupported audio files</item>
+    </plurals>
+    <plurals name="bh8">
+        <item quantity="one">Imported %1$d filter successfully</item>
+        <item quantity="other">Imported %1$d filters successfully</item>
+    </plurals>
+    <plurals name="bh9">
+        <item quantity="one">About %s min remaining. You can keep using other features in the meantime.</item>
+        <item quantity="other">About %s mins remaining. You can keep using other features in the meantime.</item>
+    </plurals>
+    <plurals name="bh_">
+        <item quantity="one">"Duration exceeds %d min now. "</item>
+        <item quantity="other">"Duration exceeds %d mins now. "</item>
+    </plurals>
+    <plurals name="bha">
+        <item quantity="one">Skipped %d video.</item>
+        <item quantity="other">Skipped %d videos.</item>
+    </plurals>
+    <plurals name="bhb">
+        <item quantity="one">"Couldn't import. Duration exceeds %d min."</item>
+        <item quantity="other">"Couldn't import. Duration exceeds %d mins."</item>
+    </plurals>
+    <plurals name="bhc">
+        <item quantity="one">Rotate %d degree</item>
+        <item quantity="other">Rotate %d degrees</item>
+    </plurals>
+    <plurals name="bhd">
+        <item quantity="one">%d clip</item>
+        <item quantity="other">%d clips</item>
+    </plurals>
+</resources>
