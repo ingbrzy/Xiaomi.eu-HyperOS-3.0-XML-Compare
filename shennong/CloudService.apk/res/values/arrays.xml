@@ -27,7 +27,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -57,7 +57,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
@@ -429,6 +429,16 @@
     <string-array name="settings_search_sync_manage_pad">
         <item>Xiaomi Cloud. All Mi services in one place.</item>
         <item>Access your photos, notes, and devices from anywhere</item>
+        <item>Insufficient storage;Membership;Storage;Storage space;Cloud;Sync;Cloud services;Xiaomi Cloud;Trash;Deleted items;Security</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad_v2">
+        <item>Xiaomi Cloud. All Xiaomi services in one place.</item>
+        <item>Access your photos and notes from anywhere</item>
+        <item>Insufficient storage;Membership;Storage;Storage space;Cloud;Sync;Cloud services;Xiaomi Cloud;Trash;Deleted items;Security</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_v2">
+        <item>Xiaomi Cloud. All Xiaomi services in one place.</item>
+        <item>Access your photos, contacts, and messages from anywhere</item>
         <item>Insufficient storage;Membership;Storage;Storage space;Cloud;Sync;Cloud services;Xiaomi Cloud;Trash;Deleted items;Security</item>
     </string-array>
     <string-array name="settings_search_wlan">

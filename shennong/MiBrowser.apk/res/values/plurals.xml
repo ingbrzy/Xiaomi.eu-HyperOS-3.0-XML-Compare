@@ -163,6 +163,9 @@
         <item quantity="one">Downloaded %1$s item successfully</item>
         <item quantity="other">Downloaded %1$s items successfully</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
     <plurals name="matches_found">
         <item quantity="one">%d match</item>
         <item quantity="other">%1$d of %2$d</item>
