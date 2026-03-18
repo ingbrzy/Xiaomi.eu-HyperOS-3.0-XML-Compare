@@ -476,6 +476,12 @@
     <string name="config_export_file_prefix" />
     <string name="config_export_file_suffix" />
     <string name="config_export_vcard_type">v30_generic</string>
+    <string name="config_pkg_baidu_map">com.baidu.BaiduMap</string>
+    <string name="config_pkg_minimap">com.autonavi.minimap</string>
+    <string name="config_pkg_weibo">com.sina.weibo</string>
+    <string name="config_yellowpage_api_url_cn">https://api.huangye.miui.com</string>
+    <string name="config_yellowpage_api_url_global">https://global.api.huangye.miui.com</string>
+    <string name="config_yellowpage_api_web_cn">https://web.huangye.miui.com</string>
     <string name="confirm_call_log_dial_summary">Ask for confirmation before dialing from call logs to prevent accidental calls.</string>
     <string name="confirm_call_log_dial_title">Confirm dials from call logs</string>
     <string name="confirm_delete_contact_all_call_logs">"Clear all %s's history?"</string>
@@ -1213,7 +1219,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="postal_postcode">ZIP code</string>
     <string name="postal_region">State</string>
     <string name="postal_street">Street</string>
-    <string name="pound">\#</string>
+    <string name="pound">#</string>
     <string name="pref_key_photo_word_title">Assign contact photos</string>
     <string name="pref_key_rebuild_t9_index_message">Rebuild index to resolve search issues</string>
     <string name="pref_key_rebuild_t9_index_title">Rebuild index data</string>
