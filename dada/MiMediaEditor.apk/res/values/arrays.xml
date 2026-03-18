@@ -57,6 +57,7 @@
         <item>@string/settings_ai_devices_p82</item>
         <item>@string/settings_ai_devices_p11</item>
         <item>@string/settings_ai_devices_p11u</item>
+        <item>@string/settings_ai_devices_cam4063</item>
         <item>@string/settings_ai_devices_p10u</item>
     </string-array>
     <string-array name="alphabet_table">
@@ -86,7 +87,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
@@ -298,129 +299,36 @@
         <item>#f4ffb8</item>
         <item>#d9f7be</item>
     </array>
-    <array name="color_pick_view_colors">
-        <item>#fff1f0</item>
-        <item>#fff2e8</item>
-        <item>#fff7e6</item>
-        <item>#fffbe6</item>
-        <item>#feffe6</item>
-        <item>#fcffe6</item>
-        <item>#f6ffed</item>
-        <item>#e6fffb</item>
-        <item>#e6f7ff</item>
-        <item>#f0f5ff</item>
-        <item>#f9f0ff</item>
-        <item>#fff0f6</item>
-        <item>#ffffff</item>
-        <item>#ffb7b8</item>
-        <item>#ffd8bf</item>
-        <item>#ffe7ba</item>
-        <item>#fff1b8</item>
-        <item>#ffffb8</item>
-        <item>#f4ffb8</item>
-        <item>#d9f7be</item>
-        <item>#b5f5ec</item>
-        <item>#bae7ff</item>
-        <item>#d6e4ff</item>
-        <item>#efdbff</item>
-        <item>#ffd6e7</item>
-        <item>#fafafa</item>
-        <item>#ffa39e</item>
-        <item>#ffbb96</item>
-        <item>#ffd591</item>
-        <item>#ffe58f</item>
-        <item>#fffb8f</item>
-        <item>#eaff8f</item>
-        <item>#b7ff95</item>
-        <item>#87e8de</item>
-        <item>#91d5ff</item>
-        <item>#adc6ff</item>
-        <item>#d3adf7</item>
-        <item>#ffadd2</item>
-        <item>#f5f5f5</item>
-        <item>#ff4d4f</item>
-        <item>#ff7a45</item>
-        <item>#fbb45d</item>
-        <item>#ffc53d</item>
-        <item>#ffec3d</item>
-        <item>#bae637</item>
-        <item>#73d13d</item>
-        <item>#36cfc9</item>
-        <item>#40a9ff</item>
-        <item>#597ef7</item>
-        <item>#9254de</item>
-        <item>#f759ab</item>
-        <item>#bfbfbf</item>
-        <item>#cf1322</item>
-        <item>#d4380d</item>
-        <item>#d46b08</item>
-        <item>#d48806</item>
-        <item>#d4b106</item>
-        <item>#7cb305</item>
-        <item>#389e0d</item>
-        <item>#08979c</item>
-        <item>#096dd9</item>
-        <item>#1d39c4</item>
-        <item>#531dab</item>
-        <item>#c41d7f</item>
-        <item>#434343</item>
-        <item>#820014</item>
-        <item>#871400</item>
-        <item>#873800</item>
-        <item>#874d00</item>
-        <item>#876800</item>
-        <item>#3f6600</item>
-        <item>#135200</item>
-        <item>#00474f</item>
-        <item>#003a8c</item>
-        <item>#061178</item>
-        <item>#22075e</item>
-        <item>#780650</item>
-        <item>#1f1f1f</item>
-        <item>#5c0011</item>
-        <item>#610b00</item>
-        <item>#612500</item>
-        <item>#613400</item>
-        <item>#614700</item>
-        <item>#254000</item>
-        <item>#092b00</item>
-        <item>#002329</item>
-        <item>#002766</item>
-        <item>#030852</item>
-        <item>#120338</item>
-        <item>#520339</item>
-        <item>#000000</item>
-    </array>
     <string-array name="color_value">
-        <item>\#FFFFFFFF</item>
-        <item>\#FF3D3D3D</item>
-        <item>\#FFFF4F57</item>
-        <item>\#FFFF6A56</item>
-        <item>\#FFFF8832</item>
-        <item>\#FFFACE34</item>
-        <item>\#FFDFAB47</item>
-        <item>\#FFD9FF86</item>
-        <item>\#FF85F573</item>
-        <item>\#FF93FDD7</item>
-        <item>\#FF3AE1EB</item>
-        <item>\#FF69B7FF</item>
-        <item>\#FF47A6FE</item>
-        <item>\#FF94ADEF</item>
-        <item>\#FFF4AFFF</item>
-        <item>\#FFEC46EF</item>
-        <item>\#FF6C7B,#FFA683</item>
-        <item>\#FF6C7B,#FFC683</item>
-        <item>\#FF6A87,#DBA7E9</item>
-        <item>\#59F2F7,#30C9FD</item>
-        <item>\#7DB0FC,#FD9EA2</item>
-        <item>\#F973B7,#95A3FB</item>
-        <item>\#3DAAFB,#60DBFA</item>
-        <item>\#98E6CB,#82A2E8</item>
-        <item>\#8C96FE,#47B6FE</item>
-        <item>\#7DE7A1,#A3DD7A</item>
-        <item>\#F2ED75,#82E8E8</item>
-        <item>\#FEAC92,#AFB1D4</item>
-        <item>\#6CB8FF,#FFEEB4</item>
+        <item>#FFFFFFFF</item>
+        <item>#FF3D3D3D</item>
+        <item>#FFFF4F57</item>
+        <item>#FFFF6A56</item>
+        <item>#FFFF8832</item>
+        <item>#FFFACE34</item>
+        <item>#FFDFAB47</item>
+        <item>#FFD9FF86</item>
+        <item>#FF85F573</item>
+        <item>#FF93FDD7</item>
+        <item>#FF3AE1EB</item>
+        <item>#FF69B7FF</item>
+        <item>#FF47A6FE</item>
+        <item>#FF94ADEF</item>
+        <item>#FFF4AFFF</item>
+        <item>#FFEC46EF</item>
+        <item>#FF6C7B,#FFA683</item>
+        <item>#FF6C7B,#FFC683</item>
+        <item>#FF6A87,#DBA7E9</item>
+        <item>#59F2F7,#30C9FD</item>
+        <item>#7DB0FC,#FD9EA2</item>
+        <item>#F973B7,#95A3FB</item>
+        <item>#3DAAFB,#60DBFA</item>
+        <item>#98E6CB,#82A2E8</item>
+        <item>#8C96FE,#47B6FE</item>
+        <item>#7DE7A1,#A3DD7A</item>
+        <item>#F2ED75,#82E8E8</item>
+        <item>#FEAC92,#AFB1D4</item>
+        <item>#6CB8FF,#FFEEB4</item>
     </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
@@ -453,15 +361,6 @@
         <item>#f2e4a5</item>
         <item>#d0b67a</item>
         <item>#fff9b3</item>
-    </array>
-    <array name="gradual_color">
-        <item>#ffff6565</item>
-        <item>#ffffbb55</item>
-        <item>#fffff175</item>
-        <item>#ffb3ffa7</item>
-        <item>#ff98fff9</item>
-        <item>#ff7b98ff</item>
-        <item>#ffff75e1</item>
     </array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
@@ -715,17 +614,29 @@
     </string-array>
     <array name="magic_resource_white_list" />
     <integer-array name="magic_string_white_list">
-        <item>2132019456</item>
-    </integer-array>
-    <array name="mark_pen_default_color_item">
-        <item>#ff7a45</item>
-    </array>
-    <integer-array name="mark_pen_default_size_item">
-        <item>14</item>
-        <item>30</item>
-        <item>40</item>
-        <item>50</item>
-        <item>60</item>
+        <item>2132018371</item>
+        <item>2132018372</item>
+        <item>2132018373</item>
+        <item>2132018374</item>
+        <item>2132018375</item>
+        <item>2132018376</item>
+        <item>2132018377</item>
+        <item>2132018378</item>
+        <item>2132018379</item>
+        <item>2132018380</item>
+        <item>2132018381</item>
+        <item>2132018382</item>
+        <item>2132018383</item>
+        <item>2132018384</item>
+        <item>2132018385</item>
+        <item>2132019425</item>
+        <item>2132019426</item>
+        <item>2132019427</item>
+        <item>2132019428</item>
+        <item>2132019429</item>
+        <item>2132019430</item>
+        <item>2132019431</item>
+        <item>2132019461</item>
     </integer-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -781,21 +692,11 @@
         <item>com.miui.cloudservice</item>
         <item>com.android.deskclock</item>
     </string-array>
-    <array name="pen_default_color_item">
-        <item>#ff7a45</item>
-    </array>
-    <integer-array name="pen_default_size_item">
-        <item>9</item>
-        <item>18</item>
-        <item>27</item>
-        <item>36</item>
-        <item>45</item>
-    </integer-array>
     <string-array name="photo_editor_adjust_curve_color_array">
-        <item>\#FFFFFF</item>
-        <item>\#FF5E66</item>
-        <item>\#47EA7E</item>
-        <item>\#81CAFF</item>
+        <item>#FFFFFF</item>
+        <item>#FF5E66</item>
+        <item>#47EA7E</item>
+        <item>#81CAFF</item>
     </string-array>
     <string-array name="photo_editor_setting_appearance_setting_entries_array">
         <item>@string/appearance_setting_system</item>
@@ -879,9 +780,6 @@
         <item>@string/pref_wm_position_entryvalue_longitude</item>
         <item>@string/pref_wm_position_entryvalue_site</item>
     </string-array>
-    <array name="shape_default_color_item">
-        <item>#ff7a45</item>
-    </array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
         <item>@string/solar_term_slight_cold</item>
@@ -912,6 +810,15 @@
     <string-array name="spinner_list">
         <item>px</item>
         <item>mm</item>
+    </string-array>
+    <string-array name="spring_festival_video_voice_array">
+        <item>@string/photo_editor_video_generation_spring_festival_video_voice_random</item>
+        <item>@string/photo_editor_video_generation_spring_festival_video_voice_daily_male</item>
+        <item>@string/photo_editor_video_generation_spring_festival_video_voice_daily_female</item>
+        <item>@string/photo_editor_video_generation_spring_festival_video_voice_lively_male</item>
+        <item>@string/photo_editor_video_generation_spring_festival_video_voice_lively_female</item>
+        <item>@string/photo_editor_video_generation_spring_festival_video_voice_warm_male</item>
+        <item>@string/photo_editor_video_generation_spring_festival_video_voice_warm_female</item>
     </string-array>
     <integer-array name="sqb_image_center_preset_sizes">
         <item>10</item>

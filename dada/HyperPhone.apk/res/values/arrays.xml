@@ -24,7 +24,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -53,7 +53,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -83,7 +83,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
@@ -165,6 +165,15 @@
         <item>@string/chinese_symbol_animals_chicken</item>
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
+    </string-array>
+    <integer-array name="config_foldedDeviceStates">
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>6</item>
+    </integer-array>
+    <string-array name="config_quickCalibrateSensorDevices">
+        <item>goku</item>
     </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
         <item>0x1fffffff</item>
