@@ -31,7 +31,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -61,7 +61,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
@@ -1079,6 +1079,12 @@
     </integer-array>
     <integer-array name="support_networktypes_gsm_nr_master_mtk">
         <item>33</item>
+        <item>9</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="support_networktypes_gsm_nr_master_sprd">
+        <item>26</item>
         <item>9</item>
         <item>0</item>
         <item>1</item>
