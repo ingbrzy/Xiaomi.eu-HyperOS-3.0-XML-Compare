@@ -616,7 +616,7 @@ For best results, use this feature on clear, forward-facing photos."</string>
     <string name="collage_title_poster">Poster</string>
     <string name="collage_title_stitching">Film roll</string>
     <string name="collage_video_export_image">Photo</string>
-    <string name="collage_video_export_livephoto">Dynamic shots</string>
+    <string name="collage_video_export_livephoto">Live moments</string>
     <string name="collage_video_export_video">Video</string>
     <string name="collage_video_title">Edit</string>
     <string name="collage_video_video_time_limit">Videos up to %d seconds are supported</string>
@@ -650,7 +650,7 @@ For best results, use this feature on clear, forward-facing photos."</string>
     <string name="color_selector_talkback">Color picker</string>
     <string name="color_white">White</string>
     <string name="color_yellow">Yellow</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">a5acb7ab0cd34cb09658c761f39539e3</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">92cd0af749d343688ab456b5b20e48ee</string>
     <string name="common_close_string">Off</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -671,10 +671,10 @@ For best results, use this feature on clear, forward-facing photos."</string>
     <string name="common_open_string">On</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="convert_livephoto_title">Convert to dynamic shot</string>
-    <string name="convert_livephoto_video_not_support">"Can't convert this video to dynamic shot"</string>
+    <string name="convert_livephoto_title">Convert to live moment</string>
+    <string name="convert_livephoto_video_not_support">"Can't convert this video to live moment"</string>
     <string name="convert_livephoto_video_not_support_v2">"This video format isn't supported. Try another video."</string>
-    <string name="convert_livephoto_video_time_limit">Only videos up to %d seconds can be converted to dynamic shots</string>
+    <string name="convert_livephoto_video_time_limit">Only videos up to %d seconds can be converted to live moments</string>
     <string name="convert_static_photo_hint">Converted to regular photo</string>
     <string name="copy">Copy</string>
     <string name="crop_label">Cropped photos</string>
@@ -1215,29 +1215,30 @@ For best results, use this feature on clear, forward-facing photos."</string>
     <string name="kit_mode_item_title2">Leica portrait</string>
     <string name="legend_transition_image_view">photo_view</string>
     <string name="legend_transition_menu_view">menu_panel</string>
-    <string name="legendary_confirm">~yQJ\u001eWJ</string>
-    <string name="legendary_desc_m3">wrY_VYTR\u0017NXBE\u0017{R^TV\u0017rDDRYC^V[\u0017G_XCXD\u0017BD^YP\u0017Q^[Z\u0017GBD_\u001aGEXTRDD^YP\u0017CRT_Y^FBRD\u0017CX\u0017PRC\u0017E^T_RE\u0017TXYCEVDC\u0017VYS\u0017T[VDD^T\u0017D^[ARE\u0017PEV^Y\u0017CROCBER\u0019</string>
-    <string name="legendary_desc_m9">X]vpyv{}8awmj8T}q{y8]kk}vlqyt8hpwlwk8mkqv\u007f8{twm|5zyk}|8quy\u007f}8hjw{}kkqv\u007f8~wj8mtljy5~qv}8|}lyqt8yv|8uwj}8vylmjyt48}`hj}kkqn}8lwv}k6</string>
-    <string name="legendary_image_not_support">\u001d^|s:i=mor~xnn=xytixy=tp|zxn</string>
-    <string name="legendary_info_title">amDHB@\u0001dRRDOUH@M</string>
-    <string name="legendary_notification_channel_name">\u0017[r~tv7Rddryc~v{7yxc~q~tvc~xyd</string>
-    <string name="legendary_notification_complete">AMdhb`!Drrdouh`m!qsnbdrrhof!bnlqmdud</string>
-    <string name="legendary_notification_failed">FEisjbh!r&amp;eikvjcrc&amp;Jcoeg&amp;Cuuchrogj&amp;vtiecuuoha</string>
-    <string name="legendary_notification_processing">rb@]QWAA[\\U\u0012E[FZ\u0012~W[QS\u0012wAAW\\F[S^—</string>
-    <string name="legendary_notification_queued">_H~vkvqx?kp?omp|zll?hvkw?Szv|~?Zllzqkv~s‹</string>
-    <string name="legendary_notification_retry">_K~o?kp?lk~mk?pizm</string>
-    <string name="legendary_notification_see_result">\u001eJ\u007fn>jq>hw{i>l{mkrj</string>
-    <string name="legendary_poor_network">\u0018Hjw{}kkqv\u007f8uya8lys}8twv\u007f}j8|m}8lw8hwwj8v}lowjs8kq\u007fvyt68[p}{s8awmj8v}lowjs8k}llqv\u007fk6</string>
-    <string name="legendary_render_notice">\u001bKitx~hhru|;lrww;ozp~;zytno;>*?\u007f;h~xtu\u007fh5;]~~w;}i~~;ot;w~zm~;os~;zkk5\u0011Btn&lt;ww;|~o;z;utor}rxzortu;ls~u;ro&lt;h;\u007ftu~5</string>
-    <string name="legendary_source_delected">gsONT\u0007WOHSH\u0007OFT\u0007EBBI\u0007CBKBSBC</string>
+    <string name="legendary_confirm">]Zri=ti</string>
+    <string name="legendary_desc_m3">"gbIOFIDB\u0007^HRU\u0007kBNDF\u0007bTTBISNFK\u0007WOHSHT\u0007RTNI@\u0007ANKJ\u0007WRTO
+WUHDBTTNI@\u0007SBDOINVRBT\u0007SH\u0007@BS\u0007UNDOBU\u0007DHISUFTS\u0007FIC\u0007DKFTTND\u0007TNKQBU\u0007@UFNI\u0007SB_SRUB\t"</string>
+    <string name="legendary_desc_m9">knECJEHN\u000bRD^Y\u000bgNBHJ\u000bnXXNE_BJG\u000b[CD_DX\u000b^XBEL\u000bHGD^O\u0006IJXNO\u000bBFJLN\u000b[YDHNXXBEL\u000bMDY\u000b^G_YJ\u0006MBEN\u000bON_JBG\u000bJEO\u000bFDYN\u000bEJ_^YJG\u0007\u000bNS[YNXXB]N\u000b_DENX\u0005</string>
+    <string name="legendary_image_not_support">efDK\u0002Q\u0005UWJF@VV\u0005@ALQ@A\u0005LHDB@V</string>
+    <string name="legendary_info_title">P\\uysq0Uccu~dyq|</string>
+    <string name="legendary_notification_channel_name">IEl`jh)Lzzlg}`he)gf}`o`jh}`fgz</string>
+    <string name="legendary_notification_complete">\u0003Ofj`b#Fppfmwjbo#sql`fppjmd#`lnsofwf</string>
+    <string name="legendary_notification_failed">wtXB[SY\u0010C\u0017TXZG[RCR\u0017{R^TV\u0017rDDRYC^V[\u0017GEXTRDD^YP</string>
+    <string name="legendary_notification_processing">0`B_SUCCY^W\u0010GYDX\u0010|UYSQ\u0010uCCU^DYQ\\‖</string>
+    <string formatted="false" name="legendary_notification_queued">\u0005Rdlqlkb%qj%uwjf`vv%rlqm%I`lfd%@vv`kqldi‣</string>
+    <string name="legendary_notification_retry">/{N_\u000f[@\u000f\\[N][\u000f@YJ]</string>
+    <string name="legendary_notification_see_result">6bWF\u0016BY\u0016@_SA\u0016DSECZB</string>
+    <string name="legendary_poor_network">_Omp|zllvqx?r~f?k~tz?spqxzm?{jz?kp?oppm?qzkhpmt?lvxq~s1?\\wz|t?fpjm?qzkhpmt?lzkkvqxl1</string>
+    <string name="legendary_render_notice">8hJW[]KKQV_\u0018OQTT\u0018LYS]\u0018YZWML\u0018\u001d\t\u001c\\\u0018K][WV\\K\u0016\u0018~]]T\u0018^J]]\u0018LW\u0018T]YN]\u0018LP]\u0018YHH\u00162aWM\u001fTT\u0018_]L\u0018Y\u0018VWLQ^Q[YLQWV\u0018OP]V\u0018QL\u001fK\u0018\\WV]\u0016</string>
+    <string name="legendary_source_delected">\u000dYed~-}ebyb-el~-ohhc-ihahyhi</string>
     <string name="live_convert_static_hint_description">This edit will convert the image to a regular photo. Continue anyway?</string>
-    <string name="live_convert_static_hint_title">Convert dynamic shot</string>
-    <string name="live_edit_close_hint_description">This image has been converted to a regular photo. Undo this change or restore the original image to bring back the dynamic shot.</string>
-    <string name="live_edit_close_hint_title">"Can't adjust dynamic shot effects"</string>
-    <string name="live_not_support_save_hint">"This dynamic shot doesn't support effect adjustments and has been converted to a regular photo. It will be saved as a new copy."</string>
-    <string name="live_not_support_toast_hint">"This dynamic shot doesn't support effect adjustments and has been converted to a regular photo"</string>
-    <string name="live_photo_guide_desc_edit_grade">You can crop, apply filters, and add watermarks to dynamic shots without losing the original motion effects</string>
-    <string name="live_photo_guide_tittle_edit_grade">All-new editing for dynamic shots</string>
+    <string name="live_convert_static_hint_title">Convert live moment</string>
+    <string name="live_edit_close_hint_description">This image has been converted to a regular photo. Undo this change or restore the original image to bring back the live moment.</string>
+    <string name="live_edit_close_hint_title">"Can't adjust live moment effects"</string>
+    <string name="live_not_support_save_hint">"This live moment doesn't support effect adjustments and has been converted to a regular photo. It will be saved as a new copy."</string>
+    <string name="live_not_support_toast_hint">"This live moment doesn't support effect adjustments and has been converted to a regular photo"</string>
+    <string name="live_photo_guide_desc_edit_grade">You can crop, apply filters, and add watermarks to live moments without losing the original motion effects</string>
+    <string name="live_photo_guide_tittle_edit_grade">All-new editing for live moments</string>
     <string name="loading">Just a sec</string>
     <string formatted="false" name="loading_text_format">Removing private info from photos (%d/%d)…</string>
     <string name="loading_video_compress_lib">Downloading video compression plug-in…</string>
@@ -1509,9 +1510,9 @@ For best results, use this feature on clear, forward-facing photos."</string>
     <string name="motion_photo_audio_off">Audio off</string>
     <string name="motion_photo_audio_on">Audio on</string>
     <string name="motion_photo_cancel">Cancel</string>
-    <string name="motion_photo_decode_failed">"Can't change cover for this dynamic shot"</string>
+    <string name="motion_photo_decode_failed">"Can't change cover for this live moment"</string>
     <string name="motion_photo_export_gif_limit">"Can't create GIFs from videos longer than %d seconds"</string>
-    <string name="motion_photo_re_pick_title">Dynamic shots</string>
+    <string name="motion_photo_re_pick_title">Live moments</string>
     <string name="motion_photo_save_fail">"Couldn't save"</string>
     <string name="motion_photo_save_fail_v2">"Couldn't save. Wait a minute or two and try again."</string>
     <string name="motion_photo_save_gif">Save as GIF</string>
@@ -1836,7 +1837,7 @@ Keep the original aspect ratio, choose your own, or let AI decide."</string>
     <string name="photo_editor_gallery_frame_darkmode_white">White</string>
     <string name="photo_editor_gallery_frame_device_only">This feature can only be used with photos taken by this device</string>
     <string name="photo_editor_gallery_frame_dynamic_effects">Dynamic effects</string>
-    <string name="photo_editor_gallery_frame_dynamic_effects_hint">After adding a dynamic effect, preview it on the dynamic shots page</string>
+    <string name="photo_editor_gallery_frame_dynamic_effects_hint">After adding a dynamic effect, preview it on the live moments page</string>
     <string name="photo_editor_gallery_frame_icon_gps">Coordinates</string>
     <string name="photo_editor_gallery_frame_icon_location">Location</string>
     <string name="photo_editor_gallery_frame_icon_time">Time</string>
@@ -2154,7 +2155,7 @@ Tap Pro to use."</string>
     <string name="photo_editor_video_generation_cache_origin_dialog_title">Attention</string>
     <string name="photo_editor_video_generation_export">Save to Gallery</string>
     <string name="photo_editor_video_generation_export_again">Generate again</string>
-    <string name="photo_editor_video_generation_export_live">Save as dynamic shot</string>
+    <string name="photo_editor_video_generation_export_live">Save as live moment</string>
     <string name="photo_editor_video_generation_export_video">Save video to Gallery</string>
     <string name="photo_editor_video_generation_loading_page_background">Load in background</string>
     <string name="photo_editor_video_generation_loading_page_fail">"Couldn't load this page. Try again"</string>
@@ -2241,14 +2242,13 @@ It'll become unavailable on %s."</string>
     <string name="photo_guide_tittle_quality_enhance_new_change">All-new Ultra HD</string>
     <string name="photo_guide_tittle_smart_beauty_new_change">AI Beautify</string>
     <string name="photo_guide_tittle_watermark_new_change">Upgraded watermarks</string>
-    <string name="photo_legendary_go_edit">%hJW@\u0005JUQLJKV</string>
-    <string name="photo_legendary_render">"
-Y~kx~"</string>
-    <string name="photo_legendary_render_background">0|UQFU</string>
-    <string name="photo_legendary_render_cancel">koBXHJYO</string>
-    <string name="photo_legendary_render_done">\u0007Chib</string>
-    <string name="photo_legendary_render_pending">zjH_J[HST]“</string>
-    <string name="photo_legendary_render_retry">"GTsfus'hqbu"</string>
+    <string name="photo_legendary_go_edit">p}_BU\u0010_@DY_^C</string>
+    <string name="photo_legendary_render">L_xm~x</string>
+    <string name="photo_legendary_render_background">\tElh\u007fl</string>
+    <string name="photo_legendary_render_cancel">fbOUEGTB</string>
+    <string name="photo_legendary_render_done">&amp;bIHC</string>
+    <string name="photo_legendary_render_pending">+{YN[JYBEL‍</string>
+    <string name="photo_legendary_render_retry">&lt;oH]NH\u001cSJYN</string>
     <string name="photo_live_photo_effect_bounce">Bounce</string>
     <string name="photo_live_photo_effect_none">No effect</string>
     <string name="photo_live_photo_effect_reverse">Reverse</string>
@@ -2278,7 +2278,7 @@ Y~kx~"</string>
     <string name="portrait_improving_skin_luster">Boosting skin radiance…</string>
     <string name="portrait_improving_the_texture_of_the_whole_picture">Optimizing textures…</string>
     <string name="portrait_optimizing_skin_texture">Optimizing skin texture…</string>
-    <string name="pref_camera_watermark_on_brief">LCb</string>
+    <string name="pref_camera_watermark_on_brief">VYx</string>
     <string name="pref_privacy_watermark_edit_clear_history">Clear history</string>
     <string name="pref_privacy_watermark_edit_history">History</string>
     <string name="pref_watermark_preview_title">Watermark preview</string>
@@ -2301,9 +2301,9 @@ Y~kx~"</string>
     <string name="pref_wm_custom_text_title">Custom text</string>
     <string name="pref_wm_default_icon">Default watermark</string>
     <string name="pref_wm_default_signature">Default watermark signature</string>
-    <string name="pref_wm_dynamic_background_summary_title">Show dynamic frame background for dynamic shots</string>
+    <string name="pref_wm_dynamic_background_summary_title">Show dynamic frame background for live moments</string>
     <string name="pref_wm_dynamic_background_title">Dynamic background</string>
-    <string name="pref_wm_dynamic_effect_summary_title">Dynamic watermark effects are only available for dynamic shots. After adding one, you can preview it on the dynamic shots page.</string>
+    <string name="pref_wm_dynamic_effect_summary_title">Dynamic watermark effects are only available for live moments. After adding one, you can preview it on the live moments page.</string>
     <string name="pref_wm_dynamic_effect_title">Dynamic effects</string>
     <string name="pref_wm_frame_background_title">Frame background</string>
     <string name="pref_wm_frame_image_title">Watermark image</string>
@@ -2384,7 +2384,7 @@ Y~kx~"</string>
     <string name="remover_erase_aera_too_big">The erase area is too big</string>
     <string name="remover_menu_processing">Processing</string>
     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
-    <string name="return_motion_photo_hint">Restored to dynamic shot</string>
+    <string name="return_motion_photo_hint">Restored to live moment</string>
     <string name="saf_operation_guide_1">"Gallery Editor needs your permission to be able to protect and manage your data. "</string>
     <string name="saf_operation_guide_2">To grant the permission, tap \"%1$s\" and then select \"%2$s\".</string>
     <string name="saf_operation_guide_param1">Next</string>
