@@ -1,6 +1,4 @@
-Removed: [be] strings.xml: string/new last_day_range_usage (invalid name)
-Removed: [be] strings.xml: string/new today_range_usage (invalid name)
-Removed: [be] strings.xml: string/no data currentlyly (invalid name)
+Removed: [be] strings.xml: string/no_data currentlyly (invalid name)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [bo-rCN] plurals.xml: plurals/format_correct_eyes_statistics (wrong item format)
 Removed: [bo-rCN] plurals.xml: plurals/format_remind_eyes_statistics (wrong item format)
