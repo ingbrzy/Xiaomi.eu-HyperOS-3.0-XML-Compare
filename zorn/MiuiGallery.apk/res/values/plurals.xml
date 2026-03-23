@@ -852,6 +852,10 @@
         <item quantity="one">Items can be stored here for %1$d day. Upgrade your plan to extend this period.</item>
         <item quantity="other">Items can be stored here for %1$d days. Upgrade your plan to extend this period.</item>
     </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="one">%.1fs</item>
+        <item quantity="other">%.1fs</item>
+    </plurals>
     <plurals name="universal_pick_bottom_bar_selected_content_format">
         <item quantity="one">Show %d selected item</item>
         <item quantity="other">Show %d selected items</item>
@@ -867,6 +871,10 @@
     <plurals name="video_editor_component_imageview_content_description">
         <item quantity="one">Slot %1$d: Add a segment no shorter than %2$s sec</item>
         <item quantity="other">Slot %1$d: Add a segment no shorter than %2$s secs</item>
+    </plurals>
+    <plurals name="video_editor_component_imageview_content_description_new">
+        <item quantity="one">Segment %1$d. Add a photo or video that is at least %2$.1f second long</item>
+        <item quantity="other">Segment %1$d. Add a photo or video that is at least %2$.1f seconds long</item>
     </plurals>
     <plurals name="video_editor_component_next_step_disabled_content_description">
         <item quantity="one">Add %d more segment to continue</item>

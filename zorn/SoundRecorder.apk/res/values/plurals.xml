@@ -53,10 +53,6 @@
         <item quantity="one">"Couldn't restore %d item due to an unknown error."</item>
         <item quantity="other">"Couldn't restore %d items due to an unknown error."</item>
     </plurals>
-    <plurals name="search_recorder_records_hint">
-        <item quantity="one">%d audio recording</item>
-        <item quantity="other">%d audio recordings</item>
-    </plurals>
     <plurals name="search_result">
         <item quantity="one">Found %d recording</item>
         <item quantity="other">Found %d recordings</item>
