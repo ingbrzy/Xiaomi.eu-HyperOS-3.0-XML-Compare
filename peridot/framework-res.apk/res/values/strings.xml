@@ -544,6 +544,9 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="config_defaultNetworkRecommendationProviderPackage" />
     <string name="config_defaultNetworkScorerPackageName" />
     <string name="config_defaultNotes" />
+    <string name="config_defaultOnDeviceIntelligenceDeviceConfigNamespace" />
+    <string name="config_defaultOnDeviceIntelligenceService" />
+    <string name="config_defaultOnDeviceSandboxedInferenceService" />
     <string name="config_defaultOnDeviceSpeechRecognitionService" />
     <string name="config_defaultProfcollectReportUploaderAction" />
     <string name="config_defaultProfcollectReportUploaderApp" />
