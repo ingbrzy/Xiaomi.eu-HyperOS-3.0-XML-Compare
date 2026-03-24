@@ -62,6 +62,10 @@
         <item quantity="one">"Delete %1$d selected item from all devices and Xiaomi SmartStorage? You'll be able to restore recently deleted items in the Xiaomi SmartStorage app."</item>
         <item quantity="other">"Delete %1$d selected items from all devices and Xiaomi SmartStorage? You'll be able to restore recently deleted items in the Xiaomi SmartStorage app."</item>
     </plurals>
+    <plurals name="delete_pc_files">
+        <item quantity="one">Permanently delete %2$d file from %1$s now?</item>
+        <item quantity="other">Permanently delete %2$d files from %1$s now?</item>
+    </plurals>
     <plurals name="directory_item_count">
         <item quantity="one">%d item</item>
         <item quantity="other">%d items</item>
@@ -70,9 +74,17 @@
         <item quantity="one"> %1$d item</item>
         <item quantity="other"> %1$d items</item>
     </plurals>
+    <plurals name="file_fail_count">
+        <item quantity="one">"Couldn't transfer %s item"</item>
+        <item quantity="other">"Couldn't transfer %s items"</item>
+    </plurals>
     <plurals name="file_num_content">
         <item quantity="one">%2$d file including %1$s</item>
         <item quantity="other">%2$d files including %1$s</item>
+    </plurals>
+    <plurals name="file_success_count">
+        <item quantity="one">Transferred %s item</item>
+        <item quantity="other">Transferred %s items</item>
     </plurals>
     <plurals name="follow_count">
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> follower</item>
