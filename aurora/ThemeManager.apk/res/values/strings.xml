@@ -363,6 +363,7 @@
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
     <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
+    <string name="brightness">Brightness</string>
     <string name="browse_mode">Online mode</string>
     <string name="browse_mode_desc">Allow this app to connect to the internet, access online content, as well as use items on your device (e.g. photos, audio, and videos). None of your personal information will be collected.</string>
     <string name="browser_local_resource">Local resources</string>
@@ -610,6 +611,7 @@
     <string name="dialog_apply_lock_screen_wallpaper_warning">Lock screen wallpaper</string>
     <string name="dialog_content_get_device_status">This app needs to access your device ID to be able to authenticate the items purchased on your other devices. You might not be able to use some of the purchased items after you turn this feature off. Turn off anyway?</string>
     <string name="dialog_negative_button_text">Not now</string>
+    <string name="dialog_operation_close">Settings</string>
     <string name="dialog_positive_button_text">Allow</string>
     <string name="dialog_show_never">"Don't show again."</string>
     <string name="dialog_trans_wallpaper_offline_detail">"Transparent wallpapers are no longer available because they aren't supported by Android 12."</string>
@@ -1269,11 +1271,14 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="kg_talkback_back">Back</string>
     <string name="kg_talkback_cancel_wallpaper_custom">Cancel wallpaper setup</string>
     <string name="kg_talkback_desktop_wallpaper_preview">Home screen wallpaper preview</string>
+    <string name="kg_talkback_double_tap_to_activate">Double tap to activate</string>
     <string name="kg_talkback_effect_dialog">Effect panel, current effect: %s</string>
     <string name="kg_talkback_follow_the_keyguard">Sync wallpaper, Home screen will match Lock screen wallpaper</string>
     <string name="kg_talkback_giving_up_editing">"Discard changes, wallpaper edits won't be saved"</string>
     <string name="kg_talkback_keyguard_wallpaper_preview">Lock screen wallpaper preview</string>
     <string name="kg_talkback_not_selected">Not selected</string>
+    <string name="kg_talkback_off">Off</string>
+    <string name="kg_talkback_on">On</string>
     <string name="kg_talkback_pick_wallpaper">Wallpaper, select from library</string>
     <string name="kg_talkback_select_all">Select all</string>
     <string name="kg_talkback_selected">Selected</string>
@@ -1991,6 +1996,8 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="rearCameraTypeHolderStoreList">holderStoreList</string>
     <string name="rearCameraTypeHolderSubMine">holderSubMine</string>
     <string name="rearCameraTypeHolderUse">holderUse</string>
+    <string name="rear_dialog_content_remove_animation">\"Remove animations\" is on, which may affect wallpaper animations. Turn it off in Accessibility > Vision > Display.</string>
+    <string name="rear_dialog_title_remove_animation">Turn off \"Remove animations\"</string>
     <string name="rear_edit_abandon">Discard your changes now?</string>
     <string name="rear_screen_add_success">Added successfully</string>
     <string name="rear_screen_aod_setting">Rear display AOD</string>
@@ -1999,6 +2006,8 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="rear_screen_apply_success">Applied successfully</string>
     <string name="rear_screen_brightness_adjustment">Brightness</string>
     <string name="rear_screen_delete_template">Delete this template now?</string>
+    <string name="rear_screen_display_and_brightness">Display &amp; brightness</string>
+    <string name="rear_screen_drag_prompt">Press and hold to rearrange</string>
     <string name="rear_screen_edit_color_hsl_title">Custom color</string>
     <string name="rear_screen_edit_color_hue">Hue</string>
     <string name="rear_screen_edit_color_lightness">Lightness</string>
@@ -2009,10 +2018,13 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="rear_screen_edit_title_pick">Background</string>
     <string name="rear_screen_edit_title_signature">Signature</string>
     <string name="rear_screen_edit_title_time">Clock</string>
+    <string name="rear_screen_gaze_detection_summary">The rear display stays on when you are looking at the screen</string>
+    <string name="rear_screen_gaze_detection_title">Attention aware display</string>
     <string name="rear_screen_guide_text">"Personalize your rear display.
 All-new designs are now available."</string>
     <string name="rear_screen_list_title">Rear display</string>
     <string name="rear_screen_more_suggestion">More recommendations</string>
+    <string name="rear_screen_my_wallpaper">My photos</string>
     <string name="rear_screen_notice">Notifications</string>
     <string name="rear_screen_screenshot">Screenshot</string>
     <string name="rear_screen_service_assistant">Manage rear display</string>
@@ -2022,6 +2034,7 @@ All-new designs are now available."</string>
     <string name="rear_screen_system_wallpaper_title">Wallpapers</string>
     <string name="rear_screen_template_upper_limit">"Couldn't add more. Delete one in Settings > Rear display and try again."</string>
     <string name="rear_screen_template_upper_limit_old">Delete items in Settings > Rear display > Personalization to be able to add more</string>
+    <string name="rear_screen_timeout_title">Screen on for</string>
     <string name="rear_screen_wallpaper_ai">Generate with AI</string>
     <string name="rear_screen_wallpaper_album">From Gallery</string>
     <string name="rear_screen_wallpaper_empty">None</string>
@@ -2658,9 +2671,11 @@ All-new designs are now available."</string>
     <string name="to_the_desktop">Set as Home screen</string>
     <string name="toast_both_all_apply_failured">"Couldn't apply to Home or Lock screen"</string>
     <string name="toast_both_all_apply_success">Applied to Home and Lock screens successfully</string>
+    <string name="toast_first_install_gallery">Install Gallery to be able to use this feature</string>
     <string name="toast_home_apply_failured">"Couldn't apply to Home screen"</string>
     <string name="toast_home_apply_success">Applied to Home screen successfully</string>
     <string name="toast_image_cannot_segment">"This image doesn't support depth effect"</string>
+    <string name="toast_keep_one_wallpaper">Keep at least one item</string>
     <string name="toast_lockscreen_apply_failured">"Couldn't apply to Lock screen"</string>
     <string name="toast_lockscreen_apply_failured_but_home_apply_success">"Applied to Home screen successfully. Couldn't apply to Lock screen."</string>
     <string name="toast_lockscreen_apply_success">Applied to Lock screen successfully</string>
@@ -2871,6 +2886,8 @@ Go to Themes > My account > Themes lab for more options."</string>
     <string name="wind_direction_7">NW wind</string>
     <string name="wind_direction_7_f">NW wind</string>
     <string name="wind_format">%1$s | Level %2$s</string>
+    <string name="write_settings_permission_dialog_message">To be able to use this feature, turn on \"Allow modifying system settings\" in Settings > Privacy &amp; security > Other permissions > Special permissions > Modify system settings > Themes.</string>
+    <string name="write_settings_permission_dialog_title">Permissions required</string>
     <string name="xiaoai_speech_not_installed_download">Download</string>
     <string name="xiaoai_speech_not_installed_message">Download and install Mi AI voice assistant to continue.</string>
     <string name="xiaoai_speech_not_installed_title">"Mi AI voice assistant isn't installed."</string>
