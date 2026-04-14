@@ -272,6 +272,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
+    <string name="miuix_appcompat_action_sheet_default_message">Select</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
@@ -1035,7 +1036,7 @@ Stay tuned!"</string>
     <string name="pa_picker_home_search_hint">Search for widgets</string>
     <string name="pa_picker_home_title">Add widgets</string>
     <string name="pa_picker_image_text_share">Share</string>
-    <string formatted="false" name="pa_picker_image_text_share_content">\#小米小部件# 用%s小米小部件装扮你的桌面！%s</string>
+    <string formatted="false" name="pa_picker_image_text_share_content">#小米小部件# 用%s小米小部件装扮你的桌面！%s</string>
     <string name="pa_picker_image_text_share_copy_url">Copy URL</string>
     <string name="pa_picker_image_text_share_more">More</string>
     <string name="pa_picker_image_text_share_wechat_favourite">WeChat Favorites</string>
@@ -1202,7 +1203,7 @@ Add widgets to get started."</string>
     <string name="pa_shopping_page_product_item_icon_tag_new">猜您喜欢</string>
     <string name="pa_shopping_page_product_jump_setting_error">An error occurred. Check your network settings and try again.</string>
     <string name="pa_shopping_page_setting_source_desc">Get discounts and deals on products</string>
-    <string name="pa_shopping_page_setting_statement">Disclaimer</string>
+    <string name="pa_shopping_page_setting_statement">كەچۈرۈم جاۋابكارلىق باياناتى</string>
     <string name="pa_shopping_page_setting_update_channel_failure">An error occurred. Check your network settings and try again.</string>
     <string name="pa_shopping_page_setting_widthdraw_desc">Withdraw your consent to the Shopping Privacy Policy</string>
     <string name="pa_shopping_page_setting_withdraw">Withdrawal of consent</string>
@@ -1331,6 +1332,17 @@ Add widgets to get started."</string>
     <string name="pa_sure">OK</string>
     <string name="pa_toast_home_layout_locked">Home screen layout is locked</string>
     <string name="pa_toast_message_not_support_size">"Widgets of this size aren't supported by App vault"</string>
+    <string name="pa_travel_12306_app_name">12306</string>
+    <string name="pa_travel_12306_checkbox_can_be_selected">Dont remind can be selected.</string>
+    <string name="pa_travel_12306_checkbox_selected">Dont remind selected.</string>
+    <string name="pa_travel_12306_dialog_a11y_buttons_tip">Cancel and Bind buttons are clickable</string>
+    <string name="pa_travel_12306_dialog_a11y_content_desc">%1$s，%2$s，%3$s，%4$s</string>
+    <string name="pa_travel_12306_dialog_desc">Bind %s account, enjoy the railway itinerary display and reminder services.</string>
+    <string name="pa_travel_12306_dialog_dontRemind">Do not remind</string>
+    <string name="pa_travel_12306_dialog_negative">Cancle</string>
+    <string name="pa_travel_12306_dialog_paysuc_content_desc">%1$s，%2$s，%3$s</string>
+    <string name="pa_travel_12306_dialog_positive">Bind now</string>
+    <string name="pa_travel_12306_dialog_title">Enable real-time train journey alerts</string>
     <string formatted="false" name="pa_travel_accessibility_arri">%s到达%s</string>
     <string formatted="false" name="pa_travel_accessibility_arri_cross_day">%d天后%s到达%s</string>
     <string name="pa_travel_accessibility_clear">晴</string>
@@ -1533,10 +1545,10 @@ Add widgets to get started."</string>
     <string name="pa_travel_notification_action_ticket_order">Buy ticket</string>
     <string name="pa_travel_notification_action_trip_detail">Trip details</string>
     <string name="pa_travel_notification_action_trip_stat">Trip stats</string>
-    <string name="pa_travel_notification_aod_status_textcolor_airplane">\#1DCD3A</string>
-    <string name="pa_travel_notification_aod_status_textcolor_airplane_abnormal">\#FF6A05</string>
-    <string name="pa_travel_notification_aod_status_textcolor_train">\#3482FF</string>
-    <string name="pa_travel_notification_aod_status_textcolor_train_abnormal">\#FF6900</string>
+    <string name="pa_travel_notification_aod_status_textcolor_airplane">#1DCD3A</string>
+    <string name="pa_travel_notification_aod_status_textcolor_airplane_abnormal">#FF6A05</string>
+    <string name="pa_travel_notification_aod_status_textcolor_train">#3482FF</string>
+    <string name="pa_travel_notification_aod_status_textcolor_train_abnormal">#FF6900</string>
     <string name="pa_travel_notification_arrival_station_name">Arrival station</string>
     <string name="pa_travel_notification_auth">Add</string>
     <string name="pa_travel_notification_auth_account">Add account</string>

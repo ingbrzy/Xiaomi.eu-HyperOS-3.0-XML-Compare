@@ -37,6 +37,10 @@
         <item quantity="one">Selected %1$d item</item>
         <item quantity="other">Selected %1$d items</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
+    </plurals>
     <plurals name="notification_warning">
         <item quantity="one">Storage low (less than %d minute)</item>
         <item quantity="other">Storage low (less than %d minutes)</item>
@@ -53,10 +57,6 @@
         <item quantity="one">"Couldn't restore %d item due to an unknown error."</item>
         <item quantity="other">"Couldn't restore %d items due to an unknown error."</item>
     </plurals>
-    <plurals name="search_recorder_records_hint">
-        <item quantity="one">%d audio recording</item>
-        <item quantity="other">%d audio recordings</item>
-    </plurals>
     <plurals name="search_result">
         <item quantity="one">Found %d recording</item>
         <item quantity="other">Found %d recordings</item>
@@ -68,10 +68,6 @@
     <plurals name="trash_box_delete_items">
         <item quantity="one">Delete %d selected recording permanently?</item>
         <item quantity="other">Delete %d selected recordings permanently?</item>
-    </plurals>
-    <plurals name="trash_box_tip">
-        <item quantity="one">Deleted items can be stored in the trash for up to %d day</item>
-        <item quantity="other">Deleted items can be stored in the trash for up to %d days</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="one">%d not synced</item>

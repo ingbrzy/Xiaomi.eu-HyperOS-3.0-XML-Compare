@@ -130,8 +130,8 @@
         <item quantity="other">Protecting %d apps</item>
     </plurals>
     <plurals name="card_uninstall_title">
-        <item quantity="one">&lt;Data>You can uninstall &lt;font color=#F22424>%d&lt;/font> app&lt;/Data></item>
-        <item quantity="other">&lt;Data>You can uninstall &lt;font color=#F22424>%d&lt;/font> apps&lt;/Data></item>
+        <item quantity="one"><Data>You can uninstall &lt;font color=#F22424>%d&lt;/font> app</Data></item>
+        <item quantity="other"><Data>You can uninstall &lt;font color=#F22424>%d&lt;/font> apps</Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="one">"You've already used %s daily data limit.
@@ -1095,8 +1095,8 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">items</item>
     </plurals>
     <plurals name="power_center_unoffical_battery_dialog_negative">
-        <item quantity="one">Cancel (%ds)</item>
-        <item quantity="other">Cancel (%ds)</item>
+        <item quantity="one">Cancel (%d)</item>
+        <item quantity="other">Cancel (%d)</item>
     </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="one">%s day remaining</item>
@@ -1145,6 +1145,42 @@ You can get a %d-day free trial now!"</item>
     <plurals name="ppermission_usage_virtual_calendar_more">
         <item quantity="one">%1$s | This app returned an empty calendar event %2$d time</item>
         <item quantity="other">%1$s | This app returned an empty calendar event %2$d times</item>
+    </plurals>
+    <plurals name="prem_optimization_app_need_optimize">
+        <item quantity="one">Tap to optimize %d permission</item>
+        <item quantity="other">Tap to optimize %d permissions</item>
+    </plurals>
+    <plurals name="prem_optimization_app_size_summary">
+        <item quantity="one">Selected %d app</item>
+        <item quantity="other">Selected %d apps</item>
+    </plurals>
+    <plurals name="prem_optimization_app_summary">
+        <item quantity="one">%d permission can be adjusted</item>
+        <item quantity="other">%d permissions can be adjusted</item>
+    </plurals>
+    <plurals name="prem_optimization_check_result">
+        <item quantity="one">"%d app's permissions can be optimized"</item>
+        <item quantity="other">"%d apps' permissions can be optimized"</item>
+    </plurals>
+    <plurals name="prem_optimization_content_size_summary">
+        <item quantity="one">%d permission</item>
+        <item quantity="other">%d permissions</item>
+    </plurals>
+    <plurals name="prem_optimization_main_page_title">
+        <item quantity="one">"Optimize %d app's permissions"</item>
+        <item quantity="other">"Optimize %d apps' permissions"</item>
+    </plurals>
+    <plurals name="prem_optimization_notify_total_app_need_optimize">
+        <item quantity="one">"Optimize %d app's permissions for your security"</item>
+        <item quantity="other">"Optimize %d apps' permissions for your security"</item>
+    </plurals>
+    <plurals name="prem_optimization_total_app_need_optimize">
+        <item quantity="one">"Tap to optimize %d app's permissions"</item>
+        <item quantity="other">"Tap to optimize %d apps' permissions"</item>
+    </plurals>
+    <plurals name="prem_optimization_total_title">
+        <item quantity="one">"%d app's permissions can be adjusted"</item>
+        <item quantity="other">"%d apps' permissions can be adjusted"</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="one">%d app icon hidden</item>
@@ -1254,6 +1290,10 @@ You can get a %d-day free trial now!"</item>
         <item quantity="one">Deleted %d virus</item>
         <item quantity="other">Deleted %d viruses</item>
     </plurals>
+    <plurals name="sensitive_permission_authorization_summary">
+        <item quantity="one">Detected %d permission can be adjusted</item>
+        <item quantity="other">Detected %d permissions can be adjusted</item>
+    </plurals>
     <plurals name="sim_lock_puk_dialog_message">
         <item quantity="one">You have only %d attempt left to verify your SIM PUK. If you reach the limit for entering incorrect PUKs, your SIM card will be canceled. Continue anyway?</item>
         <item quantity="other">You have only %d attempt left to verify your SIM PUK. If you reach the limit for entering incorrect PUKs, your SIM card will be canceled. Continue anyway?</item>
@@ -1279,6 +1319,10 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">%s apps are protected</item>
     </plurals>
     <plurals name="sp_settings_exception_count">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <plurals name="st_intercept_number_area_show_number">
         <item quantity="one">%d item</item>
         <item quantity="other">%d items</item>
     </plurals>
@@ -1347,8 +1391,8 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">%1$d items secure</item>
     </plurals>
     <plurals name="title_app_update_cn">
-        <item quantity="one">&lt;Data>Update &lt;font color=#F22424>%d&lt;/font> app&lt;/Data></item>
-        <item quantity="other">&lt;Data>Update &lt;font color=#F22424>%d&lt;/font> apps&lt;/Data></item>
+        <item quantity="one"><Data>Update &lt;font color=#F22424>%d&lt;/font> app</Data></item>
+        <item quantity="other"><Data>Update &lt;font color=#F22424>%d&lt;/font> apps</Data></item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="one">Cleared %d virus</item>
