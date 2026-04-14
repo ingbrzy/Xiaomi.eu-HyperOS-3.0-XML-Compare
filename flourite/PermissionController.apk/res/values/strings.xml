@@ -769,6 +769,7 @@ Allow %4$s to upload a bug report?"</string>
     <string name="miui_grant_dialog_button_deny_and_dont_ask_again">"Deny and don't ask again"</string>
     <string name="miui_grant_dialog_button_only_allow_foreground_locate">Restrict for now</string>
     <string name="miui_grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Always restrict</string>
+    <string name="miui_reject_only_opening_screen">Restrict access during app launch</string>
     <string name="miui_select_allow_access_content">Select items to allow access</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_accessibility_title">Title</string>
