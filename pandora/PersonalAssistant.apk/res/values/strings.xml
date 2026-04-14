@@ -1332,6 +1332,17 @@ Add widgets to get started."</string>
     <string name="pa_sure">OK</string>
     <string name="pa_toast_home_layout_locked">Home screen layout is locked</string>
     <string name="pa_toast_message_not_support_size">"Widgets of this size aren't supported by App vault"</string>
+    <string name="pa_travel_12306_app_name">12306</string>
+    <string name="pa_travel_12306_checkbox_can_be_selected">Dont remind can be selected.</string>
+    <string name="pa_travel_12306_checkbox_selected">Dont remind selected.</string>
+    <string name="pa_travel_12306_dialog_a11y_buttons_tip">Cancel and Bind buttons are clickable</string>
+    <string name="pa_travel_12306_dialog_a11y_content_desc">%1$s，%2$s，%3$s，%4$s</string>
+    <string name="pa_travel_12306_dialog_desc">Bind %s account, enjoy the railway itinerary display and reminder services.</string>
+    <string name="pa_travel_12306_dialog_dontRemind">Do not remind</string>
+    <string name="pa_travel_12306_dialog_negative">Cancle</string>
+    <string name="pa_travel_12306_dialog_paysuc_content_desc">%1$s，%2$s，%3$s</string>
+    <string name="pa_travel_12306_dialog_positive">Bind now</string>
+    <string name="pa_travel_12306_dialog_title">Enable real-time train journey alerts</string>
     <string formatted="false" name="pa_travel_accessibility_arri">%s到达%s</string>
     <string formatted="false" name="pa_travel_accessibility_arri_cross_day">%d天后%s到达%s</string>
     <string name="pa_travel_accessibility_clear">晴</string>
