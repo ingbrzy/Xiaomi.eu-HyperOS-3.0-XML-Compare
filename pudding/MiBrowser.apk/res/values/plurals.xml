@@ -242,6 +242,10 @@
         <item quantity="one">%d tab</item>
         <item quantity="other">%d tabs</item>
     </plurals>
+    <plurals name="toast_check_content">
+        <item quantity="one">Check out %d new item</item>
+        <item quantity="other">Check out %d new items</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="one">Selected %1$d item</item>
         <item quantity="other">Selected %1$d items</item>
