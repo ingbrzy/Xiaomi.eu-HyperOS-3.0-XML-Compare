@@ -125,6 +125,24 @@ This change may allow your device's location to be tracked by nearby devices."</
     <string name="wifi_network_switch_dialog_positive_button">Switch</string>
     <string name="wifi_network_switch_dialog_title_bad_internet">%1$s is low quality. Switch to %2$s?</string>
     <string name="wifi_network_switch_dialog_title_no_internet">%1$s does not appear to be connected to the internet. Switch to %2$s?</string>
+    <string name="wifi_p2p_dialog2_display_pin_label">PIN</string>
+    <string name="wifi_p2p_dialog2_enter_pin_label">PIN</string>
+    <string name="wifi_p2p_dialog2_received_message">%1$s wants to connect to your device.</string>
+    <string name="wifi_p2p_dialog2_received_message_countdown">{countdown, plural, =1 {{device} wants to connect to your device. Accept in {countdown} second.} other {{device} wants to connect to your device. Accept in {countdown} seconds.} }</string>
+    <string name="wifi_p2p_dialog2_received_message_display_pin">%1$s wants to connect to your device with the following PIN.</string>
+    <string name="wifi_p2p_dialog2_received_message_display_pin_countdown">{countdown, plural, =1 {{device} wants to connect to your device with the following PIN. Accept in {countdown} second.} other {{device} wants to connect to your device with the following PIN. Accept in {countdown} seconds.} }</string>
+    <string name="wifi_p2p_dialog2_received_message_enter_pin">Enter the PIN shown on %1$s to connect.</string>
+    <string name="wifi_p2p_dialog2_received_message_enter_pin_countdown">{countdown, plural, =1 {Enter the PIN shown on {device} within {countdown} second to connect.} other {Enter the PIN shown on {device} within {countdown} seconds to connect.} }</string>
+    <string name="wifi_p2p_dialog2_received_negative_button">Cancel</string>
+    <string name="wifi_p2p_dialog2_received_positive_button">Connect</string>
+    <string name="wifi_p2p_dialog2_received_title">Device connection</string>
+    <string name="wifi_p2p_dialog2_received_title_display_pin">Device connection</string>
+    <string name="wifi_p2p_dialog2_received_title_enter_pin">Device connection</string>
+    <string name="wifi_p2p_dialog2_sent_message">Invitation sent to %1$s.</string>
+    <string name="wifi_p2p_dialog2_sent_message_display_pin">Enter this PIN on %1$s to connect.</string>
+    <string name="wifi_p2p_dialog2_sent_positive_button">OK</string>
+    <string name="wifi_p2p_dialog2_sent_title">Device connection</string>
+    <string name="wifi_p2p_dialog2_sent_title_display_pin">Device connection</string>
     <string name="wifi_p2p_enter_pin_message">Type the required PIN:</string>
     <string name="wifi_p2p_frequency_conflict_message">"Your device will temporarily disconnect from Wi-Fi while it's connected to %1$s"</string>
     <string name="wifi_p2p_from_message">From:</string>

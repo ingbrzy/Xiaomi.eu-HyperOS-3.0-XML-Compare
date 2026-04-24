@@ -3,8 +3,8 @@
     <string name="config_ethernet_iface_regex">*</string>
     <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
     <string name="config_networkCaptivePortalServerUrl" />
-    <string name="config_thread_model_name">Thread Border Router</string>
-    <string name="config_thread_vendor_name">Android</string>
+    <string name="config_thread_model_name">ro.product.model</string>
+    <string name="config_thread_vendor_name">ro.product.manufacturer</string>
     <string name="config_thread_vendor_oui" />
     <string name="connectivityResourcesAppLabel">System Connectivity Resources</string>
     <string name="mobile_network_available_no_internet">No internet</string>

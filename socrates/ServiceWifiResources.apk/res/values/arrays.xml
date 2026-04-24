@@ -16,6 +16,7 @@
     <integer-array name="config_wifiConnectedScanType">
         <item>2</item>
     </integer-array>
+    <array name="config_wifiDelayedSelectionCarrierIds" />
     <string-array name="config_wifiDisableReasonAuthenticationFailureCarrierSpecificDurationMs_carrier_overrides">
         <item>:::1839:::14400000</item>
     </string-array>
@@ -45,6 +46,7 @@
     <array name="config_wifiInterfacePriorityTreatAsForegroundList" />
     <array name="config_wifiOobPseudonymEnabled_carrier_overrides" />
     <array name="config_wifiOobPseudonymEntitlementServerUrl_carrier_overrides" />
+    <array name="config_wifiP2pAwareConcurrencyAllowlist" />
     <array name="config_wifiPasspointUseApWanLinkStatusAnqpElementFqdnAllowlist" />
     <integer-array name="config_wifiRssiLevelThresholds">
         <item>-88</item>
@@ -54,6 +56,7 @@
     </integer-array>
     <array name="config_wifiSingleSavedNetworkConnectedScanIntervalScheduleSec" />
     <array name="config_wifiSingleSavedNetworkConnectedScanType" />
+    <array name="config_wifiSoftApAwareConcurrencyAllowlist" />
     <array name="config_wifiTwtBlockedOuiList" />
     <array name="config_wifiUnknownAkmToKnownAkmMapping" />
     <array name="config_wifi_fatal_firmware_alert_error_code_list" />

@@ -13,6 +13,7 @@
     <string name="safety_center_gear_label">Settings</string>
     <string name="safety_center_info_label">Information</string>
     <string name="safety_center_issue_card_prefix_content_description">Alert. %1$s</string>
+    <string name="safety_center_more_issues_card_collapse_action">Collapse</string>
     <string name="safety_center_more_issues_card_expand_action">{count, plural, =1 {Expand and see one more alert} other {Expand and see # more alerts} }</string>
     <string name="safety_center_more_issues_card_title">More alerts</string>
     <string name="safety_center_qs_close_button">Close</string>
