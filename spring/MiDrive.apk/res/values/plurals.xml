@@ -129,6 +129,6 @@
     </plurals>
     <plurals name="view_all">
         <item quantity="one">%1$d item</item>
-        <item quantity="other">1$d items</item>
+        <item quantity="other">%1$d items</item>
     </plurals>
 </resources>
