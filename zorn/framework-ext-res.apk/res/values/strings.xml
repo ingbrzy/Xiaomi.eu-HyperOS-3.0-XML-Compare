@@ -183,6 +183,7 @@
     <string name="config_quick_scanner_notification_content_text">Scan QR codes and directly open web pages</string>
     <string name="config_quick_scanner_notification_title">Quick scanner</string>
     <string name="config_tof_client_Component">com.miui.securitycore/com.miui.tof.service.TofService</string>
+    <string name="config_wifi_eht_enable_countrys">ES,IT,FR,DE,NL,PT,CH,BE,LU,IE,AD,PL,CZ,BG,RO, SK,SI,HU,GR,DK,FI,SE,LT,EE,LV,AT,HR,NO,CY,GB, RS,ME,AL,MK,MD,BA,SA,AE,QA,MX,CR,MY,TH,ID,HK, US,CN,CO,CL,PE,BR,GT,IL,DO,AR,SG,JP,TW,MO,PH, TR,PK,HN,KR,BH,VN</string>
     <string name="config_xiaoaiComponent">com.miui.voiceassist/com.xiaomi.voiceassistant.VoiceService</string>
     <string name="configure_input_methods">Choose keyboards</string>
     <string name="confirm_cancel_task_files">Cancel sending files to %1$s?</string>
