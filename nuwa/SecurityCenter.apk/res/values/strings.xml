@@ -700,6 +700,7 @@ Supported for both group and individual chats"</string>
     <string name="applock_lock_mode_locked_or_exit_summary">Lock apps whenever you leave, exit, or switch to another app</string>
     <string name="applock_lock_mode_locked_summary">"Don't require verification until device is locked"</string>
     <string name="applock_login_and_add_account">Sign in &amp; add</string>
+    <string name="applock_mixed_input_password_hint_text">Enter password</string>
     <string name="applock_mixtype_hidepwd_icon">Hide password</string>
     <string name="applock_mixtype_showpwd_icon">Show password</string>
     <string name="applock_no_account_login">"You aren't signed in to your Xiaomi Account"</string>
@@ -3769,6 +3770,7 @@ Your device is %s faster now."</string>
     <string name="menu_item_virus_risky_app_detect_risky_app_default_msg">"%s poses unknown security risks and may lead to privacy leaks or financial loss. "</string>
     <string name="menu_item_virus_risky_app_detect_risky_app_feedback">If you disagree with this alert, tap here to submit feedback.</string>
     <string name="menu_item_virus_risky_app_detect_risky_app_feedback_name">App name: %s</string>
+    <string name="menu_item_virus_risky_app_detect_risky_app_feedback_new">%s If you disagree with this alert, tap (click)here(/click) to submit feedback.</string>
     <string name="menu_item_virus_risky_app_detect_risky_app_feedback_packagename">Package name: %s</string>
     <string name="menu_item_virus_risky_app_detect_risky_app_feedback_problem">Describe the issue in detail: %s</string>
     <string name="menu_item_virus_risky_app_detect_risky_app_feedback_sign">App signature: %s</string>
@@ -7384,6 +7386,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="toast_lockscreen_glogin_empty_password">Password required</string>
     <string name="toast_network_eror">"Can't connect to network"</string>
     <string name="toast_network_switch">This app can connect to the internet</string>
+    <string name="toast_no_install_getapps">Install GetApps and try again</string>
     <string name="toast_reject_sms_read_permission_success">Set successfully</string>
     <string name="toast_removed_from_virus_white_list">Removed from exceptions. Item will be scanned next time.</string>
     <string name="toast_root_apply_accept">Root access granted to %s</string>
