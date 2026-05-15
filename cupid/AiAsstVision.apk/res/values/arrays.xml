@@ -37,7 +37,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -67,7 +67,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
@@ -162,6 +162,14 @@
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
         <item>@fraction/miuix_default_card_stroke_gradient_color_end_position</item>
     </array>
+    <string-array name="default_home_state_entries">
+        <item>@string/default_home_state_full_screen</item>
+        <item>@string/default_home_state_floating</item>
+    </string-array>
+    <string-array name="default_home_state_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
         <item>@string/early_morning</item>
