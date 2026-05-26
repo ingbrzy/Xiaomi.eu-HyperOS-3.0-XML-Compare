@@ -203,6 +203,8 @@
     <string name="aireco_web_url_error">加载失败，请重试</string>
     <string name="aireco_web_voice_assistant_launch_small_program_error">远程服务错误，打开微信小程序失败</string>
     <string name="aireco_web_web_loading_retry">点击重试</string>
+    <string name="airports_get_path">api/backend/travel/airport/list</string>
+    <string name="airports_key">17ea0b27-ff1e-4563-aea9-96e7d23815d2</string>
     <string name="am">AM</string>
     <string name="amap_key">cf58291c7fba253cb7902a391e4af8e6</string>
     <string name="androidx_startup">androidx.startup</string>
@@ -771,6 +773,8 @@
     <string name="focus_weather_title">There is %1$s during the commuting period, it is recommended to leave early, remember to bring rain gear, and be sure to pay attention to safety when traveling</string>
     <string name="form_action_fill_failed">"Couldn't fill in. Wait a minute or two and try again."</string>
     <string name="form_action_partial_fill_failed">Filled in some form content</string>
+    <string name="formal_cn_url">https://ai.engine.miui.com</string>
+    <string name="formal_global_url">https://ai.engine.intl.miui.com</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
@@ -2302,6 +2306,7 @@
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pm">PM</string>
+    <string name="preUrl">https://preview-ai.engine.miui.com</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="privacy_agree">Agree</string>
     <string name="privacy_agreement">Privacy Policy</string>
@@ -2402,6 +2407,8 @@ We care about your privacy. All information is anonymized. Xiaomi HyperAI Engine
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
+    <string name="screen_rules_key">38afcd58-bec7-49a3-adec-e982062907ca</string>
+    <string name="screen_rules_post_path">api/pageInfo/getPageInfo</string>
     <string name="search_menu_title">Search</string>
     <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
     <string name="searchview_clear_text_content_description">Clear text</string>
