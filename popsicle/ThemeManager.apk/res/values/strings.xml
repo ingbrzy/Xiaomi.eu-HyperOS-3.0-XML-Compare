@@ -367,6 +367,8 @@
     <string name="brightness">Brightness</string>
     <string name="browse_mode">Online mode</string>
     <string name="browse_mode_desc">Allow this app to connect to the internet, access online content, as well as use items on your device (e.g. photos, audio, and videos). None of your personal information will be collected.</string>
+    <string name="browse_mode_hint">"You're using Online mode.
+Tap the screen and select Agree to use normally."</string>
     <string name="browser_local_resource">Local resources</string>
     <string name="call_notification_answer_action">Answer</string>
     <string name="call_notification_answer_video_action">Video</string>
