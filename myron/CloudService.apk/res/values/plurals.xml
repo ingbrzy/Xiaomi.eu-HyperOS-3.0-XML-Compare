@@ -196,10 +196,6 @@
         <item quantity="one">%s item</item>
         <item quantity="other">%s items</item>
     </plurals>
-    <plurals name="micloud_preference_recover_deleted_data">
-        <item quantity="one">Members can restore deleted items within %d day</item>
-        <item quantity="other">Members can restore deleted items within %d days</item>
-    </plurals>
     <plurals name="micloud_preference_recover_summary">
         <item quantity="one">Users without a membership can restore contacts to any version saved within %d day</item>
         <item quantity="other">Users without a membership can restore contacts to any version saved within %d days</item>
