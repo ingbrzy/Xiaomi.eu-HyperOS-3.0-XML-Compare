@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <integer-array name="ai_btn_download_gradient_border_colors">
+        <item>0xffffffff</item>
+        <item>0x33ffffff</item>
+    </integer-array>
+    <integer-array name="ai_btn_gradient_border_colors">
+        <item>0xffffffff</item>
+        <item>0x33ffffff</item>
+    </integer-array>
     <integer-array name="ai_button_gradient_border_colors">
         <item>0xb3ffffff</item>
         <item>0x26ffffff</item>
@@ -7,6 +15,51 @@
     <integer-array name="ai_close_button_gradient_border_colors">
         <item>0x0</item>
         <item>0x0</item>
+    </integer-array>
+    <integer-array name="ai_creation_generate_bg_blend_colors">
+        <item>0xccc2c2c2</item>
+        <item>0xffccf500</item>
+    </integer-array>
+    <integer-array name="ai_creation_generate_bg_blend_colors_">
+        <item>0xcca8a8a8</item>
+        <item>0xffb3f500</item>
+    </integer-array>
+    <integer-array name="ai_creation_stroke_top_item_text_blend_colors">
+        <item>0xffffffff</item>
+        <item>0x26ffffff</item>
+    </integer-array>
+    <integer-array name="ai_creation_top_item_text_blend_colors">
+        <item>0xcca6a6a6</item>
+        <item>0xffe6f000</item>
+    </integer-array>
+    <integer-array name="ai_edit_input_text_blend_colors">
+        <item>0xcca3a3a3</item>
+        <item>0xffe6f500</item>
+    </integer-array>
+    <integer-array name="ai_edit_text_blend_colors">
+        <item>0x99808080</item>
+        <item>0xffaf500</item>
+    </integer-array>
+    <array name="ai_edit_text_blend_pop_colors" />
+    <integer-array name="ai_edit_text_send_blend_colors">
+        <item>0xffffff</item>
+        <item>0xffffff</item>
+    </integer-array>
+    <integer-array name="ai_edit_top_item_text_blend_colors">
+        <item>0xb3808080</item>
+        <item>0xffccf200</item>
+    </integer-array>
+    <integer-array name="ai_edt_tag_gradient_border_colors">
+        <item>0xffffffff</item>
+        <item>0xccffffff</item>
+    </integer-array>
+    <integer-array name="ai_edt_tag_gradient_border_colors_new">
+        <item>0xffffffff</item>
+        <item>0x33ffffff</item>
+    </integer-array>
+    <integer-array name="ai_edt_txt_blend_colors">
+        <item>0xcca3a3a3</item>
+        <item>0xffe6f500</item>
     </integer-array>
     <integer-array name="ai_input_gradient_border_colors">
         <item>0xffffffff</item>
@@ -27,6 +80,11 @@
     <integer-array name="ai_material_default_blend_modes">
         <item>100</item>
         <item>106</item>
+    </integer-array>
+    <array name="ai_material_default_blend_pop_modes" />
+    <integer-array name="ai_material_view_bg_blend_modes">
+        <item>3</item>
+        <item>18</item>
     </integer-array>
     <integer-array name="ai_panel_blend_colors">
         <item>0xff7d7d7d</item>
@@ -66,6 +124,38 @@
         <item>0xb3ffffff</item>
         <item>0x1affffff</item>
     </integer-array>
+    <integer-array name="ai_save_tag_download_gradient_border_colors">
+        <item>0xffffffff</item>
+        <item>0x26ffffff</item>
+    </integer-array>
+    <integer-array name="ai_save_tag_gradient_border_colors">
+        <item>0xffffffff</item>
+        <item>0x26ffffff</item>
+    </integer-array>
+    <integer-array name="ai_select_btn_colors">
+        <item>0xcc969696</item>
+        <item>0xffe0f000</item>
+    </integer-array>
+    <integer-array name="ai_select_button_colors">
+        <item>0xcc6b6b6b</item>
+        <item>0xffd6f000</item>
+    </integer-array>
+    <integer-array name="ai_select_close_partial_button_colors">
+        <item>0xcc969696</item>
+        <item>0xffe0f000</item>
+    </integer-array>
+    <integer-array name="ai_select_download_button_colors">
+        <item>0xb3808080</item>
+        <item>0xffccf200</item>
+    </integer-array>
+    <integer-array name="ai_select_download_partial_button_colors">
+        <item>0xb3808080</item>
+        <item>0xffccf200</item>
+    </integer-array>
+    <integer-array name="ai_select_partial_button_colors">
+        <item>0xcc6b6b6b</item>
+        <item>0xffd6f000</item>
+    </integer-array>
     <integer-array name="ai_send_button_gradient_border_colors">
         <item>0xffffffff</item>
         <item>0x33ffffff</item>
@@ -99,6 +189,38 @@
         <item>0x33ff6e1a</item>
         <item>0x336d5bff</item>
         <item>0x330044ff</item>
+    </integer-array>
+    <integer-array name="ai_tag_blend_colors">
+        <item>0xb3808080</item>
+        <item>0xffccf200</item>
+    </integer-array>
+    <integer-array name="ai_tag_close_gradient_border_new_colors">
+        <item>0xffffffff</item>
+        <item>0x33ffffff</item>
+    </integer-array>
+    <integer-array name="ai_tag_download_blend_colors">
+        <item>0xb3808080</item>
+        <item>0xffccf200</item>
+    </integer-array>
+    <integer-array name="ai_tag_download_gradient_border_new_colors">
+        <item>0xffffffff</item>
+        <item>0x26ffffff</item>
+    </integer-array>
+    <integer-array name="ai_tag_gradient_border_colors">
+        <item>0xffffffff</item>
+        <item>0x26ffffff</item>
+    </integer-array>
+    <integer-array name="ai_tag_gradient_border_new_colors">
+        <item>0xffffffff</item>
+        <item>0x33ffffff</item>
+    </integer-array>
+    <integer-array name="ai_tag_input_send_blend_colors">
+        <item>0xffffffff</item>
+        <item>0xffffffff</item>
+    </integer-array>
+    <integer-array name="ai_tag_top_item_gradient_border_colors">
+        <item>0xffffffff</item>
+        <item>0x26ffffff</item>
     </integer-array>
     <integer-array name="ai_widget_blend_colors">
         <item>0xe6e3e3e3</item>
@@ -187,6 +309,23 @@
         <item>yupei</item>
     </string-array>
     <string-array name="calc_hand_write_white_global_device_list">
+        <item>muyu</item>
+        <item>uke</item>
+        <item>sheng</item>
+        <item>turner</item>
+        <item>piano</item>
+        <item>yupei</item>
+    </string-array>
+    <string-array name="calc_handwrite_device_whitelist">
+        <item>muyu</item>
+        <item>uke</item>
+        <item>turner</item>
+        <item>piano</item>
+        <item>yupei</item>
+        <item>jinghu</item>
+        <item>violin</item>
+    </string-array>
+    <string-array name="calc_handwrite_global_device_whitelist">
         <item>muyu</item>
         <item>uke</item>
         <item>sheng</item>
@@ -297,6 +436,181 @@
         <item>vnd.android.cursor.item/postal-address_v2</item>
         <item>vnd.android.cursor.item/note</item>
     </string-array>
+    <array name="creation_ball_default_color_item">
+        <item>#1f1f1f</item>
+        <item>#1d39c4</item>
+        <item>#ff4d4f</item>
+    </array>
+    <array name="creation_colors">
+        <item>#fecdcb</item>
+        <item>#ffdac0</item>
+        <item>#ffe7c0</item>
+        <item>#ffeec3</item>
+        <item>#fff5bf</item>
+        <item>#e4f8c0</item>
+        <item>#c6f3ce</item>
+        <item>#c3f2f2</item>
+        <item>#cce0ff</item>
+        <item>#ddd9fd</item>
+        <item>#edd2fd</item>
+        <item>#f9cfe5</item>
+        <item>#ffffff</item>
+        <item>#fdb9b6</item>
+        <item>#ffcba7</item>
+        <item>#ffdda7</item>
+        <item>#ffe7ab</item>
+        <item>#fff2a6</item>
+        <item>#daf5a7</item>
+        <item>#b0edba</item>
+        <item>#abecec</item>
+        <item>#b8d3ff</item>
+        <item>#cfcafd</item>
+        <item>#e6c0fc</item>
+        <item>#f7bcda</item>
+        <item>#e5e5e5</item>
+        <item>#fc928c</item>
+        <item>#ffad76</item>
+        <item>#ffca76</item>
+        <item>#ffda7b</item>
+        <item>#ffea73</item>
+        <item>#c4ef74</item>
+        <item>#83e393</item>
+        <item>#7be2e2</item>
+        <item>#8fbaff</item>
+        <item>#b4abfc</item>
+        <item>#d79bfb</item>
+        <item>#f296c5</item>
+        <item>#cccccc</item>
+        <item>#fb6058</item>
+        <item>#ff8837</item>
+        <item>#ffb237</item>
+        <item>#ffc93f</item>
+        <item>#ffe133</item>
+        <item>#a9e835</item>
+        <item>#4ad761</item>
+        <item>#3fd5d5</item>
+        <item>#5d9bff</item>
+        <item>#9285fa</item>
+        <item>#c56ef9</item>
+        <item>#ec66aa</item>
+        <item>#a6a6a6</item>
+        <item>#fa382e</item>
+        <item>#ff6a05</item>
+        <item>#ff9f05</item>
+        <item>#ffbb0f</item>
+        <item>#ffd900</item>
+        <item>#94e203</item>
+        <item>#1dcd3a</item>
+        <item>#0fcaca</item>
+        <item>#3482ff</item>
+        <item>#7767f9</item>
+        <item>#b74af7</item>
+        <item>#e74095</item>
+        <item>#808080</item>
+        <item>#d53027</item>
+        <item>#d95a04</item>
+        <item>#d98704</item>
+        <item>#d99f0d</item>
+        <item>#d9b800</item>
+        <item>#7ec003</item>
+        <item>#19ae31</item>
+        <item>#0dacac</item>
+        <item>#2c6fd9</item>
+        <item>#6558d4</item>
+        <item>#9c3fd2</item>
+        <item>#c4367f</item>
+        <item>#606060</item>
+        <item>#aa261f</item>
+        <item>#ad4803</item>
+        <item>#ad6c03</item>
+        <item>#ad7f0a</item>
+        <item>#ad9400</item>
+        <item>#659a02</item>
+        <item>#148b27</item>
+        <item>#0a8989</item>
+        <item>#2358ad</item>
+        <item>#5146a9</item>
+        <item>#7c32a8</item>
+        <item>#9d2c65</item>
+        <item>#464646</item>
+        <item>#7d1c17</item>
+        <item>#803503</item>
+        <item>#805003</item>
+        <item>#805e08</item>
+        <item>#806d00</item>
+        <item>#4a7102</item>
+        <item>#0f671d</item>
+        <item>#086565</item>
+        <item>#1a4180</item>
+        <item>#3c347d</item>
+        <item>#5c257c</item>
+        <item>#74204b</item>
+        <item>#2d2d2d</item>
+        <item>#641612</item>
+        <item>#662a02</item>
+        <item>#664002</item>
+        <item>#664b06</item>
+        <item>#665700</item>
+        <item>#3b5a01</item>
+        <item>#0c5217</item>
+        <item>#054747</item>
+        <item>#122e59</item>
+        <item>#2a2457</item>
+        <item>#401a56</item>
+        <item>#511634</item>
+        <item>#000000</item>
+    </array>
+    <array name="creation_gradual_color">
+        <item>#ffff6565</item>
+        <item>#ffffbb55</item>
+        <item>#fffff175</item>
+        <item>#ffb3ffa7</item>
+        <item>#ff98fff9</item>
+        <item>#ff7b98ff</item>
+        <item>#ffff75e1</item>
+    </array>
+    <array name="creation_ink_default_color_item">
+        <item>#40a9ff</item>
+        <item>#ffc53d</item>
+        <item>#ff7a45</item>
+    </array>
+    <array name="creation_mark_pen_default_color_item">
+        <item>#bae7ff</item>
+        <item>#fffb8f</item>
+        <item>#ffd8bf</item>
+    </array>
+    <array name="creation_pencil_default_color_item">
+        <item>#096dd9</item>
+        <item>#000000</item>
+        <item>#cf1322</item>
+    </array>
+    <array name="creation_shape_fill_default_color_item">
+        <item>#ff40a9ff</item>
+        <item>#ffff4d4f</item>
+        <item>#ffffa940</item>
+        <item>#ffffec3d</item>
+        <item>#ff73d13d</item>
+        <item>#ffd3adf7</item>
+        <item>#ffffffff</item>
+        <item>#ff000000</item>
+        <item>#00000000</item>
+    </array>
+    <array name="creation_shape_stroke_default_color_item">
+        <item>#ff096dd9</item>
+        <item>#ffcf1322</item>
+        <item>#ffd46b08</item>
+        <item>#ffd4b106</item>
+        <item>#ff389e0d</item>
+        <item>#ff531dab</item>
+        <item>#ffffffff</item>
+        <item>#ff000000</item>
+        <item>#00000000</item>
+    </array>
+    <array name="creation_watercolor_default_color_item">
+        <item>#87e8de</item>
+        <item>#ffa39e</item>
+        <item>#ffadd2</item>
+    </array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
         <item>0x1fffffff</item>
         <item>0x14ffffff</item>

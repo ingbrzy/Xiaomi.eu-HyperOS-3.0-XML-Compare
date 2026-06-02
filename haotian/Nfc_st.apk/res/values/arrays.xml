@@ -326,7 +326,6 @@
     </string-array>
     <string-array name="tag_intent_blocked_app_list">
         <item>com.google.android.tag</item>
-        <item>com.android.apps.tag</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
