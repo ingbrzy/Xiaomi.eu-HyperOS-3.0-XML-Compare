@@ -7,6 +7,9 @@
         <item>hwid</item>
         <item>themeID</item>
     </string-array>
+    <string-array name="ai_pet_device">
+        <item>bixi</item>
+    </string-array>
     <string-array name="ai_record_device">
         <item>haotian</item>
         <item>dada</item>
@@ -59,6 +62,13 @@
         <item>pixiu</item>
         <item>prague</item>
         <item>yili</item>
+        <item>warhol</item>
+        <item>chagall</item>
+        <item>byron</item>
+        <item>lhasa</item>
+        <item>warsaw</item>
+        <item>athens</item>
+        <item>songyuan</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -87,7 +97,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -117,11 +127,15 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-        <item>\#</item>
+        <item>#</item>
     </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
         <item>@string/pm</item>
+    </string-array>
+    <string-array name="app_ignore_exported">
+        <item>com.tencent.mm</item>
+        <item>com.eg.android.AlipayGphone</item>
     </string-array>
     <string-array name="apply_icon_choices">
         <item>@string/de_apply_icons</item>
@@ -217,12 +231,12 @@
         <item>@fraction/miuix_default_card_stroke_gradient_color_end_position</item>
     </array>
     <string-array name="default_colors">
-        <item>\#ff0000</item>
-        <item>\#ff7f00</item>
-        <item>\#ffff00</item>
-        <item>\#800080</item>
-        <item>\#0000ff</item>
-        <item>\#00ff00</item>
+        <item>#ff0000</item>
+        <item>#ff7f00</item>
+        <item>#ffff00</item>
+        <item>#800080</item>
+        <item>#0000ff</item>
+        <item>#00ff00</item>
     </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
