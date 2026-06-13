@@ -193,7 +193,7 @@
     <string name="credential_manage_desc">Passkeys allow you to sign in to your accounts more quickly and securely than conventional sign-in methods. This passkey is associated with your fingerprint on this Xiaomi device and is synced between devices via Xiaomi Cloud services.</string>
     <string name="credential_notification_login_account_desc">Sign in to your Xiaomi Account to be able to use a passkey.</string>
     <string name="credential_notification_open_sync_desc">Turn on Password manager to be able to use a passkey.</string>
-    <string name="cta_permission_all_intent">With Passwords, you can manage passwords for your app accounts. Passwords saved in Password manager and Mi Browser will be automatically transferred here.</string>
+    <string name="cta_permission_all_intent_for_passwords_manager">With Manage passwords, you can manage passwords for your app accounts. Passwords saved in Password manager and Mi Browser will be automatically transferred here.</string>
     <string name="cta_permission_desc_camera">For scanning QR codes to get tokens</string>
     <string name="cta_permission_desc_installed_apps">For managing passwords for specific apps</string>
     <string name="cta_permission_desc_wlan">For accessing and managing Wi-Fi networks</string>
@@ -654,7 +654,6 @@ Only passwords that don't match high-risk entries will be synced to the cloud. T
     <string name="security_type_wpa_wpa2_enterprise">WPA/WPA2-Enterprise</string>
     <string name="setting">Settings</string>
     <string name="settings_clear_data_confirmation_description">"If you delete passwords now, you'll have to enter them manually next time you sign in. Delete the password anyway?"</string>
-    <string name="shell_apk_name">Passwords</string>
     <string name="side_sheet_accessibility_pane_title">Side Sheet</string>
     <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
     <string name="solar_chinese_holiday_1001">国庆节</string>
