@@ -63,6 +63,16 @@
         <item>@string/am</item>
         <item>@string/pm</item>
     </string-array>
+    <string-array name="apply_range_entries">
+        <item>@string/lws_wallpaper_apply_lockscreen</item>
+        <item>@string/lws_wallpaper_apply_home</item>
+        <item>@string/lws_wallpaper_apply_both</item>
+    </string-array>
+    <string-array name="apply_range_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>
@@ -179,6 +189,15 @@
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
     </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
     <string-array name="feature_desc">
         <item>Optimized for international users by Xiaomi.eu</item>
     </string-array>
@@ -194,16 +213,6 @@
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
     </string-array>
-    <string-array name="idbct_opt">
-        <item>@string/idbct_opt_auto_select_main_text</item>
-        <item>@string/idbct_opt_high_def_main_text</item>
-        <item>@string/idbct_opt_low_dev_main_text</item>
-    </string-array>
-    <integer-array name="idbct_opt_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="month12">
         <item>January</item>
         <item>February</item>
@@ -331,6 +340,30 @@
         <item>@string/solar_term_light_snow</item>
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
+    </string-array>
+    <string-array name="switch_interval_entries">
+        <item>@string/sst_sti_every_unlock</item>
+        <item>@string/sst_sti_5_min</item>
+        <item>@string/sst_sti_15_min</item>
+        <item>@string/sst_sti_1_hour</item>
+        <item>@string/sst_sti_3_hours</item>
+        <item>@string/sst_sti_1_day</item>
+    </string-array>
+    <string-array name="switch_interval_values">
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="switch_order_entries">
+        <item>@string/sst_switch_wallpaper_order_fixed</item>
+        <item>@string/sst_switch_wallpaper_order_random</item>
+    </string-array>
+    <string-array name="switch_order_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
