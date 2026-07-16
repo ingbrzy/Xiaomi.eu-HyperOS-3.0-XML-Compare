@@ -9132,6 +9132,7 @@
         <item>com.android.updater</item>
         <item>com.miui.misightservice</item>
         <item>com.miui.personalassistant</item>
+        <item>com.google.android.devicelockcontroller</item>
     </string-array>
     <string-array name="package_static_white_list_base">
         <item>android</item>
@@ -9643,6 +9644,7 @@
         <item>com.android.calendar</item>
         <item>com.xiaomi.mihomemanager</item>
         <item>com.xiaomi.mihomemanager:app_monitor</item>
+        <item>com.google.android.devicelockcontroller</item>
     </string-array>
     <string-array name="process_system_permission_white_list">
         <item>com.miui.cleanmaster</item>
