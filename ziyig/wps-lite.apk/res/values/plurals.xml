@@ -29,45 +29,6 @@
         <item quantity="one">%d min ago</item>
         <item quantity="other">%d mins ago</item>
     </plurals>
-    <plurals name="action_description_all_paused">
-        <item quantity="one">%s download paused</item>
-        <item quantity="other">%s downloads paused</item>
-    </plurals>
-    <plurals name="action_description_all_start">
-        <item quantity="one">Start %s download</item>
-        <item quantity="other">Start %s downloads</item>
-    </plurals>
-    <plurals name="browser_home_number_items">
-        <item quantity="other">%d items total</item>
-    </plurals>
-    <plurals name="browser_private_space_set_dialog_content">
-        <item quantity="one">Set %d item as private?</item>
-        <item quantity="other">Set %d items as private?</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="one">Delete %d download?</item>
-        <item quantity="other">Delete %d downloads?</item>
-    </plurals>
-    <plurals name="download_info_count_deleted_tasks">
-        <item quantity="one">Deleted %s download successfully</item>
-        <item quantity="other">Deleted %s downloads successfully</item>
-    </plurals>
-    <plurals name="durationDays">
-        <item quantity="one">%1$d day</item>
-        <item quantity="other">%1$d days</item>
-    </plurals>
-    <plurals name="durationHours">
-        <item quantity="one">%1$d hr</item>
-        <item quantity="other">%1$d hrs</item>
-    </plurals>
-    <plurals name="durationMinutes">
-        <item quantity="one">%1$d min</item>
-        <item quantity="other">%1$d mins</item>
-    </plurals>
-    <plurals name="durationSeconds">
-        <item quantity="one">%1$d sec</item>
-        <item quantity="other">%1$d secs</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>
@@ -98,9 +59,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="one">1 minute ago</item>
         <item quantity="other">%d minutes ago</item>
-    </plurals>
-    <plurals name="number_items">
-        <item quantity="one">%s item</item>
-        <item quantity="other">%s items</item>
     </plurals>
 </resources>
