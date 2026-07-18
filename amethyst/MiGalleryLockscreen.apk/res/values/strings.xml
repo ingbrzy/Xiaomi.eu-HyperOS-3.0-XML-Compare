@@ -51,6 +51,8 @@
     <string name="ad_btn_installing">Installing</string>
     <string name="ad_btn_open">Open</string>
     <string name="ad_btn_pending">Pending</string>
+    <string name="ad_click_install">点击安装 App</string>
+    <string name="ad_click_open">点击打开 App</string>
     <string name="ad_click_or_swipe_install">点击或上滑安装 App</string>
     <string name="ad_click_or_swipe_open">点击或上滑打开 App</string>
     <string name="ad_continue_download">继续下载</string>
