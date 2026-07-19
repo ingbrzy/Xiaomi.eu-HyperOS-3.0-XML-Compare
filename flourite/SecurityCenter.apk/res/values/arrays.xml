@@ -635,6 +635,70 @@
         <item>@string/gb_game_mode_fill_type</item>
         <item>@string/gb_game_mode_ratio_type</item>
     </string-array>
+    <string-array name="gb_gpu_custom_anisotropic">
+        <item>1X</item>
+        <item>2X</item>
+        <item>4X</item>
+        <item>8X</item>
+        <item>16X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anisotropic_value">
+        <item>1.0</item>
+        <item>2.0</item>
+        <item>4.0</item>
+        <item>8.0</item>
+        <item>16.0</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anti">
+        <item>1X</item>
+        <item>2X</item>
+        <item>4X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anti_value">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_anti">
+        <item>2X</item>
+        <item>4X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_anti_value">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Balanced</item>
+        <item>High quality</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Balanced</item>
+        <item>Default</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_lod_marks">
+        <item>-2.0</item>
+        <item>-1.0</item>
+        <item>0.0</item>
+        <item>1.0</item>
+        <item>2.0</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_lod_value">
+        <item>-2.0</item>
+        <item>-1.0</item>
+        <item>0.0</item>
+        <item>1.0</item>
+        <item>2.0</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>High speed</item>
+        <item>Balanced</item>
+        <item>High quality</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture_value">
+        <item>Fastest</item>
+        <item>Balanced</item>
+        <item>Default</item>
+    </string-array>
     <string-array name="gb_voice_change_gender">
         <item>@string/gb_voice_changer_gender_man</item>
         <item>@string/gb_voice_changer_gender_female</item>
