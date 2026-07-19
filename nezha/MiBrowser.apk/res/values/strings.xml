@@ -655,8 +655,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">069018b384b7477c93519b91fabeb0db</string>
-    <string name="com.miapm.build_id">89c19f167f7f4d7f8324ecdbe1dbf7f2</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">983d63dc58164eeba56b6aa4ea5a051c</string>
+    <string name="com.miapm.build_id">b45fd69623264684a3844137aace1e43</string>
     <string name="comment_copied">Copied successfully</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
@@ -2434,14 +2434,14 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="privacy_authorize_cannot_revoke_dialog_msg">"This action requires uploading your Performance ID, which can't be done in Incognito mode. Leave Incognito mode and try again."</string>
     <string name="privacy_authorize_network_error">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
     <string name="privacy_authorize_revoke">Withdraw</string>
-    <string name="privacy_authorize_revoke_dialog_msg">After you withdraw consent, this app will stop collecting data, and all the related data will be deleted from the servers. This might make the app virtually unusable. Withdraw consent now?</string>
-    <string name="privacy_authorize_revoke_dialog_title">Withdrawal of consent</string>
+    <string name="privacy_authorize_revoke_dialog_msg">"If you continue with this action, you'll withdraw from the User Agreement. You'll be automatically signed out of this app and your personal information will be deleted. This might make some features of the app unavailable and cause errors on other synced devices. This action can't be undone."</string>
+    <string name="privacy_authorize_revoke_dialog_title">Withdrawal from agreement</string>
     <string name="privacy_authorize_revoke_failed">"Couldn't withdraw consent"</string>
     <string name="privacy_authorize_revoke_success">Consent withdrawn successfully</string>
     <string name="privacy_authorize_revoke_time">Withdraw (%1$d)</string>
     <string name="privacy_authorize_revoking">Withdrawing consent…</string>
     <string name="privacy_authorize_summary">Toggle the switch on and off to grant or withdraw your consent</string>
-    <string name="privacy_authorize_title">Withdrawal of consent</string>
+    <string name="privacy_authorize_title">Withdrawal from agreement</string>
     <string name="privacy_btn_more">More</string>
     <string name="privacy_disagree">"Don't agree"</string>
     <string name="privacy_improve_performance">User Experience Program</string>
@@ -2710,6 +2710,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="search_shipin">Video</string>
     <string name="search_sm">SM</string>
     <string name="search_sogou">Sogou</string>
+    <string name="search_suggestion_title">Suggestions</string>
     <string name="search_taobao">Taobao</string>
     <string name="search_title_hint">Search</string>
     <string name="search_trending_new">New</string>
