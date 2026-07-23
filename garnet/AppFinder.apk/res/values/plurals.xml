@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hour ago</item>
+    </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d hour ago</item>
     </plurals>
@@ -82,6 +85,9 @@
         <item quantity="one">Rewind %d second</item>
         <item quantity="other">Rewind %d seconds</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Half an hour ago</item>
+    </plurals>
     <plurals name="hot_news_create_time_days_ago">
         <item quantity="one">%1$d day ago</item>
         <item quantity="other">%1$d days ago</item>
@@ -93,6 +99,10 @@
     <plurals name="hot_news_create_time_mins_ago">
         <item quantity="one">%1$d min ago</item>
         <item quantity="other">%1$d mins ago</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="one">"%dh "</item>
+        <item quantity="other">"%dh "</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 hour</item>
@@ -106,6 +116,9 @@
     <plurals name="in_num_minutes">
         <item quantity="one">in 1 minute</item>
         <item quantity="other">in %d minutes</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
     </plurals>
     <plurals name="minute">
         <item quantity="one">"%dm "</item>
@@ -123,6 +136,10 @@
         <item quantity="one">%d new notification</item>
         <item quantity="other">%d new notifications</item>
     </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes ago</item>
+    </plurals>
     <plurals name="quick_link_guide_participated">
         <item quantity="one">%d person answered</item>
         <item quantity="other">%d people answered</item>
@@ -134,6 +151,10 @@
     <plurals name="talkback_prompt_setting_revoke_positive_countdown">
         <item quantity="one">You can withdraw consent in %1$d second.</item>
         <item quantity="other">You can withdraw consent in %1$d seconds.</item>
+    </plurals>
+    <plurals name="tiktok_world_cup_in_progress">
+        <item quantity="one">In progress %d min</item>
+        <item quantity="other">In progress %d mins</item>
     </plurals>
     <plurals name="youtube_visit_count">
         <item quantity="one">%1$s view</item>
