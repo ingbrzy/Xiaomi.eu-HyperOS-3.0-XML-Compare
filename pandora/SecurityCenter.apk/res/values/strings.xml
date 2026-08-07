@@ -1535,6 +1535,7 @@ You can turn this feature on and off in Control center."</string>
     <string name="connected_interconnection">Interconnectivity</string>
     <string name="connecting">Connecting…</string>
     <string name="contacts_package_name">com.android.contacts</string>
+    <string name="contacts_will_also_be_blocked">Including contacts</string>
     <string name="continue_install">Install</string>
     <string name="continue_set">Continue</string>
     <string name="convenient_mode">Unlock all apps at once</string>
@@ -4626,6 +4627,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pb_data_fetch_all_error">"Couldn't read data. The power bank may be disconnected or not supported."</string>
     <string name="pb_data_fetch_all_error_new">"Couldn't read data. The power bank may be disconnected or not supported. If it was disconnected, reconnect the charging cable and try again."</string>
     <string name="pb_data_fetch_partial_error">"Some items aren't available due to a delay or an unsupported power bank"</string>
+    <string name="pb_data_fetch_partial_error_new">"Some items aren't available due to a delay or an unsupported power bank"</string>
     <string name="pb_manufacturer">Manufacturer</string>
     <string name="pb_measure_point">Sensor %1$d</string>
     <string name="pb_production_date">Production date</string>
@@ -5008,6 +5010,7 @@ Ultra battery saver"</string>
     <string name="permission_action_virtual">Return blank messages</string>
     <string name="permission_action_virtual_common_summary">Grant apps the necessary permissions but return empty messages to protect your privacy</string>
     <string name="permission_action_virtual_phone_summary">"Grant apps the relevant permissions, but don't allow them to access the SIM card's real phone number"</string>
+    <string name="permission_changed_retry">Changed permissions. Restart apps.</string>
     <string name="permission_close_permission_control_dialog_msg">"When permission manager is off, apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources."</string>
     <string name="permission_close_permission_control_dialog_title">Turn off?</string>
     <string name="permission_exception_title">Restricted connection for apps</string>
@@ -6997,6 +7000,7 @@ Withdraw consent now?"</string>
     <string name="status_bar_network_flow_purchase">"   Purchase >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   Setup data plan >"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="still_need_start">Block</string>
     <string name="still_retain_btn">Keep</string>
     <string name="stop_collecting_data">"Keyboard won't learn your habits"</string>
     <string name="stop_collecting_data_detail">"The keyboard won't collect data for improving predictive typing and suggesting frequent phrases based on your habits."</string>
