@@ -1,7 +1,3 @@
-Removed: [az] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_summaries (wrong item count)
-Removed: [az] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (wrong item count)
-Removed: [az] arrays.xml: array/bluetooth_a2dp_codec_summaries (wrong item count)
-Removed: [az] arrays.xml: array/bluetooth_a2dp_codec_titles (wrong item count)
 Removed: [az-rAZ] arrays.xml: array/apn_auth_entries (wrong item count)
 Removed: [az-rAZ] arrays.xml: array/app_ops_summaries (wrong item count)
 Removed: [az-rAZ] arrays.xml: array/bearer_entries (wrong item count)
