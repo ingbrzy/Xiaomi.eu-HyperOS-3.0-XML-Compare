@@ -277,17 +277,13 @@
     <string-array name="qr_code_component_array">
         <item>com.tencent.mm/com.tencent.mm.plugin.offline.ui.WalletOfflineCoinPurseUI</item>
         <item>com.tencent.mm/com.tencent.mm.framework.app.UIPageFragmentActivity</item>
-        <item>com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin</item>
-        <item>com.eg.android.AlipayGphone/com.alipay.mobile.onsitepay.merge.OnsitepayActivity</item>
-        <item>com.eg.android.AlipayGphone/com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity</item>
-        <item>com.eg.android.AlipayGphone/com.alipay.mobile.verifyidentity.module.password.pay.ui.PayPwdDialogActivity</item>
         <item>com.unionpay/com.unionpay.activity.payment.UPActivityPaymentQrCodeOut</item>
+        <item>com.unionpay/com.unionpay.activity.payment.UPActivityPaymentQrCodeOutNew</item>
         <item>com.unionpay/com.unionpay.activity.react.UPActivityReactNative</item>
         <item>cn.com.bmac.nfc/cn.com.bmac.nfc.ui.activity.QRMainActivity</item>
         <item>enfc.metro/enfc.metro.main.MainActivity</item>
         <item>com.umetrip.android.msky.app/com.umetrip.android.msky.checkin.virtualcabin.activity.CkiLiveSeatMapRecordsActivity</item>
         <item>com.umetrip.android.msky.app/com.umetrip.android.msky.checkin.boarding.activity.CkiBoardingCardActivity</item>
-        <item>com.eg.android.AlipayGphone/com.alipay.android.phone.xriver.bundlex.CSGAPushActivity</item>
     </string-array>
     <string-array name="rf_profiles">
         <item>nxp,0,3,100,0,1,2,3,2,100</item>
@@ -326,7 +322,6 @@
     </string-array>
     <string-array name="tag_intent_blocked_app_list">
         <item>com.google.android.tag</item>
-        <item>com.android.apps.tag</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>

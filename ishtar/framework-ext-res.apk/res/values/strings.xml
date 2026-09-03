@@ -732,6 +732,10 @@
     <string name="mute">Silent mode</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="nearby_share">Nearby Share</string>
+    <string name="night_wakeup_notification_exit">Turn off</string>
+    <string name="night_wakeup_notification_message">Adjusting brightness to protect your eyes</string>
+    <string name="night_wakeup_notification_summary">Turning on…</string>
+    <string name="night_wakeup_notification_title">Nighttime eye comfort is on</string>
     <string name="nio">NIO</string>
     <string name="nio_phone">NIO phone</string>
     <string name="no_avaliable_application">No apps available</string>
