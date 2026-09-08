@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lottie_color_mappings_expressive">
+        <item>.primary:@sud_system_primary_dark</item>
+        <item>.primaryContainer:@sud_system_primary_container_dark</item>
+        <item>.secondary:@sud_system_secondary_dark</item>
+        <item>.secondaryContainer:@sud_system_secondary_container_dark</item>
+        <item>.outline:@sud_system_outline_dark</item>
+        <item>.outlineVariant:@sud_system_outline_variant_dark</item>
+        <item>.surfaceContainer:@sud_system_surface_container_dark</item>
+        <item>.surfaceDim:@sud_system_surface_dim_dark</item>
+    </string-array>
+</resources>
