@@ -718,8 +718,10 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
     <string name="advanced_battery_title">Battery usage</string>
     <string name="advanced_gesture">Custom gestures</string>
     <string name="advanced_screen_paper_mode_title">Reading mode</string>
+    <string name="advanced_screen_paper_mode_title_eye_comfort">Eye Comfort</string>
     <string name="advanced_screen_paper_mode_title_eye_protection">Xiaomi Vision Care</string>
     <string name="advanced_screen_paper_mode_title_new">Eye comfort</string>
+    <string name="advanced_screen_paper_mode_title_vision_care">Xiaomi Vision Care</string>
     <string name="advanced_section_header">General</string>
     <string name="advanced_security_title">Advanced</string>
     <string name="advanced_settings">Additional settings</string>
