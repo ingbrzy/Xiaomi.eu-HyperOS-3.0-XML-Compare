@@ -199,7 +199,14 @@ your devices?"</string>
     <string name="car_card_warm_default_none">-</string>
     <string name="car_crad_air_control_text">AC</string>
     <string name="car_device_camera_name">%1$s front camera</string>
+    <string name="car_seat_adjust_position">Move forward/backward</string>
+    <string name="car_seat_adjust_recline">Recline</string>
     <string name="car_seat_can_not_use">Not available</string>
+    <string name="car_seat_control_unavailable">"Seat controls aren't available"</string>
+    <string name="car_seat_new_title">座椅控制</string>
+    <string name="car_seat_tab_adjust">副驾调节</string>
+    <string name="car_seat_tab_heating_vent">Climate</string>
+    <string name="car_seat_tab_massage">Massage</string>
     <string name="cast_auth_count_down">Enter code from \"%1$s\" to start casting (%2$ds)</string>
     <string name="cast_auth_title">Enter code</string>
     <string name="cast_image_des">Casting tutorial</string>
@@ -1218,7 +1225,7 @@ Note: You'll receive a routine system warning when you turn on accessibility fea
     <string name="message_install">Install Mi Canvas to be able to sketch across devices.</string>
     <string name="message_update">Update Mi Canvas to be able to sketch across devices.</string>
     <string name="midnight">Night</string>
-    <string name="mihome_camera_device_during_calll">摄像机正被“微信通话”使用，暂时无法协同调用</string>
+    <string name="mihome_camera_device_during_call_normal">The camera is in use. Wait a minute or two and try again.</string>
     <string name="mihome_camera_device_not_available">"Can't connect more devices"</string>
     <string name="mihome_camera_device_offline">"Couldn't connect. Camera is offline."</string>
     <string name="mihome_camera_device_sleep">Exit Sleep mode and try again</string>
