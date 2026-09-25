@@ -551,6 +551,7 @@ Only items that are backed up will appear in your search results."</string>
     <string name="picker_album_videos">Videos</string>
     <string name="picker_all_tab">All</string>
     <string name="picker_category_album">Albums</string>
+    <string name="picker_error_type_tip_text">"This app isn't fully compatible and may not be able to process the items you selected. If you run into issues, contact the app developer."</string>
     <string name="picker_page_camera">Camera</string>
     <string name="pm">PM</string>
     <string name="pohtopicker_horizontal_pager_description">Page %1$s of %2$s</string>
