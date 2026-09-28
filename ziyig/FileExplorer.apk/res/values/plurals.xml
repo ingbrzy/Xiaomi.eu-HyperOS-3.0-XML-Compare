@@ -86,10 +86,6 @@
         <item quantity="one">Transferred %s item</item>
         <item quantity="other">Transferred %s items</item>
     </plurals>
-    <plurals name="follow_count">
-        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> follower</item>
-        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> followers</item>
-    </plurals>
     <plurals name="found_new_files">
         <item quantity="one">Found %1$d new file</item>
         <item quantity="other">Found %1$d new files</item>
