@@ -199,7 +199,14 @@ your devices?"</string>
     <string name="car_card_warm_default_none">-</string>
     <string name="car_crad_air_control_text">AC</string>
     <string name="car_device_camera_name">%1$s front camera</string>
+    <string name="car_seat_adjust_position">Move forward/backward</string>
+    <string name="car_seat_adjust_recline">Recline</string>
     <string name="car_seat_can_not_use">Not available</string>
+    <string name="car_seat_control_unavailable">"Seat controls aren't available"</string>
+    <string name="car_seat_new_title">座椅控制</string>
+    <string name="car_seat_tab_adjust">副驾调节</string>
+    <string name="car_seat_tab_heating_vent">Climate</string>
+    <string name="car_seat_tab_massage">Massage</string>
     <string name="cast_auth_count_down">Enter code from \"%1$s\" to start casting (%2$ds)</string>
     <string name="cast_auth_title">Enter code</string>
     <string name="cast_image_des">Casting tutorial</string>
