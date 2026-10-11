@@ -526,7 +526,7 @@
     <string name="main_fragment_title_home_excellent">Featured</string>
     <string name="main_fragment_title_search">Top</string>
     <string name="main_fragment_title_user">Settings</string>
-    <string name="marketSdkVersion">3.2.22</string>
+    <string name="marketSdkVersion">3.2.27</string>
     <string name="midnight">Night</string>
     <string name="minutes_15">Every 15 minutes</string>
     <string name="minutes_5">Every 5 minutes</string>
