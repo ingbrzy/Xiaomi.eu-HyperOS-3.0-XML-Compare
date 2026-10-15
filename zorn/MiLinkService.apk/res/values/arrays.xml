@@ -70,6 +70,11 @@
         <item>IDM_MC_ADV_MODE_HIGH</item>
         <item>IDM_MC_ADV_MODE_CLOSE</item>
     </string-array>
+    <string-array name="check_upgrade_package_name">
+        <item>com.xiaomi.mirror</item>
+        <item>com.xiaomi.mis</item>
+        <item>com.xiaomi.mi_connect_service</item>
+    </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>

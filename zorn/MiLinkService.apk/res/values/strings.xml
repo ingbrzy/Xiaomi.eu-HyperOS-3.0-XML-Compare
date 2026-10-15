@@ -124,6 +124,7 @@ your devices?"</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
     <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
+    <string name="btn_exit_send">Exit</string>
     <string name="button_cancel">Cancel</string>
     <string name="button_confirm">Select</string>
     <string name="call_notification_answer_action">Answer</string>
@@ -196,6 +197,7 @@ your devices?"</string>
     <string name="car_card_seat_main_seat">Driver</string>
     <string name="car_card_seat_second_seat">Front passenger</string>
     <string name="car_card_seat_warm">Seat heating</string>
+    <string name="car_card_tv_control_text">Rear entertainment screen remote</string>
     <string name="car_card_warm_default_none">-</string>
     <string name="car_crad_air_control_text">AC</string>
     <string name="car_device_camera_name">%1$s front camera</string>
@@ -305,6 +307,12 @@ your devices?"</string>
     <string name="circulate_card_audio_change_phone_title">Switch to phone audio</string>
     <string name="circulate_card_audio_playing_pad_title">Using tablet audio</string>
     <string name="circulate_card_audio_playing_phone_title">Using phone audio</string>
+    <string name="circulate_card_car_tv_gesture_click_subtitle">2/2</string>
+    <string name="circulate_card_car_tv_gesture_ok_title">Tap the control area to confirm</string>
+    <string name="circulate_card_car_tv_gesture_panel_line1">Swipe to control up, down, left, or right</string>
+    <string name="circulate_card_car_tv_gesture_panel_line2">Tap to confirm</string>
+    <string name="circulate_card_car_tv_gesture_slide_subtitle">1/2</string>
+    <string name="circulate_card_car_tv_gesture_slide_title">Swipe the control area to switch</string>
     <string name="circulate_card_disconnect">Disconnect</string>
     <string name="circulate_card_loading_title_audio_stereo">Stereo system</string>
     <string name="circulate_card_loading_title_band">Band</string>
@@ -343,6 +351,9 @@ to mirror this tablet's screen"</string>
     <string name="circulate_card_sticker_control_contentDescription">Control panel. You can exit from here.</string>
     <string name="circulate_card_sticker_dressing_equipment">Customize device</string>
     <string name="circulate_card_sticker_expend_contentDescription">Show customized devices</string>
+    <string name="circulate_card_sticker_input_alert_cancel">Cancel</string>
+    <string name="circulate_card_sticker_input_alert_confirm">OK</string>
+    <string name="circulate_card_sticker_input_alert_title">Sync input</string>
     <string name="circulate_card_sticker_no">No stickers</string>
     <string name="circulate_card_sticker_remote_control">TV remote</string>
     <string name="circulate_card_sticker_remote_control_bottom">Down</string>
@@ -370,6 +381,10 @@ to mirror this tablet's screen"</string>
     <string name="circulate_card_tv_gesture_return">Back</string>
     <string name="circulate_card_tv_gesture_slide">Slide to move cursor</string>
     <string name="circulate_card_tv_gesture_slide_title">Slide to control</string>
+    <string name="circulate_card_tv_keyboard_no_focus">TV has not entered the search state</string>
+    <string name="circulate_card_tv_keyboard_no_focus_tip">Please open the search box on the TV homepage and then try again.</string>
+    <string name="circulate_card_tv_keyboard_unavailable">Sync input is unavailable now</string>
+    <string name="circulate_card_tv_keyboard_unavailable_tip">Please try again later.</string>
     <string name="circulate_card_tv_my_app">More apps</string>
     <string name="circulate_card_tv_notes_button_cancel">Cancel</string>
     <string name="circulate_card_tv_notes_button_confirm">Send</string>
@@ -915,6 +930,12 @@ View help if you have problems connecting."</string>
     <string name="error_a11y_label">Error: invalid</string>
     <string name="error_icon_content_description">Error</string>
     <string name="evening">Afternoon</string>
+    <string name="exchange_failed_dialog_message_china">请确保贴贴分享设备已开启蓝牙和Wi-Fi</string>
+    <string name="exchange_failed_dialog_message_global">请确保贴贴分享设备已开启蓝牙和Wi-Fi</string>
+    <string name="exchange_failed_dialog_message_pad_china">请确保贴贴分享设备已开启蓝牙和Wi-Fi，且已在系统设置中开启“设备互联”和“贴贴分享”</string>
+    <string name="exchange_failed_dialog_message_pad_global">请确保贴贴分享设备已开启蓝牙和Wi-Fi，且已在系统设置中开启“设备互联”和“贴贴分享”</string>
+    <string name="exchange_failed_dialog_positive_button">知道了</string>
+    <string name="exchange_failed_dialog_title">连接失败</string>
     <string name="expand_button_title">Advanced</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="extended_screen_bittom">Extend from bottom</string>
@@ -1457,6 +1478,9 @@ Note: You'll receive a routine system warning when you turn on accessibility fea
     <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
     <string name="mtrl_timepicker_cancel">Cancel</string>
     <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="near_share_cta_dialog_message">Turn on Touch to share in Settings > Interconnectivity > Xiaomi Share and try again.</string>
+    <string name="near_share_cta_dialog_positive_button_text">Got it</string>
+    <string name="near_share_cta_dialog_title">"Couldn't connect"</string>
     <string name="nearby_device_file_access">"Receive a notification when nearby devices access this device's files"</string>
     <string name="nfc_connect_failed_toast">"Couldnt't cast. Try again."</string>
     <string name="night">Evening</string>
@@ -1500,6 +1524,9 @@ Note: You'll receive a routine system warning when you turn on accessibility fea
     <string name="notify_wifiap_dialog_title">Configure network</string>
     <string name="ok">确定</string>
     <string name="ok_button">Got it</string>
+    <string name="onehop_car_reject_tips">"You haven't agreed to the Vehicle Networking System Terms of Service. Complete authorization on the main display and try again."</string>
+    <string name="onehop_connected_fail">"Couldn't connect"</string>
+    <string name="onehop_connecting_tips">"Connecting to the vehicle's hotspot…"</string>
     <string name="onehop_different_region_toast">"Can't connect. Phone and tablet have different system versions."</string>
     <string name="onehop_mirror_guide_message_button">Got it</string>
     <string name="onehop_mirror_guide_message_text_1">Cast your phone display to your computer with one tap.</string>
@@ -1748,6 +1775,8 @@ Note: You'll receive a routine system warning when you turn on accessibility fea
     <string name="permission_allowed">Granted</string>
     <string name="permission_label_access_app_meta">跨设备使用应用时获取应用信息权限</string>
     <string name="permission_uballowed">Not granted</string>
+    <string name="phone_car_upgrade_notification_content_system">发现系统新版本%1$s</string>
+    <string name="phone_car_upgrade_notification_title">手车互联待升级</string>
     <string name="picker_view_description">Cross-device camera. You can tap inside the card to select cameras on nearby devices.</string>
     <string name="picker_view_outside_description">Tap to close this card.</string>
     <string name="pkg_com_alibaba_android_rimet">com.alibaba.android.rimet</string>
@@ -2051,6 +2080,8 @@ Make sure you've turned on Game Turbo before casting games."</string>
     <string name="talkback_stream_resume">Resume button</string>
     <string name="talkback_stream_stop">Stop button. Tap to stop filming.</string>
     <string name="talkback_stream_switch">Switch between front and back cameras</string>
+    <string name="taptop_toast_not_support">Disconnect from the vehicle and try again</string>
+    <string name="taptop_toast_relayed">Audio has been transferred to the vehicle</string>
     <string name="temperature_warning_dialog_message">This device is overheated. Wait for it to cool down before sharing camera feed.</string>
     <string name="temperature_warning_dialog_positive_button">Got it</string>
     <string name="temperature_warning_dialog_title">"Can't use cross-device camera"</string>
@@ -2166,6 +2197,10 @@ Make sure you've turned on Game Turbo before casting games."</string>
     <string name="upgrade_login_dialog_message">Sign in to your Xiaomi Account to be able to view your connected devices.</string>
     <string name="upgrade_login_dialog_sure">Sign in</string>
     <string name="upgrade_login_dialog_title">Sign in to Xiaomi Account</string>
+    <string name="upgrade_milink_upgrade_dialog_message">应用发现新版本v%1$s</string>
+    <string name="upgrade_milink_upgrade_dialog_negative_button">取消</string>
+    <string name="upgrade_milink_upgrade_dialog_positive_button">立即更新</string>
+    <string name="upgrade_milink_upgrade_dialog_title">设备互联升级</string>
     <string name="upgrade_new_devices_version">An update is available for this device.</string>
     <string name="upgrade_new_version">An update is available</string>
     <string name="upgrade_no_devices">No updates available</string>
