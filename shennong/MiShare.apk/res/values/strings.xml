@@ -708,7 +708,7 @@ Before using Xiaomi Share, you must grant the following permissions, as well as 
     <string name="share_open_nfc_title">Turn on NFC</string>
     <string name="share_refuse">Transfer rejected</string>
     <string name="share_send_notification_describe">Recipient: %1$s</string>
-    <string name="share_show_nfc_position"><Data>&lt;a href=%1$s>View NFC area&lt;/a></Data></string>
+    <string name="share_show_nfc_position">&lt;a href=%1$s>View Xiaomi phone NFC area&lt;/a></string>
     <string name="share_to_be_sent">Pending</string>
     <string name="share_waiting_connect">Pending</string>
     <string name="share_waiting_other_recv">Sending files</string>
@@ -776,6 +776,10 @@ Before using Xiaomi Share, you must grant the following permissions, as well as 
     <string name="switch_mode_close">Off</string>
     <string name="switch_mode_close_os3">Off</string>
     <string name="switch_mode_sameaccount">From this account</string>
+    <string name="tap_share_audio_transfer_describe">"While audio is playing, open the Xiaomi Smart Play card or a media app, then hold your phone near the vehicle's NFC tag"</string>
+    <string name="tap_share_audio_transfer_title">Transfer audio playback</string>
+    <string name="tap_share_car_card_describe">"When no audio is playing, hold your phone near the vehicle's NFC tag"</string>
+    <string name="tap_share_car_card_title">Vehicle controls</string>
     <string name="tap_share_condition_describe">"%1$d. Both devices have NFC, Bluetooth, and Wi-Fi turned on.
 %2$d. On your Xiaomi device, update Xiaomi Share to version %3$s.
 %4$d. On your iPhone, install the Xiaomi Interconnectivity app."</string>
@@ -783,10 +787,10 @@ Before using Xiaomi Share, you must grant the following permissions, as well as 
 %2$d. On your Xiaomi device, update Xiaomi Share to version %3$s.
 %4$d. On your iPhone, install the Xiaomi Interconnectivity app."</string>
     <string name="tap_share_condition_describe_os3">"%1$d. Make sure both devices are unlocked and have NFC, Bluetooth, and Wi-Fi turned on.
-%2$d. Update your Xiaomi device to Xiaomi HyperOS 3 or later. You can also search for Xiaomi Share in Settings to check whether \"Touch to share\" is supported.
+%2$d. Update your Xiaomi device to Xiaomi HyperOS 3.0 or later. You can also search for Xiaomi Share in Settings to check whether \"Touch to share\" is supported.
 %4$d. Make sure you are using an iPhone 12 or a newer model and it's running iOS 17 or later. Install the latest version of Xiaomi Interconnectivity on your iPhone."</string>
     <string name="tap_share_condition_describe_os3_china">"%1$d. Make sure both devices are unlocked and have NFC, Bluetooth, and Wi-Fi turned on.
-%2$d. Update your Xiaomi device to Xiaomi HyperOS 3 or later. You can also search for Xiaomi Share in Settings to check whether \"Touch to share\" is supported.
+%2$d. Update your Xiaomi device to Xiaomi HyperOS 3.0 or later. You can also search for Xiaomi Share in Settings to check whether \"Touch to share\" is supported.
 %4$d. Make sure you are using an iPhone 12 or a newer model and it's running iOS 17 or later. Install the latest version of Xiaomi Interconnectivity on your iPhone."</string>
     <string name="tap_share_connecting_this_wifi">Connecting to this Wi-Fi network</string>
     <string name="tap_share_connecting_this_wlan">Connecting to this Wi-Fi network</string>
@@ -807,14 +811,19 @@ Before using Xiaomi Share, you must grant the following permissions, as well as 
 %d. Share contacts by viewing a contact's details page, on the selection page, or by tapping \"Share\" to open a sharing pop-up.
 %d. Share a web page by opening the page in Mi Browser or tapping \"Share\" to open a sharing pop-up.
 "</string>
+    <string name="tap_share_device_usage_condition">Requirements</string>
     <string name="tap_share_file_describe">Use Touch to share from the selection page of File Manager, or by tapping \"Send\" to open a sharing menu.</string>
     <string name="tap_share_file_title">Share files</string>
     <string name="tap_share_game_team_up_describe">Enter a group room in Mobile Legends: Bang Bang to use Touch to share. Update Mobile Legends: Bang Bang to version %1$s or later first.</string>
     <string name="tap_share_game_team_up_title">Game group</string>
+    <string name="tap_share_help_title">Help</string>
+    <string name="tap_share_help_with_car">Sharing with Xiaomi Auto</string>
+    <string name="tap_share_help_with_phone_iphone">Sharing with a Xiaomi phone or iPhone</string>
     <string name="tap_share_image_and_video_comment">You can send the following types of content:</string>
     <string name="tap_share_image_and_video_describe">View a full image in Gallery or press and hold to open the selection page to use Touch to share, or tap \"Send\" to open a sharing menu.</string>
     <string name="tap_share_image_and_video_title">Share photos and videos</string>
     <string name="tap_share_image_describe">Touch the back NFC areas of two devices together to quickly share items</string>
+    <string name="tap_share_image_describe_with_car">"Hold your phone near your vehicle's NFC tag to transfer audio or access vehicle controls"</string>
     <string name="tap_share_is_connect_this_wifi">Connect to this Wi-Fi network?</string>
     <string name="tap_share_is_connect_this_wlan">Connect to this Wi-Fi network?</string>
     <string name="tap_share_navigation_address_describe">Open the details of a location in Baidu Maps to use Touch to share, or tap \"Share\" to open a sharing menu. Update Baidu Maps to version %1$s or later first.</string>
@@ -826,6 +835,7 @@ Before using Xiaomi Share, you must grant the following permissions, as well as 
     <string name="tap_share_send_this_wifi">Share this Wi-Fi network</string>
     <string name="tap_share_send_this_wlan">Share this Wi-Fi network</string>
     <string name="tap_share_subTitle">Touch the backs of two devices together to share items</string>
+    <string name="tap_share_tips_desc_generic">"Hold the back of the phone near the other device's NFC area to share items"</string>
     <string name="tap_share_tips_title">Touch the backs of two devices together to share items</string>
     <string name="tap_share_title">Touch to share</string>
     <string name="tap_share_wifi_cannot_share">"Can't share this network"</string>
@@ -837,6 +847,12 @@ Before using Xiaomi Share, you must grant the following permissions, as well as 
     <string name="tap_share_wifi_password_describe_china">"To share a Wi-Fi network you're connected to, open the Wi-Fi list to use Touch to share, or tap the connected Wi-Fi network to open a sharing menu."</string>
     <string name="tap_share_wifi_password_title">Share Wi-Fi password</string>
     <string name="tap_share_wifi_password_title_china">Share Wi-Fi password</string>
+    <string name="tap_share_with_car_condition_describe_os4">"%1$d. Install and set up the official NFC tag in your Xiaomi Auto by following the instructions.
+%2$d. Update your Xiaomi phone to Xiaomi HyperOS 3.0 or later. You can also search for \"Touch to share\" in Settings to check whether your phone supports this feature.
+%4$d. Make sure the phone and vehicle screens are on and unlocked, then turn on NFC, Bluetooth, Wi-Fi, and Touch to share."</string>
+    <string name="tap_share_with_car_condition_describe_os4_china">"%1$d. Install and set up the official NFC tag in your Xiaomi Auto by following the instructions.
+%2$d. Update your Xiaomi phone to Xiaomi HyperOS 3.0 or later. You can also search for \"Touch to share\" in Settings to check whether your phone supports this feature.
+%4$d. Make sure the phone and vehicle screens are on and unlocked, then turn on NFC, Bluetooth, Wi-Fi, and Touch to share."</string>
     <string name="tapshare_receive_describe_wifi">Connect to \"%1$s\"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
