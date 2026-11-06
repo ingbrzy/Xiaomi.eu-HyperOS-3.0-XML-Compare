@@ -21,7 +21,6 @@ Removed: [es-rUS] plurals.xml: plurals/download_info_count_deleted_tasks (wrong 
 Removed: [fa-rIR] plurals.xml: plurals/download_info_count_deleted_tasks (wrong item format)
 Removed: [fi] plurals.xml: plurals/download_info_count_deleted_tasks (wrong item format)
 Removed: [fr] plurals.xml: plurals/download_info_count_deleted_tasks (wrong item format)
-Removed: [fr] plurals.xml: plurals/number_items (wrong item format)
 Removed: [hr] plurals.xml: plurals/action_description_all_paused (wrong item format)
 Removed: [hr] plurals.xml: plurals/action_description_all_start (wrong item format)
 Removed: [hr] plurals.xml: plurals/download_info_count_deleted_tasks (wrong item format)
