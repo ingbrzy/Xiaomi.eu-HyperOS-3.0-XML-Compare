@@ -96,6 +96,9 @@
         <item quantity="one">1 minute ago</item>
         <item quantity="other">%d minutes ago</item>
     </plurals>
+    <plurals name="phone_car_upgrade_notification_content_app">
+        <item quantity="other">%1$d 个应用待升级</item>
+    </plurals>
     <plurals name="tv_remote_auth_count_down">
         <item quantity="one">"Enter %1$s's code (%2$ds)"</item>
         <item quantity="other">"Enter %1$s's code (%2$ds)"</item>
