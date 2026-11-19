@@ -140,14 +140,6 @@
         <item quantity="one">1 minute ago</item>
         <item quantity="other">%d minutes ago</item>
     </plurals>
-    <plurals name="quick_link_guide_participated">
-        <item quantity="one">%d person answered</item>
-        <item quantity="other">%d people answered</item>
-    </plurals>
-    <plurals name="second">
-        <item quantity="one">%ds</item>
-        <item quantity="other">%ds</item>
-    </plurals>
     <plurals name="talkback_prompt_setting_revoke_positive_countdown">
         <item quantity="one">You can withdraw consent in %1$d second.</item>
         <item quantity="other">You can withdraw consent in %1$d seconds.</item>
