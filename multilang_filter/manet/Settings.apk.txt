@@ -121,7 +121,6 @@ Removed: [fa] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_summaries (wron
 Removed: [fa] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (wrong item count)
 Removed: [fa] arrays.xml: array/bluetooth_a2dp_codec_summaries (wrong item count)
 Removed: [fa] arrays.xml: array/bluetooth_a2dp_codec_titles (wrong item count)
-Removed: [hr] arrays.xml: array/wifi_signal (wrong item count)
 Removed: [it] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_summaries (wrong item count)
 Removed: [it] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (wrong item count)
 Removed: [it] arrays.xml: array/bluetooth_a2dp_codec_summaries (wrong item count)
