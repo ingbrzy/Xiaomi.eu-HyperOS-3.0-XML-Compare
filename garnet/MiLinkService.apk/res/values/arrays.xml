@@ -70,6 +70,11 @@
         <item>IDM_MC_ADV_MODE_HIGH</item>
         <item>IDM_MC_ADV_MODE_CLOSE</item>
     </string-array>
+    <string-array name="check_upgrade_package_name">
+        <item>com.xiaomi.mirror</item>
+        <item>com.xiaomi.mis</item>
+        <item>com.xiaomi.mi_connect_service</item>
+    </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>
@@ -342,6 +347,11 @@
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="settings_search_connect_car">
+        <item>Combine apps</item>
+        <item>Interconnectivity/Combine apps</item>
+        <item>Car features</item>
+    </string-array>
     <string-array name="settings_search_connection_home">
         <item>Interconnectivity</item>
         <item>Interconnectivity/Interconnectivity</item>
@@ -361,6 +371,11 @@
         <item>Xiaomi Share</item>
         <item>Interconnectivity/Xiaomi Share</item>
         <item>Xiaomi Share</item>
+    </string-array>
+    <string-array name="settings_search_mi_share_tap_share">
+        <item>Touch to share</item>
+        <item>Interconnectivity/Touch to share</item>
+        <item>Touch to share</item>
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>App handoff</item>
@@ -421,6 +436,11 @@
         <item>Cross-device notifications</item>
         <item>Interconnectivity/Notifications</item>
         <item>Cross-device notifications</item>
+    </string-array>
+    <string-array name="settings_search_unlock_device">
+        <item>Cross-device unlocking</item>
+        <item>Interconnectivity/Cross-device unlocking</item>
+        <item>Cross-device unlocking</item>
     </string-array>
     <string-array name="settings_search_upay">
         <item>Cross-device payments</item>
